@@ -1,0 +1,2631 @@
+complaint_id,customer_id,complaint_date,complaint_category,complaint_channel,resolution_time_hours,complaint_status,severity
+Q00000001,C000001,2024-09-06,Internet,Store,19.3,Resolved,Low
+Q00000002,C000004,2026-06-01,Network,Call Center,1.3,Resolved,Medium
+Q00000003,C000016,2026-07-13,Other,Call Center,7.5,Resolved,Medium
+Q00000004,C000018,2025-05-11,Customer Service,Call Center,9.5,Resolved,Low
+Q00000005,C000029,2025-07-12,Other,Call Center,22.6,Resolved,Medium
+Q00000006,C000029,2026-05-19,Network,Call Center,8.0,Resolved,Low
+Q00000007,C000029,2025-02-17,Billing,Call Center,1.1,Open,Medium
+Q00000008,C000033,2026-06-10,Network,Store,11.6,Resolved,Medium
+Q00000009,C000036,2026-06-17,Billing,Store,15.4,Resolved,Low
+Q00000010,C000036,2026-05-14,Billing,Call Center,27.4,Resolved,Low
+Q00000011,C000041,2024-08-25,Customer Service,Call Center,14.2,Resolved,Low
+Q00000012,C000042,2026-02-19,Customer Service,Call Center,27.7,Resolved,Low
+Q00000013,C000043,2024-10-30,Customer Service,App,13.4,Open,Low
+Q00000014,C000047,2026-05-13,Call Quality,Web,16.2,Resolved,Medium
+Q00000015,C000053,2025-07-28,Network,Call Center,27.9,Resolved,High
+Q00000016,C000057,2025-10-25,Recharge,Web,15.1,Resolved,Low
+Q00000017,C000057,2026-02-15,Customer Service,Web,4.4,Resolved,Medium
+Q00000018,C000063,2022-04-10,Network,Web,22.2,Resolved,Low
+Q00000019,C000073,2026-01-13,Customer Service,Call Center,0.9,Resolved,Low
+Q00000020,C000074,2026-08-22,Internet,Web,4.0,Resolved,Low
+Q00000021,C000077,2025-11-28,Network,Store,24.9,Resolved,Medium
+Q00000022,C000078,2023-04-21,Internet,Call Center,13.4,Resolved,Low
+Q00000023,C000078,2025-08-26,Internet,Call Center,30.9,Open,Low
+Q00000024,C000082,2025-12-13,Billing,Call Center,27.8,Escalated,Low
+Q00000025,C000083,2026-01-02,Other,Web,20.7,Resolved,Low
+Q00000026,C000083,2026-06-27,Customer Service,Store,8.7,Resolved,Low
+Q00000027,C000091,2025-08-07,Internet,Call Center,13.7,Resolved,Low
+Q00000028,C000092,2023-11-03,Recharge,Web,16.3,Resolved,Low
+Q00000029,C000100,2024-06-27,Billing,App,20.7,Open,Low
+Q00000030,C000101,2025-10-30,Call Quality,Call Center,3.9,Resolved,Medium
+Q00000031,C000105,2022-04-25,Billing,Call Center,13.3,Resolved,Medium
+Q00000032,C000106,2026-03-22,Call Quality,Web,11.7,Resolved,Medium
+Q00000033,C000113,2026-01-31,Network,Call Center,4.2,Open,Low
+Q00000034,C000126,2022-09-09,Billing,App,17.4,Resolved,Low
+Q00000035,C000128,2024-07-21,Other,Call Center,15.7,Resolved,Low
+Q00000036,C000136,2026-04-26,Billing,Call Center,8.6,Resolved,Low
+Q00000037,C000136,2026-04-14,Internet,App,11.4,Resolved,Low
+Q00000038,C000137,2026-02-23,Call Quality,Call Center,13.1,Open,Medium
+Q00000039,C000148,2026-03-12,Internet,Call Center,13.5,Resolved,Medium
+Q00000040,C000150,2025-11-26,Call Quality,App,16.7,Resolved,Low
+Q00000041,C000158,2026-05-12,Billing,App,8.4,Resolved,Low
+Q00000042,C000160,2026-04-17,Internet,Web,13.8,Resolved,Low
+Q00000043,C000162,2026-08-08,Call Quality,Call Center,24.3,Resolved,Low
+Q00000044,C000162,2026-07-08,Network,Store,24.0,Resolved,Low
+Q00000045,C000175,2024-05-11,Call Quality,Call Center,35.5,Resolved,Low
+Q00000046,C000180,2025-09-10,Call Quality,Call Center,12.6,Resolved,Low
+Q00000047,C000191,2025-10-02,Other,App,3.2,Open,Low
+Q00000048,C000195,2026-02-18,Internet,Store,17.7,Open,Medium
+Q00000049,C000198,2025-12-18,Call Quality,Web,15.1,Resolved,Low
+Q00000050,C000200,2026-03-09,Network,Call Center,18.2,Resolved,Medium
+Q00000051,C000202,2024-12-29,Billing,Web,15.7,Open,Medium
+Q00000052,C000203,2026-01-15,Billing,App,11.0,Resolved,Low
+Q00000053,C000205,2026-04-12,Network,Call Center,9.3,Resolved,Medium
+Q00000054,C000208,2025-11-09,Billing,Call Center,25.4,Resolved,Low
+Q00000055,C000212,2026-05-10,Billing,Store,7.5,Resolved,Low
+Q00000056,C000233,2026-03-14,Other,Call Center,14.6,Resolved,Low
+Q00000057,C000239,2025-02-10,Network,Web,16.4,Resolved,Low
+Q00000058,C000244,2024-03-26,Network,App,13.1,Resolved,Low
+Q00000059,C000244,2026-06-27,Call Quality,Web,11.4,Resolved,Medium
+Q00000060,C000256,2026-03-20,Internet,Call Center,20.9,Resolved,High
+Q00000061,C000257,2026-02-24,Call Quality,Call Center,9.3,Resolved,Low
+Q00000062,C000257,2026-03-14,Billing,App,17.1,Resolved,Low
+Q00000063,C000261,2026-05-28,Network,Call Center,14.1,Resolved,Medium
+Q00000064,C000263,2025-10-13,Customer Service,Store,16.3,Resolved,Medium
+Q00000065,C000272,2024-04-30,Billing,Call Center,12.0,Resolved,Low
+Q00000066,C000272,2026-04-28,Network,Call Center,12.9,Resolved,High
+Q00000067,C000273,2025-10-09,Internet,Store,10.8,Resolved,Low
+Q00000068,C000276,2026-03-01,Internet,Call Center,37.6,Resolved,Medium
+Q00000069,C000277,2026-06-26,Internet,Web,12.9,Resolved,Medium
+Q00000070,C000281,2026-07-16,Internet,Call Center,8.6,Resolved,Medium
+Q00000071,C000282,2024-05-29,Billing,App,3.2,Resolved,Low
+Q00000072,C000282,2025-06-12,Internet,App,12.4,Resolved,Low
+Q00000073,C000285,2025-07-17,Network,Call Center,8.4,Resolved,Low
+Q00000074,C000286,2026-07-29,Internet,Web,10.3,Resolved,Medium
+Q00000075,C000288,2026-08-25,Other,Web,3.8,Resolved,Low
+Q00000076,C000288,2026-04-20,Internet,Call Center,19.9,Resolved,Medium
+Q00000077,C000306,2025-09-06,Network,Store,7.0,Open,Low
+Q00000078,C000308,2026-04-03,Network,Call Center,0.5,Resolved,Low
+Q00000079,C000318,2026-06-02,Network,Store,9.1,Resolved,Medium
+Q00000080,C000329,2025-04-20,Billing,Call Center,17.6,Resolved,Medium
+Q00000081,C000330,2026-02-05,Internet,Web,29.6,Resolved,Medium
+Q00000082,C000336,2026-05-18,Call Quality,App,30.0,Resolved,Medium
+Q00000083,C000341,2024-12-07,Internet,Call Center,11.5,Resolved,Medium
+Q00000084,C000342,2026-03-02,Network,Call Center,15.6,Resolved,Low
+Q00000085,C000342,2026-02-19,Call Quality,App,23.8,Resolved,Low
+Q00000086,C000362,2026-04-23,Internet,App,4.3,Open,Medium
+Q00000087,C000363,2026-05-06,Call Quality,Call Center,20.9,Resolved,Low
+Q00000088,C000363,2026-07-31,Network,Call Center,14.4,Open,Low
+Q00000089,C000376,2023-03-01,Recharge,Store,9.2,Resolved,Medium
+Q00000090,C000393,2025-11-09,Internet,Web,12.2,Open,Low
+Q00000091,C000396,2026-02-03,Network,Web,3.3,Resolved,Low
+Q00000092,C000400,2026-03-28,Customer Service,Store,23.9,Resolved,Medium
+Q00000093,C000411,2026-07-10,Network,App,13.6,Resolved,Low
+Q00000094,C000420,2025-11-06,Network,Web,12.1,Resolved,Low
+Q00000095,C000421,2025-03-27,Network,App,14.9,Resolved,Medium
+Q00000096,C000421,2024-07-14,Network,App,18.6,Resolved,Low
+Q00000097,C000435,2026-04-14,Internet,App,20.2,Resolved,Low
+Q00000098,C000450,2026-01-16,Network,App,3.1,Resolved,Low
+Q00000099,C000454,2025-03-18,Network,Call Center,8.8,Resolved,Low
+Q00000100,C000470,2023-07-20,Recharge,Call Center,22.9,Resolved,Medium
+Q00000101,C000476,2025-08-26,Network,Call Center,22.9,Resolved,Low
+Q00000102,C000476,2025-05-02,Recharge,Call Center,5.3,Resolved,Medium
+Q00000103,C000480,2026-04-06,Recharge,App,10.8,Resolved,Low
+Q00000104,C000482,2026-05-02,Network,Call Center,0.7,Resolved,Low
+Q00000105,C000491,2026-04-16,Billing,Call Center,23.7,Resolved,Medium
+Q00000106,C000492,2022-10-30,Call Quality,Web,14.3,Resolved,High
+Q00000107,C000499,2025-03-22,Recharge,Web,19.7,Resolved,Low
+Q00000108,C000499,2026-07-11,Call Quality,Call Center,26.3,Resolved,Low
+Q00000109,C000499,2026-05-06,Internet,Web,27.1,Resolved,High
+Q00000110,C000503,2023-12-21,Billing,App,14.7,Resolved,Medium
+Q00000111,C000505,2024-08-01,Call Quality,App,26.6,Resolved,Low
+Q00000112,C000515,2025-09-02,Internet,Call Center,15.3,Resolved,Low
+Q00000113,C000516,2026-03-31,Internet,Call Center,2.5,Resolved,Medium
+Q00000114,C000518,2025-08-21,Other,Call Center,13.4,Resolved,Low
+Q00000115,C000519,2025-11-01,Billing,Web,4.9,Resolved,High
+Q00000116,C000523,2026-07-09,Billing,Call Center,5.8,Resolved,Medium
+Q00000117,C000532,2025-09-28,Network,App,9.9,Resolved,Medium
+Q00000118,C000532,2025-11-15,Recharge,Call Center,16.0,Resolved,Medium
+Q00000119,C000536,2026-01-24,Customer Service,Call Center,11.0,Open,Low
+Q00000120,C000543,2026-07-03,Network,App,11.7,Resolved,Low
+Q00000121,C000543,2026-07-18,Customer Service,Store,1.4,Resolved,Low
+Q00000122,C000544,2024-03-18,Call Quality,App,10.2,Resolved,Low
+Q00000123,C000550,2026-04-12,Billing,Web,12.4,Escalated,Medium
+Q00000124,C000551,2026-03-27,Network,App,20.8,Open,Low
+Q00000125,C000554,2024-03-05,Network,App,23.5,Resolved,Medium
+Q00000126,C000571,2023-03-20,Network,Call Center,11.8,Resolved,Low
+Q00000127,C000576,2026-03-01,Call Quality,Call Center,1.3,Resolved,Low
+Q00000128,C000578,2025-05-23,Billing,Call Center,8.7,Resolved,Low
+Q00000129,C000580,2026-05-17,Customer Service,App,9.2,Resolved,Low
+Q00000130,C000582,2025-05-27,Network,Call Center,15.8,Resolved,Medium
+Q00000131,C000589,2026-03-07,Billing,App,7.2,Open,Medium
+Q00000132,C000591,2025-11-26,Network,Call Center,6.1,Resolved,Medium
+Q00000133,C000593,2024-06-24,Internet,App,7.9,Resolved,Low
+Q00000134,C000593,2024-08-02,Recharge,Call Center,23.6,Resolved,Medium
+Q00000135,C000601,2026-02-20,Network,App,7.7,Resolved,Medium
+Q00000136,C000605,2026-03-08,Network,Web,13.5,Resolved,Low
+Q00000137,C000616,2026-02-14,Customer Service,Web,12.6,Resolved,Medium
+Q00000138,C000622,2023-03-19,Billing,App,32.0,Resolved,Low
+Q00000139,C000623,2026-07-14,Billing,Web,34.1,Resolved,Medium
+Q00000140,C000633,2026-07-09,Call Quality,Call Center,1.9,Resolved,Low
+Q00000141,C000634,2026-05-14,Network,Call Center,6.7,Resolved,Medium
+Q00000142,C000637,2026-03-02,Customer Service,Web,25.2,Resolved,Medium
+Q00000143,C000637,2026-05-04,Network,Call Center,29.7,Escalated,Medium
+Q00000144,C000641,2026-05-01,Network,App,39.8,Escalated,Medium
+Q00000145,C000642,2024-03-03,Network,Call Center,16.0,Resolved,Low
+Q00000146,C000644,2026-02-04,Other,Call Center,6.4,Resolved,Low
+Q00000147,C000657,2023-09-16,Network,Web,10.7,Resolved,Low
+Q00000148,C000658,2026-05-26,Recharge,Call Center,10.2,Resolved,High
+Q00000149,C000665,2024-05-24,Internet,App,5.0,Resolved,Medium
+Q00000150,C000673,2026-04-19,Network,Store,10.3,Resolved,High
+Q00000151,C000678,2026-04-12,Customer Service,Call Center,13.8,Resolved,Low
+Q00000152,C000688,2026-01-06,Recharge,App,13.4,Resolved,Low
+Q00000153,C000708,2025-09-13,Internet,Call Center,13.8,Resolved,Low
+Q00000154,C000708,2026-06-14,Internet,Web,21.4,Open,Medium
+Q00000155,C000710,2026-06-13,Billing,App,7.4,Resolved,Low
+Q00000156,C000710,2026-05-20,Customer Service,App,2.1,Resolved,Low
+Q00000157,C000722,2025-11-19,Billing,Call Center,20.2,Escalated,Medium
+Q00000158,C000725,2026-01-05,Recharge,Call Center,2.2,Resolved,Medium
+Q00000159,C000727,2023-12-05,Call Quality,Web,11.3,Resolved,Low
+Q00000160,C000729,2026-06-14,Other,Call Center,3.6,Resolved,High
+Q00000161,C000734,2026-04-14,Recharge,Call Center,47.2,Resolved,Low
+Q00000162,C000738,2026-05-04,Call Quality,App,7.2,Resolved,Medium
+Q00000163,C000744,2026-02-01,Other,Web,28.2,Open,Low
+Q00000164,C000755,2025-10-31,Billing,Call Center,9.2,Resolved,Low
+Q00000165,C000758,2026-04-13,Network,Store,20.0,Resolved,Low
+Q00000166,C000762,2025-08-14,Internet,App,19.7,Resolved,Low
+Q00000167,C000763,2025-11-27,Network,Call Center,32.4,Resolved,Low
+Q00000168,C000796,2026-01-20,Recharge,Web,22.7,Resolved,Medium
+Q00000169,C000801,2026-01-11,Network,Web,29.9,Resolved,High
+Q00000170,C000802,2026-04-21,Network,Store,11.1,Resolved,Low
+Q00000171,C000810,2024-05-31,Network,Web,22.7,Resolved,Low
+Q00000172,C000814,2026-03-04,Other,Web,21.1,Resolved,Low
+Q00000173,C000819,2023-12-07,Billing,Web,12.7,Resolved,Medium
+Q00000174,C000820,2025-01-12,Network,Call Center,8.5,Resolved,Low
+Q00000175,C000825,2026-07-08,Internet,Call Center,12.1,Resolved,Low
+Q00000176,C000831,2026-07-13,Call Quality,Call Center,12.0,Resolved,Low
+Q00000177,C000838,2024-09-05,Billing,App,17.6,Resolved,Medium
+Q00000178,C000847,2025-10-22,Network,Call Center,12.4,Resolved,Low
+Q00000179,C000847,2025-06-03,Recharge,Call Center,9.4,Resolved,Low
+Q00000180,C000849,2025-05-19,Network,Web,16.2,Resolved,Medium
+Q00000181,C000851,2026-05-16,Billing,Call Center,30.8,Resolved,Medium
+Q00000182,C000852,2023-10-02,Internet,Call Center,5.5,Resolved,Low
+Q00000183,C000855,2023-12-15,Billing,Call Center,9.4,Open,Low
+Q00000184,C000859,2023-08-25,Network,Call Center,6.2,Resolved,Low
+Q00000185,C000864,2025-03-11,Call Quality,App,10.4,Open,Medium
+Q00000186,C000867,2026-04-20,Recharge,Call Center,9.3,Resolved,Medium
+Q00000187,C000868,2024-05-15,Internet,Call Center,16.1,Resolved,Low
+Q00000188,C000879,2026-04-16,Billing,App,27.3,Resolved,Low
+Q00000189,C000880,2026-06-02,Internet,Call Center,17.5,Resolved,Low
+Q00000190,C000886,2026-03-15,Billing,App,25.2,Resolved,Low
+Q00000191,C000887,2026-02-10,Network,Call Center,4.1,Resolved,Low
+Q00000192,C000888,2026-05-14,Network,Call Center,22.1,Resolved,Medium
+Q00000193,C000894,2025-09-20,Network,Call Center,30.1,Open,Medium
+Q00000194,C000895,2026-04-01,Customer Service,App,9.4,Resolved,Medium
+Q00000195,C000896,2026-01-29,Network,App,12.8,Resolved,Low
+Q00000196,C000898,2024-01-11,Network,Call Center,29.2,Resolved,Medium
+Q00000197,C000902,2025-03-17,Internet,Web,22.9,Resolved,Low
+Q00000198,C000921,2026-06-02,Network,Web,17.5,Resolved,High
+Q00000199,C000928,2026-04-07,Network,Web,1.5,Resolved,High
+Q00000200,C000932,2026-05-01,Call Quality,Store,6.2,Resolved,Medium
+Q00000201,C000932,2025-11-16,Customer Service,Call Center,20.5,Resolved,Low
+Q00000202,C000934,2026-04-20,Customer Service,Call Center,7.6,Resolved,Medium
+Q00000203,C000938,2025-07-06,Call Quality,App,8.1,Resolved,Low
+Q00000204,C000945,2026-06-10,Network,Call Center,7.0,Resolved,Low
+Q00000205,C000952,2023-09-12,Customer Service,Web,3.9,Open,Medium
+Q00000206,C000953,2024-07-22,Internet,Call Center,23.0,Open,High
+Q00000207,C000957,2024-01-14,Call Quality,Store,26.6,Resolved,Low
+Q00000208,C000958,2025-05-26,Network,App,5.0,Resolved,Low
+Q00000209,C000961,2026-03-25,Customer Service,Store,24.7,Open,Low
+Q00000210,C000961,2026-04-16,Billing,App,17.1,Resolved,Low
+Q00000211,C000965,2025-07-31,Network,Web,6.3,Resolved,Low
+Q00000212,C000970,2025-12-06,Call Quality,Web,9.9,Resolved,Medium
+Q00000213,C000980,2025-07-04,Network,Store,3.4,Resolved,Low
+Q00000214,C000985,2024-03-23,Billing,App,18.0,Resolved,Low
+Q00000215,C000985,2025-08-03,Call Quality,Call Center,15.5,Resolved,Medium
+Q00000216,C000997,2024-10-17,Other,Store,20.1,Resolved,Low
+Q00000217,C001004,2024-08-26,Network,Web,35.6,Resolved,Low
+Q00000218,C001007,2026-05-08,Network,Call Center,10.4,Resolved,Low
+Q00000219,C001017,2024-10-08,Billing,Call Center,9.3,Resolved,Low
+Q00000220,C001018,2026-02-12,Network,Store,9.3,Resolved,Low
+Q00000221,C001018,2025-06-20,Billing,Call Center,5.9,Resolved,Low
+Q00000222,C001024,2026-06-29,Other,Call Center,19.1,Resolved,Medium
+Q00000223,C001028,2026-03-27,Network,App,16.4,Escalated,Medium
+Q00000224,C001029,2024-12-25,Billing,Call Center,16.0,Resolved,High
+Q00000225,C001033,2026-06-16,Call Quality,Call Center,3.6,Resolved,Medium
+Q00000226,C001034,2025-10-24,Customer Service,Call Center,17.4,Open,Low
+Q00000227,C001043,2026-05-17,Internet,Web,8.4,Resolved,Medium
+Q00000228,C001044,2026-02-15,Call Quality,App,28.2,Resolved,Medium
+Q00000229,C001048,2022-12-15,Network,Call Center,27.6,Resolved,Low
+Q00000230,C001051,2026-05-04,Internet,App,14.5,Resolved,Medium
+Q00000231,C001052,2026-01-17,Network,Call Center,20.2,Resolved,Low
+Q00000232,C001061,2026-05-25,Call Quality,Call Center,17.8,Resolved,Low
+Q00000233,C001064,2026-05-15,Customer Service,App,9.9,Resolved,Low
+Q00000234,C001070,2025-09-28,Call Quality,Call Center,12.4,Resolved,Medium
+Q00000235,C001070,2026-08-02,Network,Call Center,14.6,Resolved,Medium
+Q00000236,C001071,2025-09-30,Customer Service,App,13.5,Resolved,Medium
+Q00000237,C001075,2025-03-19,Customer Service,Call Center,16.2,Resolved,Low
+Q00000238,C001083,2026-04-07,Recharge,Call Center,14.4,Resolved,Medium
+Q00000239,C001087,2026-06-26,Internet,Call Center,11.9,Resolved,Low
+Q00000240,C001094,2026-02-14,Customer Service,Store,29.2,Resolved,Low
+Q00000241,C001102,2026-04-02,Recharge,Web,20.6,Resolved,Low
+Q00000242,C001116,2026-05-11,Customer Service,Web,21.2,Resolved,Low
+Q00000243,C001126,2025-11-03,Network,Web,15.1,Resolved,Medium
+Q00000244,C001127,2024-11-25,Customer Service,Call Center,16.9,Resolved,High
+Q00000245,C001128,2026-05-02,Call Quality,Web,9.3,Resolved,Low
+Q00000246,C001128,2026-06-24,Call Quality,Call Center,6.0,Resolved,Low
+Q00000247,C001129,2025-01-26,Internet,Call Center,8.8,Resolved,High
+Q00000248,C001142,2026-06-14,Call Quality,App,18.1,Open,Medium
+Q00000249,C001160,2026-02-26,Network,App,10.9,Resolved,Low
+Q00000250,C001160,2026-01-05,Call Quality,Call Center,7.5,Resolved,Medium
+Q00000251,C001165,2026-05-12,Recharge,Web,10.9,Resolved,Low
+Q00000252,C001165,2026-06-15,Call Quality,App,5.3,Resolved,High
+Q00000253,C001169,2025-01-13,Internet,Call Center,21.0,Resolved,Low
+Q00000254,C001170,2026-04-23,Other,Store,13.4,Resolved,Low
+Q00000255,C001175,2025-12-25,Customer Service,Call Center,23.2,Open,Low
+Q00000256,C001177,2024-12-14,Call Quality,App,11.9,Resolved,Low
+Q00000257,C001208,2025-02-20,Customer Service,Store,13.9,Resolved,Medium
+Q00000258,C001209,2026-01-29,Network,Call Center,16.2,Resolved,Low
+Q00000259,C001211,2025-11-08,Billing,Call Center,17.0,Resolved,Low
+Q00000260,C001212,2026-06-04,Call Quality,Call Center,25.5,Resolved,Low
+Q00000261,C001219,2026-05-23,Network,Call Center,4.2,Resolved,Low
+Q00000262,C001220,2023-12-07,Network,App,3.4,Resolved,Medium
+Q00000263,C001223,2024-08-08,Network,Web,5.0,Resolved,Low
+Q00000264,C001237,2026-06-10,Network,Store,17.2,Resolved,Low
+Q00000265,C001237,2026-01-03,Network,Store,13.2,Open,Medium
+Q00000266,C001243,2022-05-16,Network,Web,12.5,Resolved,Low
+Q00000267,C001244,2023-05-20,Customer Service,App,4.0,Resolved,Low
+Q00000268,C001247,2026-02-01,Network,App,13.1,Resolved,Low
+Q00000269,C001248,2023-07-23,Call Quality,App,22.5,Resolved,Medium
+Q00000270,C001263,2026-03-27,Call Quality,Store,24.1,Resolved,Low
+Q00000271,C001266,2025-07-26,Network,Call Center,7.3,Resolved,Medium
+Q00000272,C001272,2026-05-15,Billing,Call Center,21.3,Resolved,Medium
+Q00000273,C001276,2026-05-21,Billing,Call Center,4.7,Escalated,Low
+Q00000274,C001290,2023-09-05,Internet,Store,9.9,Resolved,Low
+Q00000275,C001297,2025-10-30,Network,Call Center,24.2,Open,Low
+Q00000276,C001305,2024-03-15,Network,Call Center,13.9,Resolved,High
+Q00000277,C001310,2025-07-28,Internet,App,6.1,Resolved,High
+Q00000278,C001310,2024-12-21,Recharge,App,11.3,Resolved,Low
+Q00000279,C001317,2025-03-23,Billing,Web,13.6,Open,Low
+Q00000280,C001319,2025-02-26,Network,Call Center,4.5,Open,Low
+Q00000281,C001322,2025-01-10,Network,Store,14.8,Open,Low
+Q00000282,C001325,2026-01-31,Other,App,12.4,Resolved,Low
+Q00000283,C001327,2026-01-10,Call Quality,Store,18.9,Resolved,Low
+Q00000284,C001342,2025-09-07,Internet,Call Center,4.0,Resolved,Medium
+Q00000285,C001343,2025-06-16,Billing,Store,12.5,Resolved,Low
+Q00000286,C001345,2024-10-22,Internet,App,19.4,Resolved,Medium
+Q00000287,C001355,2024-03-07,Network,Call Center,20.9,Resolved,Medium
+Q00000288,C001358,2025-01-03,Network,App,10.6,Resolved,High
+Q00000289,C001358,2026-08-12,Network,Store,31.8,Resolved,Low
+Q00000290,C001362,2026-02-11,Other,Store,11.5,Resolved,Low
+Q00000291,C001366,2026-01-13,Recharge,Store,18.3,Resolved,High
+Q00000292,C001380,2025-09-13,Internet,App,23.0,Open,Medium
+Q00000293,C001386,2026-06-16,Customer Service,Call Center,9.8,Resolved,Medium
+Q00000294,C001396,2026-05-03,Customer Service,Web,21.0,Resolved,Low
+Q00000295,C001402,2026-06-16,Network,Store,12.3,Resolved,Low
+Q00000296,C001410,2026-01-11,Network,Call Center,32.0,Resolved,Low
+Q00000297,C001410,2026-03-19,Network,Call Center,16.0,Resolved,Medium
+Q00000298,C001415,2025-06-09,Network,Store,42.7,Resolved,Medium
+Q00000299,C001422,2026-01-14,Call Quality,Call Center,10.0,Resolved,Low
+Q00000300,C001427,2026-05-29,Billing,App,17.0,Resolved,Low
+Q00000301,C001429,2026-03-16,Network,App,20.8,Resolved,Medium
+Q00000302,C001436,2023-12-21,Billing,Call Center,16.2,Resolved,Low
+Q00000303,C001442,2024-05-06,Call Quality,Call Center,14.6,Resolved,Medium
+Q00000304,C001443,2022-08-16,Call Quality,Web,6.1,Escalated,Medium
+Q00000305,C001445,2024-11-09,Billing,App,20.4,Escalated,Medium
+Q00000306,C001446,2025-12-01,Network,App,14.5,Resolved,Medium
+Q00000307,C001446,2023-12-19,Network,Call Center,2.4,Resolved,Medium
+Q00000308,C001455,2022-07-23,Call Quality,Web,17.0,Resolved,Medium
+Q00000309,C001461,2025-05-10,Billing,App,5.8,Resolved,Low
+Q00000310,C001464,2026-07-10,Recharge,Store,32.2,Resolved,Medium
+Q00000311,C001471,2026-04-20,Call Quality,Call Center,6.2,Resolved,Medium
+Q00000312,C001474,2026-01-11,Network,Web,6.5,Resolved,Medium
+Q00000313,C001479,2024-05-24,Network,Web,5.2,Resolved,Medium
+Q00000314,C001479,2025-05-27,Network,Call Center,25.9,Resolved,Low
+Q00000315,C001481,2026-05-06,Internet,App,20.4,Resolved,Low
+Q00000316,C001488,2025-05-20,Network,App,8.6,Resolved,Medium
+Q00000317,C001491,2025-08-13,Billing,App,17.2,Escalated,Low
+Q00000318,C001495,2025-01-23,Customer Service,App,5.6,Resolved,Medium
+Q00000319,C001495,2022-11-23,Internet,App,11.6,Resolved,Medium
+Q00000320,C001506,2026-04-17,Internet,Call Center,11.6,Resolved,Low
+Q00000321,C001518,2022-10-06,Internet,App,3.2,Resolved,Medium
+Q00000322,C001525,2025-01-29,Billing,Call Center,8.2,Resolved,Low
+Q00000323,C001528,2025-08-17,Network,Call Center,6.5,Open,High
+Q00000324,C001530,2026-07-09,Recharge,Call Center,4.0,Resolved,Low
+Q00000325,C001530,2026-02-23,Call Quality,App,33.5,Resolved,Medium
+Q00000326,C001552,2025-03-23,Internet,Call Center,32.1,Open,Medium
+Q00000327,C001553,2024-01-13,Billing,Call Center,7.0,Resolved,High
+Q00000328,C001559,2025-06-29,Billing,Call Center,8.6,Resolved,Medium
+Q00000329,C001559,2024-08-10,Other,Store,12.8,Resolved,Medium
+Q00000330,C001562,2026-02-11,Billing,Web,14.5,Resolved,Medium
+Q00000331,C001567,2026-01-31,Other,Call Center,5.5,Resolved,High
+Q00000332,C001570,2026-07-10,Internet,App,8.8,Resolved,Low
+Q00000333,C001570,2025-09-03,Call Quality,Web,7.5,Resolved,Medium
+Q00000334,C001573,2026-04-13,Other,App,7.1,Resolved,Medium
+Q00000335,C001574,2025-09-20,Call Quality,Call Center,13.1,Escalated,Low
+Q00000336,C001574,2026-01-18,Billing,App,15.7,Resolved,Low
+Q00000337,C001575,2024-08-27,Network,Call Center,19.3,Resolved,Low
+Q00000338,C001582,2025-08-12,Billing,App,19.0,Escalated,Low
+Q00000339,C001589,2026-04-24,Customer Service,Web,28.7,Resolved,Low
+Q00000340,C001592,2022-11-12,Network,App,7.2,Resolved,Low
+Q00000341,C001595,2026-01-28,Call Quality,Call Center,26.2,Resolved,Low
+Q00000342,C001601,2023-05-18,Customer Service,Store,10.5,Resolved,Medium
+Q00000343,C001611,2022-09-25,Network,App,26.2,Resolved,Medium
+Q00000344,C001611,2023-09-15,Customer Service,Store,9.1,Resolved,Low
+Q00000345,C001617,2026-08-15,Recharge,Call Center,13.2,Open,Low
+Q00000346,C001622,2026-06-17,Internet,Web,5.5,Open,Medium
+Q00000347,C001652,2026-05-19,Internet,App,25.1,Resolved,Low
+Q00000348,C001654,2026-04-18,Network,Call Center,7.3,Resolved,Medium
+Q00000349,C001664,2026-03-14,Recharge,Web,5.7,Resolved,Low
+Q00000350,C001684,2026-02-16,Recharge,Call Center,1.6,Resolved,Medium
+Q00000351,C001696,2026-04-15,Network,App,4.4,Resolved,Low
+Q00000352,C001697,2023-07-08,Customer Service,Call Center,7.4,Resolved,Low
+Q00000353,C001699,2026-04-24,Internet,Call Center,9.4,Resolved,Low
+Q00000354,C001700,2024-11-20,Customer Service,Web,20.0,Open,Medium
+Q00000355,C001702,2024-09-06,Billing,Call Center,51.0,Resolved,Low
+Q00000356,C001704,2024-05-19,Internet,Call Center,16.4,Resolved,Low
+Q00000357,C001711,2026-06-01,Network,Call Center,9.2,Open,Medium
+Q00000358,C001720,2023-12-31,Recharge,Call Center,11.9,Resolved,Medium
+Q00000359,C001742,2023-09-23,Billing,Call Center,9.8,Resolved,Low
+Q00000360,C001745,2026-01-11,Other,Call Center,26.6,Resolved,Medium
+Q00000361,C001746,2024-10-13,Network,Call Center,15.4,Resolved,Low
+Q00000362,C001754,2025-12-24,Internet,Call Center,15.7,Resolved,Medium
+Q00000363,C001754,2026-03-01,Other,App,7.5,Resolved,Low
+Q00000364,C001755,2025-11-18,Network,App,15.6,Resolved,Medium
+Q00000365,C001756,2026-04-11,Network,Call Center,34.3,Resolved,Low
+Q00000366,C001756,2026-05-31,Other,App,18.0,Open,Low
+Q00000367,C001758,2025-12-27,Network,App,18.2,Resolved,Medium
+Q00000368,C001759,2024-10-28,Billing,App,24.7,Resolved,Low
+Q00000369,C001765,2026-05-04,Network,Store,16.4,Resolved,Low
+Q00000370,C001769,2025-08-17,Internet,App,29.2,Resolved,Low
+Q00000371,C001772,2026-06-25,Network,Web,37.4,Resolved,Low
+Q00000372,C001773,2025-03-22,Internet,Web,11.9,Resolved,High
+Q00000373,C001773,2025-01-27,Billing,Call Center,20.5,Resolved,Low
+Q00000374,C001778,2026-06-04,Network,Call Center,12.9,Resolved,Low
+Q00000375,C001780,2026-08-05,Billing,Store,22.1,Resolved,Low
+Q00000376,C001792,2026-02-24,Recharge,Call Center,7.1,Resolved,Low
+Q00000377,C001793,2026-04-17,Network,Web,12.8,Resolved,Medium
+Q00000378,C001796,2024-08-16,Network,Call Center,26.7,Resolved,Low
+Q00000379,C001800,2026-04-11,Network,Call Center,7.1,Resolved,Medium
+Q00000380,C001815,2026-04-28,Billing,App,13.7,Resolved,Medium
+Q00000381,C001817,2026-05-09,Customer Service,Store,10.1,Resolved,Low
+Q00000382,C001817,2026-03-20,Network,Call Center,15.8,Resolved,Low
+Q00000383,C001818,2023-07-20,Internet,Call Center,11.1,Resolved,Low
+Q00000384,C001819,2026-01-04,Call Quality,Web,16.3,Open,High
+Q00000385,C001823,2025-08-19,Customer Service,App,16.6,Resolved,Medium
+Q00000386,C001831,2026-03-04,Internet,Web,16.2,Resolved,High
+Q00000387,C001838,2026-03-04,Internet,Call Center,7.5,Resolved,Low
+Q00000388,C001848,2023-09-21,Recharge,Store,7.7,Resolved,Medium
+Q00000389,C001852,2026-08-23,Recharge,Web,11.3,Resolved,Medium
+Q00000390,C001854,2023-10-04,Internet,Store,3.6,Resolved,Medium
+Q00000391,C001854,2023-05-23,Internet,Call Center,20.0,Resolved,High
+Q00000392,C001861,2024-09-06,Billing,Call Center,33.8,Resolved,Low
+Q00000393,C001866,2026-07-09,Billing,App,6.4,Resolved,Medium
+Q00000394,C001868,2026-02-25,Network,Web,16.2,Open,Low
+Q00000395,C001868,2023-01-25,Billing,Call Center,17.0,Resolved,Medium
+Q00000396,C001878,2026-08-18,Billing,App,22.7,Resolved,Medium
+Q00000397,C001885,2023-12-15,Billing,Call Center,18.3,Resolved,Medium
+Q00000398,C001901,2023-10-14,Internet,Store,24.4,Resolved,Medium
+Q00000399,C001911,2025-03-05,Customer Service,Web,20.7,Resolved,Low
+Q00000400,C001917,2026-01-16,Internet,App,7.8,Resolved,Low
+Q00000401,C001929,2026-03-12,Internet,Call Center,14.5,Resolved,Low
+Q00000402,C001933,2025-07-07,Internet,Store,20.2,Resolved,Medium
+Q00000403,C001937,2026-03-14,Network,Store,7.8,Resolved,Low
+Q00000404,C001937,2026-05-13,Network,Call Center,36.0,Resolved,Medium
+Q00000405,C001948,2026-03-22,Internet,App,47.5,Resolved,Low
+Q00000406,C001952,2026-08-06,Other,Call Center,7.5,Resolved,Medium
+Q00000407,C001958,2022-11-08,Other,Store,31.5,Resolved,Low
+Q00000408,C001958,2024-02-03,Customer Service,Store,17.1,Open,Medium
+Q00000409,C001961,2026-05-16,Billing,Call Center,4.9,Resolved,Medium
+Q00000410,C001963,2026-06-10,Internet,Call Center,4.3,Resolved,Low
+Q00000411,C001980,2025-12-10,Network,Call Center,4.3,Open,Medium
+Q00000412,C001983,2024-08-26,Call Quality,Call Center,9.3,Resolved,Medium
+Q00000413,C001985,2026-04-30,Recharge,App,14.6,Open,Medium
+Q00000414,C001995,2026-05-25,Billing,Call Center,12.3,Open,Medium
+Q00000415,C002001,2026-02-24,Call Quality,Web,14.2,Resolved,Low
+Q00000416,C002006,2026-08-02,Call Quality,Web,18.6,Resolved,Low
+Q00000417,C002007,2024-09-22,Recharge,Call Center,22.0,Resolved,High
+Q00000418,C002007,2026-04-05,Internet,App,1.2,Open,Medium
+Q00000419,C002011,2024-12-19,Internet,App,17.3,Resolved,Medium
+Q00000420,C002023,2025-06-08,Network,App,37.8,Escalated,Medium
+Q00000421,C002026,2025-10-31,Billing,Call Center,34.6,Resolved,Low
+Q00000422,C002035,2025-07-22,Internet,App,12.8,Resolved,Low
+Q00000423,C002037,2026-07-31,Network,App,9.1,Open,High
+Q00000424,C002040,2026-07-08,Network,Web,24.8,Resolved,Low
+Q00000425,C002041,2024-06-11,Billing,Web,25.6,Resolved,Low
+Q00000426,C002041,2026-07-01,Call Quality,Web,6.0,Open,Medium
+Q00000427,C002041,2026-07-03,Other,Call Center,6.6,Open,Medium
+Q00000428,C002041,2026-05-23,Billing,Store,0.5,Resolved,Medium
+Q00000429,C002044,2025-06-24,Internet,Call Center,8.0,Resolved,Low
+Q00000430,C002048,2025-05-06,Call Quality,Call Center,24.6,Open,Low
+Q00000431,C002050,2026-04-08,Network,Call Center,20.6,Resolved,Low
+Q00000432,C002054,2026-05-19,Customer Service,Web,4.7,Resolved,Low
+Q00000433,C002056,2026-05-08,Customer Service,App,30.8,Resolved,Low
+Q00000434,C002057,2025-03-10,Billing,Web,46.0,Resolved,Low
+Q00000435,C002062,2026-04-19,Customer Service,Call Center,48.4,Resolved,Low
+Q00000436,C002075,2026-05-20,Billing,Call Center,9.6,Resolved,High
+Q00000437,C002077,2026-07-19,Call Quality,Web,7.6,Resolved,Low
+Q00000438,C002079,2026-04-25,Other,Store,17.1,Resolved,Low
+Q00000439,C002101,2026-06-06,Network,App,20.4,Escalated,Low
+Q00000440,C002102,2026-03-22,Billing,Web,36.7,Resolved,High
+Q00000441,C002103,2025-06-30,Internet,Call Center,7.8,Resolved,Medium
+Q00000442,C002106,2022-07-02,Billing,Call Center,14.9,Resolved,Low
+Q00000443,C002106,2022-08-01,Internet,App,10.9,Resolved,Medium
+Q00000444,C002111,2026-05-02,Network,Web,26.3,Resolved,Medium
+Q00000445,C002115,2026-04-24,Billing,Call Center,22.6,Resolved,Low
+Q00000446,C002115,2026-05-30,Recharge,Web,13.4,Resolved,Low
+Q00000447,C002115,2026-06-21,Internet,Call Center,12.7,Resolved,Medium
+Q00000448,C002118,2025-11-22,Network,App,9.2,Resolved,High
+Q00000449,C002120,2024-02-13,Recharge,App,3.7,Resolved,Low
+Q00000450,C002131,2026-02-04,Billing,App,20.3,Resolved,Low
+Q00000451,C002136,2025-07-07,Internet,App,20.7,Open,High
+Q00000452,C002137,2026-05-30,Other,App,36.1,Resolved,Low
+Q00000453,C002140,2025-11-23,Call Quality,App,7.2,Resolved,Medium
+Q00000454,C002141,2026-06-18,Network,Call Center,4.4,Resolved,Medium
+Q00000455,C002142,2024-10-31,Network,App,17.4,Resolved,Low
+Q00000456,C002152,2024-06-15,Billing,Web,7.1,Resolved,Low
+Q00000457,C002154,2024-07-07,Network,Web,14.3,Resolved,Low
+Q00000458,C002155,2026-03-13,Network,App,10.8,Resolved,Medium
+Q00000459,C002155,2026-05-07,Network,Store,14.9,Resolved,Low
+Q00000460,C002160,2025-03-18,Call Quality,Call Center,3.2,Resolved,High
+Q00000461,C002161,2025-12-03,Call Quality,App,13.8,Resolved,Low
+Q00000462,C002165,2026-06-03,Customer Service,App,7.5,Resolved,Medium
+Q00000463,C002170,2025-01-17,Call Quality,Web,1.8,Resolved,High
+Q00000464,C002171,2023-08-09,Customer Service,Call Center,48.7,Resolved,Medium
+Q00000465,C002172,2026-04-29,Customer Service,Call Center,4.9,Resolved,Medium
+Q00000466,C002174,2026-06-08,Call Quality,App,9.2,Resolved,Medium
+Q00000467,C002179,2025-03-27,Internet,Web,12.7,Resolved,High
+Q00000468,C002183,2025-10-09,Network,Call Center,18.2,Resolved,High
+Q00000469,C002188,2026-06-16,Other,App,17.7,Resolved,Medium
+Q00000470,C002200,2026-05-20,Internet,App,18.0,Resolved,Medium
+Q00000471,C002201,2026-02-03,Network,Call Center,4.1,Resolved,Low
+Q00000472,C002214,2024-12-30,Billing,Web,20.0,Resolved,Medium
+Q00000473,C002217,2026-06-19,Internet,App,12.0,Resolved,Low
+Q00000474,C002219,2025-06-25,Network,Call Center,2.6,Resolved,Medium
+Q00000475,C002219,2024-10-02,Network,Web,7.1,Resolved,Medium
+Q00000476,C002220,2026-03-01,Billing,Web,22.6,Resolved,Low
+Q00000477,C002230,2025-06-07,Network,App,1.6,Resolved,Low
+Q00000478,C002233,2026-03-24,Network,Web,8.6,Resolved,Low
+Q00000479,C002248,2026-02-17,Internet,Store,5.0,Resolved,High
+Q00000480,C002257,2025-12-12,Other,Call Center,15.4,Resolved,Low
+Q00000481,C002263,2024-11-24,Recharge,Call Center,5.4,Resolved,Low
+Q00000482,C002267,2025-02-06,Customer Service,Web,24.2,Resolved,Low
+Q00000483,C002269,2022-09-21,Billing,Call Center,24.8,Escalated,Low
+Q00000484,C002272,2026-01-12,Network,Store,16.2,Resolved,Low
+Q00000485,C002279,2025-12-28,Network,Call Center,9.1,Resolved,Low
+Q00000486,C002302,2025-12-01,Billing,Call Center,15.8,Resolved,Medium
+Q00000487,C002308,2025-07-16,Internet,Store,4.6,Resolved,Low
+Q00000488,C002311,2026-07-17,Recharge,Web,16.6,Resolved,Low
+Q00000489,C002312,2026-01-31,Other,Call Center,5.4,Escalated,Low
+Q00000490,C002316,2026-07-16,Internet,Call Center,14.7,Resolved,Medium
+Q00000491,C002317,2025-08-17,Billing,App,25.0,Escalated,Low
+Q00000492,C002317,2024-10-15,Network,Store,14.3,Resolved,Medium
+Q00000493,C002318,2025-03-24,Customer Service,Call Center,6.3,Escalated,Low
+Q00000494,C002332,2024-08-06,Internet,Web,14.6,Resolved,Medium
+Q00000495,C002332,2024-03-22,Customer Service,App,31.6,Resolved,Low
+Q00000496,C002336,2023-04-13,Customer Service,Call Center,12.7,Resolved,Low
+Q00000497,C002337,2024-03-04,Internet,Call Center,10.5,Resolved,Medium
+Q00000498,C002338,2025-11-29,Customer Service,Web,19.3,Resolved,High
+Q00000499,C002347,2024-11-25,Network,App,3.2,Resolved,Low
+Q00000500,C002349,2026-02-28,Internet,App,13.5,Resolved,Low
+Q00000501,C002351,2026-07-17,Network,Call Center,8.7,Resolved,Low
+Q00000502,C002354,2025-10-16,Other,Store,12.1,Resolved,Medium
+Q00000503,C002366,2026-06-20,Call Quality,Call Center,13.2,Resolved,Low
+Q00000504,C002372,2026-05-19,Billing,Call Center,14.1,Resolved,Low
+Q00000505,C002374,2024-11-12,Network,App,35.2,Resolved,Low
+Q00000506,C002383,2024-11-07,Billing,App,5.7,Resolved,Medium
+Q00000507,C002390,2026-06-02,Billing,Call Center,14.2,Resolved,Medium
+Q00000508,C002392,2026-03-22,Internet,Web,9.1,Open,Low
+Q00000509,C002405,2024-09-28,Internet,Web,7.5,Resolved,Low
+Q00000510,C002409,2026-07-18,Customer Service,Call Center,13.5,Resolved,Medium
+Q00000511,C002422,2026-03-21,Billing,App,18.7,Resolved,Low
+Q00000512,C002432,2026-06-30,Internet,Call Center,10.0,Resolved,High
+Q00000513,C002436,2023-08-04,Network,App,28.6,Open,Medium
+Q00000514,C002436,2024-02-17,Call Quality,App,5.3,Resolved,Low
+Q00000515,C002438,2026-03-26,Internet,Store,6.0,Resolved,High
+Q00000516,C002439,2022-11-29,Call Quality,Call Center,1.3,Resolved,Low
+Q00000517,C002449,2026-02-16,Internet,Store,18.2,Resolved,Medium
+Q00000518,C002455,2026-04-23,Call Quality,Store,3.4,Resolved,Low
+Q00000519,C002459,2026-08-12,Call Quality,App,9.1,Resolved,Medium
+Q00000520,C002466,2026-07-23,Network,Call Center,6.2,Resolved,Low
+Q00000521,C002473,2025-02-18,Billing,Call Center,10.4,Resolved,Low
+Q00000522,C002474,2026-03-01,Billing,Call Center,8.9,Resolved,Low
+Q00000523,C002474,2026-06-17,Call Quality,Web,15.8,Resolved,Low
+Q00000524,C002484,2025-10-12,Billing,Call Center,33.0,Resolved,Low
+Q00000525,C002487,2025-01-22,Recharge,Call Center,8.6,Resolved,Medium
+Q00000526,C002494,2026-06-29,Billing,Call Center,8.3,Resolved,Low
+Q00000527,C002495,2026-07-05,Customer Service,Call Center,12.0,Resolved,Medium
+Q00000528,C002507,2026-04-01,Billing,Call Center,15.6,Resolved,Low
+Q00000529,C002507,2024-05-29,Billing,Call Center,22.4,Open,Low
+Q00000530,C002510,2026-08-12,Call Quality,Store,5.4,Resolved,Low
+Q00000531,C002512,2026-03-07,Network,Store,12.2,Resolved,Low
+Q00000532,C002531,2025-12-07,Internet,App,21.3,Resolved,Low
+Q00000533,C002539,2025-07-02,Recharge,App,16.7,Escalated,Low
+Q00000534,C002540,2024-05-27,Internet,Store,7.4,Resolved,Medium
+Q00000535,C002545,2023-07-06,Internet,Web,1.3,Resolved,Medium
+Q00000536,C002546,2026-07-03,Recharge,Call Center,20.9,Resolved,Medium
+Q00000537,C002554,2026-08-23,Call Quality,Web,6.6,Resolved,Low
+Q00000538,C002556,2025-08-01,Network,Call Center,24.2,Resolved,High
+Q00000539,C002559,2025-07-13,Call Quality,Call Center,13.6,Open,Low
+Q00000540,C002564,2026-05-08,Internet,Call Center,11.9,Resolved,Low
+Q00000541,C002575,2026-02-25,Internet,Web,7.5,Resolved,Low
+Q00000542,C002578,2026-08-24,Network,App,19.5,Resolved,Low
+Q00000543,C002582,2026-07-01,Internet,App,44.7,Resolved,Medium
+Q00000544,C002583,2025-05-20,Internet,Call Center,4.1,Resolved,Low
+Q00000545,C002586,2026-06-08,Recharge,Web,8.4,Resolved,Medium
+Q00000546,C002590,2026-01-17,Call Quality,Web,15.8,Resolved,Medium
+Q00000547,C002605,2026-01-21,Internet,App,18.7,Open,Medium
+Q00000548,C002606,2025-04-10,Internet,App,9.2,Resolved,Low
+Q00000549,C002608,2026-02-09,Call Quality,Call Center,15.2,Resolved,Medium
+Q00000550,C002617,2024-09-07,Network,Store,5.8,Open,Low
+Q00000551,C002624,2024-02-05,Billing,Call Center,18.1,Resolved,Medium
+Q00000552,C002630,2026-06-21,Billing,Web,8.6,Resolved,Low
+Q00000553,C002633,2025-04-11,Billing,Store,11.3,Resolved,High
+Q00000554,C002635,2025-07-10,Internet,Web,25.5,Resolved,Medium
+Q00000555,C002637,2026-05-09,Internet,Call Center,25.2,Resolved,Low
+Q00000556,C002640,2025-11-22,Billing,Store,16.1,Resolved,Medium
+Q00000557,C002658,2026-05-14,Call Quality,Call Center,20.8,Resolved,Medium
+Q00000558,C002667,2026-05-07,Billing,Store,13.3,Open,Low
+Q00000559,C002668,2025-10-11,Call Quality,Web,21.0,Resolved,Low
+Q00000560,C002672,2022-10-15,Recharge,Call Center,5.9,Resolved,Medium
+Q00000561,C002674,2026-01-03,Billing,Store,11.0,Resolved,Low
+Q00000562,C002675,2026-01-23,Recharge,App,13.6,Resolved,High
+Q00000563,C002684,2026-04-15,Call Quality,App,9.4,Resolved,Low
+Q00000564,C002684,2024-11-19,Network,Call Center,14.7,Resolved,Medium
+Q00000565,C002688,2023-11-06,Recharge,Call Center,10.8,Resolved,High
+Q00000566,C002693,2025-01-21,Customer Service,Call Center,13.1,Resolved,Medium
+Q00000567,C002694,2024-04-02,Network,Web,18.5,Resolved,Low
+Q00000568,C002697,2026-08-05,Network,Call Center,14.0,Resolved,Low
+Q00000569,C002700,2026-01-30,Customer Service,Call Center,26.5,Resolved,Low
+Q00000570,C002704,2025-11-17,Recharge,Web,7.0,Resolved,Medium
+Q00000571,C002707,2026-03-16,Billing,Store,45.9,Resolved,Low
+Q00000572,C002713,2026-07-18,Recharge,Web,16.5,Resolved,Low
+Q00000573,C002714,2026-06-26,Internet,App,27.1,Open,Medium
+Q00000574,C002718,2025-04-26,Network,Store,4.3,Resolved,Low
+Q00000575,C002722,2026-04-16,Internet,App,37.4,Resolved,Low
+Q00000576,C002747,2024-08-17,Call Quality,App,12.2,Resolved,Medium
+Q00000577,C002751,2025-03-24,Call Quality,App,11.7,Resolved,Medium
+Q00000578,C002765,2023-10-09,Customer Service,Call Center,10.7,Open,Low
+Q00000579,C002779,2023-09-26,Network,Call Center,31.0,Resolved,Medium
+Q00000580,C002781,2023-06-27,Billing,Call Center,12.4,Resolved,Medium
+Q00000581,C002782,2026-06-19,Call Quality,Call Center,26.8,Open,Low
+Q00000582,C002782,2026-08-02,Other,Web,21.9,Resolved,Low
+Q00000583,C002783,2026-01-01,Other,Call Center,13.5,Resolved,Low
+Q00000584,C002793,2026-04-20,Billing,Web,26.1,Resolved,Low
+Q00000585,C002794,2026-04-19,Customer Service,App,1.3,Escalated,Medium
+Q00000586,C002795,2026-06-11,Network,Call Center,12.2,Resolved,Low
+Q00000587,C002799,2024-03-28,Network,Web,7.5,Resolved,Low
+Q00000588,C002810,2026-02-19,Customer Service,Call Center,15.9,Resolved,Low
+Q00000589,C002817,2025-05-23,Network,Web,3.0,Resolved,Medium
+Q00000590,C002822,2025-01-18,Call Quality,Web,21.8,Resolved,Low
+Q00000591,C002822,2025-05-07,Network,Call Center,9.7,Resolved,Low
+Q00000592,C002823,2026-08-04,Call Quality,Web,10.1,Resolved,Medium
+Q00000593,C002823,2026-07-21,Network,App,14.4,Resolved,Medium
+Q00000594,C002841,2026-07-29,Recharge,Store,22.4,Resolved,Medium
+Q00000595,C002841,2025-03-06,Network,Call Center,8.6,Resolved,Low
+Q00000596,C002843,2026-07-28,Recharge,Web,10.4,Resolved,Medium
+Q00000597,C002850,2025-08-08,Billing,Call Center,27.4,Resolved,Low
+Q00000598,C002858,2026-04-29,Billing,Call Center,9.7,Open,Medium
+Q00000599,C002863,2026-03-06,Customer Service,Call Center,11.2,Resolved,Medium
+Q00000600,C002867,2026-04-30,Recharge,Call Center,17.9,Resolved,Medium
+Q00000601,C002871,2026-07-25,Internet,Call Center,5.7,Open,Low
+Q00000602,C002880,2025-08-29,Billing,App,3.8,Resolved,Medium
+Q00000603,C002883,2025-01-27,Billing,Web,38.6,Resolved,Low
+Q00000604,C002886,2025-08-04,Billing,Call Center,17.1,Resolved,Medium
+Q00000605,C002888,2026-07-08,Internet,Call Center,9.8,Escalated,Low
+Q00000606,C002889,2026-04-03,Customer Service,Call Center,20.3,Resolved,Medium
+Q00000607,C002895,2024-05-27,Call Quality,Call Center,3.6,Resolved,Low
+Q00000608,C002896,2026-06-06,Customer Service,Store,25.0,Resolved,High
+Q00000609,C002896,2026-04-09,Network,Call Center,6.9,Resolved,Low
+Q00000610,C002896,2023-06-30,Internet,Call Center,27.2,Resolved,Medium
+Q00000611,C002901,2026-01-05,Internet,App,6.2,Escalated,Medium
+Q00000612,C002901,2026-02-13,Network,Call Center,16.8,Resolved,Medium
+Q00000613,C002902,2026-03-04,Internet,Web,26.3,Resolved,Low
+Q00000614,C002921,2026-05-03,Recharge,Call Center,13.7,Resolved,Low
+Q00000615,C002921,2024-07-18,Customer Service,Call Center,18.5,Resolved,Medium
+Q00000616,C002924,2026-07-20,Internet,App,5.7,Escalated,Medium
+Q00000617,C002925,2024-03-07,Call Quality,Call Center,6.5,Open,Low
+Q00000618,C002928,2025-06-24,Internet,Call Center,19.2,Resolved,High
+Q00000619,C002942,2026-05-31,Network,Call Center,15.5,Open,Low
+Q00000620,C002945,2026-05-21,Billing,Call Center,2.8,Resolved,High
+Q00000621,C002945,2026-06-01,Other,Web,12.9,Resolved,Low
+Q00000622,C002948,2026-06-19,Internet,Call Center,35.8,Resolved,Medium
+Q00000623,C002962,2025-10-10,Internet,App,14.1,Resolved,Low
+Q00000624,C002969,2026-06-23,Customer Service,App,9.6,Resolved,Low
+Q00000625,C002973,2023-08-28,Other,Call Center,8.3,Resolved,Medium
+Q00000626,C002974,2023-09-13,Network,App,10.1,Resolved,Low
+Q00000627,C002982,2022-07-23,Network,App,26.4,Resolved,Low
+Q00000628,C002986,2026-04-18,Other,App,17.1,Resolved,Medium
+Q00000629,C003003,2026-07-07,Call Quality,Web,7.2,Resolved,Medium
+Q00000630,C003020,2023-11-06,Customer Service,Web,3.1,Resolved,Low
+Q00000631,C003024,2025-04-19,Call Quality,Web,17.7,Resolved,Medium
+Q00000632,C003029,2026-06-23,Customer Service,App,30.6,Resolved,Low
+Q00000633,C003037,2026-04-17,Internet,Store,8.8,Resolved,Low
+Q00000634,C003045,2026-03-25,Customer Service,App,12.5,Resolved,Low
+Q00000635,C003049,2026-04-14,Call Quality,Web,9.5,Resolved,Medium
+Q00000636,C003050,2026-05-27,Customer Service,Web,15.3,Resolved,Low
+Q00000637,C003060,2025-02-22,Call Quality,Store,23.3,Resolved,Medium
+Q00000638,C003062,2026-01-18,Other,Store,19.1,Resolved,Medium
+Q00000639,C003064,2025-10-31,Customer Service,App,9.9,Resolved,Low
+Q00000640,C003067,2026-05-26,Customer Service,App,14.8,Resolved,Medium
+Q00000641,C003069,2026-07-07,Recharge,App,16.3,Resolved,Low
+Q00000642,C003070,2023-01-27,Recharge,App,19.2,Open,Low
+Q00000643,C003076,2026-05-26,Network,Web,16.8,Resolved,Low
+Q00000644,C003089,2024-11-20,Network,Call Center,9.4,Resolved,Medium
+Q00000645,C003092,2024-12-04,Call Quality,Call Center,24.0,Resolved,Low
+Q00000646,C003104,2026-03-11,Billing,App,13.9,Resolved,Low
+Q00000647,C003104,2025-11-26,Call Quality,App,16.3,Resolved,Low
+Q00000648,C003110,2026-06-21,Network,Web,18.8,Resolved,Medium
+Q00000649,C003110,2026-05-22,Billing,Call Center,18.3,Resolved,Low
+Q00000650,C003112,2026-07-12,Internet,Store,2.2,Resolved,Low
+Q00000651,C003112,2024-04-07,Billing,Call Center,19.9,Resolved,Medium
+Q00000652,C003116,2024-01-20,Billing,Web,11.1,Resolved,Low
+Q00000653,C003125,2025-10-19,Call Quality,Web,7.6,Resolved,Low
+Q00000654,C003129,2026-02-22,Call Quality,Call Center,11.9,Resolved,Low
+Q00000655,C003130,2025-09-14,Customer Service,Store,5.4,Resolved,Low
+Q00000656,C003139,2025-11-26,Network,Web,3.9,Resolved,Low
+Q00000657,C003145,2026-04-17,Billing,App,18.3,Resolved,Medium
+Q00000658,C003146,2025-05-29,Customer Service,Call Center,7.5,Resolved,Low
+Q00000659,C003149,2026-03-01,Network,Call Center,36.5,Resolved,Low
+Q00000660,C003154,2026-04-01,Network,Web,16.9,Resolved,Low
+Q00000661,C003157,2026-06-09,Billing,Store,29.2,Resolved,Low
+Q00000662,C003160,2026-04-28,Network,App,10.1,Resolved,Medium
+Q00000663,C003161,2026-04-18,Call Quality,App,13.6,Resolved,Low
+Q00000664,C003165,2023-11-14,Network,Store,11.6,Open,Medium
+Q00000665,C003167,2026-02-08,Recharge,Store,29.8,Resolved,Medium
+Q00000666,C003170,2025-03-31,Customer Service,Web,40.1,Resolved,High
+Q00000667,C003171,2024-12-12,Internet,Call Center,8.8,Resolved,Low
+Q00000668,C003173,2026-03-25,Network,Call Center,5.8,Resolved,High
+Q00000669,C003174,2025-09-04,Network,Call Center,17.3,Resolved,High
+Q00000670,C003181,2026-08-06,Internet,Call Center,7.1,Open,Medium
+Q00000671,C003186,2026-02-15,Network,App,9.0,Resolved,Medium
+Q00000672,C003189,2026-07-23,Customer Service,App,25.6,Resolved,Low
+Q00000673,C003190,2024-10-09,Network,Call Center,0.8,Resolved,Medium
+Q00000674,C003191,2023-10-09,Internet,Web,32.9,Resolved,High
+Q00000675,C003193,2025-01-23,Internet,Call Center,5.8,Resolved,Medium
+Q00000676,C003209,2026-05-17,Customer Service,Call Center,1.5,Resolved,Low
+Q00000677,C003213,2026-07-26,Network,Store,25.6,Resolved,Medium
+Q00000678,C003216,2024-06-08,Network,Call Center,20.7,Resolved,Medium
+Q00000679,C003217,2025-10-26,Network,Call Center,1.9,Resolved,Low
+Q00000680,C003219,2025-03-20,Customer Service,Web,16.8,Resolved,Low
+Q00000681,C003222,2025-03-11,Network,Call Center,31.5,Resolved,Low
+Q00000682,C003234,2026-05-16,Internet,Store,3.9,Resolved,Medium
+Q00000683,C003237,2026-06-21,Other,Call Center,6.8,Resolved,Low
+Q00000684,C003245,2023-06-22,Internet,Call Center,12.0,Resolved,Low
+Q00000685,C003259,2026-02-15,Network,Call Center,5.9,Resolved,Low
+Q00000686,C003264,2026-04-23,Call Quality,App,12.2,Resolved,Low
+Q00000687,C003265,2023-12-30,Other,App,4.1,Resolved,Medium
+Q00000688,C003274,2023-01-12,Network,Call Center,22.5,Open,Medium
+Q00000689,C003279,2026-07-29,Network,Store,29.3,Open,Low
+Q00000690,C003283,2026-03-27,Recharge,Web,11.0,Resolved,Low
+Q00000691,C003298,2026-07-24,Customer Service,Call Center,9.0,Resolved,Low
+Q00000692,C003299,2026-07-15,Recharge,Call Center,6.8,Resolved,Medium
+Q00000693,C003307,2026-07-11,Call Quality,Call Center,9.6,Resolved,Low
+Q00000694,C003312,2026-05-21,Customer Service,Store,21.6,Resolved,Low
+Q00000695,C003315,2026-04-04,Customer Service,Call Center,1.3,Resolved,High
+Q00000696,C003316,2026-08-10,Recharge,Call Center,8.1,Resolved,High
+Q00000697,C003322,2026-05-24,Internet,Call Center,10.8,Resolved,Medium
+Q00000698,C003327,2025-11-12,Recharge,Call Center,11.2,Resolved,Low
+Q00000699,C003328,2024-05-29,Customer Service,App,13.4,Resolved,Low
+Q00000700,C003329,2026-06-29,Recharge,Call Center,4.5,Resolved,Low
+Q00000701,C003334,2025-06-09,Customer Service,Store,7.0,Resolved,High
+Q00000702,C003335,2026-06-09,Customer Service,Call Center,29.3,Resolved,Low
+Q00000703,C003336,2026-06-08,Network,App,9.3,Resolved,Low
+Q00000704,C003338,2026-05-04,Customer Service,App,4.7,Resolved,Low
+Q00000705,C003339,2026-03-01,Billing,Web,5.5,Resolved,Low
+Q00000706,C003349,2026-08-17,Recharge,Call Center,6.5,Escalated,High
+Q00000707,C003352,2024-05-16,Network,Web,21.2,Resolved,High
+Q00000708,C003356,2025-04-03,Billing,Call Center,12.8,Escalated,Low
+Q00000709,C003359,2024-07-26,Call Quality,Store,15.7,Resolved,Medium
+Q00000710,C003368,2026-02-04,Customer Service,Web,21.0,Resolved,Low
+Q00000711,C003375,2023-05-31,Internet,Call Center,13.5,Resolved,Medium
+Q00000712,C003378,2025-06-06,Other,Call Center,11.9,Escalated,Low
+Q00000713,C003378,2024-05-09,Billing,App,16.6,Resolved,Low
+Q00000714,C003383,2025-02-22,Network,App,6.6,Resolved,Low
+Q00000715,C003384,2023-12-30,Billing,Call Center,4.4,Escalated,Low
+Q00000716,C003384,2026-04-11,Network,Call Center,26.4,Resolved,Medium
+Q00000717,C003384,2026-03-17,Recharge,Call Center,3.0,Resolved,High
+Q00000718,C003386,2025-12-15,Network,Web,30.1,Resolved,Low
+Q00000719,C003389,2026-04-15,Internet,Call Center,20.4,Escalated,Low
+Q00000720,C003405,2025-05-30,Internet,App,19.9,Open,Medium
+Q00000721,C003410,2026-08-09,Network,Call Center,22.4,Resolved,Low
+Q00000722,C003412,2026-04-21,Network,Store,51.0,Resolved,Low
+Q00000723,C003415,2025-05-12,Internet,Call Center,9.2,Escalated,Low
+Q00000724,C003441,2024-01-28,Network,Call Center,54.0,Escalated,Low
+Q00000725,C003450,2026-04-11,Network,Call Center,5.2,Resolved,Low
+Q00000726,C003453,2024-01-17,Network,Store,10.7,Resolved,Medium
+Q00000727,C003456,2026-04-28,Network,App,20.4,Resolved,Medium
+Q00000728,C003456,2026-04-22,Internet,Web,14.4,Resolved,High
+Q00000729,C003459,2024-07-08,Recharge,Call Center,6.4,Resolved,Low
+Q00000730,C003463,2025-10-25,Customer Service,Store,36.3,Resolved,Medium
+Q00000731,C003478,2026-08-11,Recharge,Call Center,15.2,Resolved,Low
+Q00000732,C003481,2026-02-17,Customer Service,Web,9.8,Resolved,Medium
+Q00000733,C003482,2026-01-11,Customer Service,App,34.3,Resolved,Low
+Q00000734,C003483,2026-07-07,Internet,Call Center,27.0,Resolved,Low
+Q00000735,C003484,2025-01-23,Network,Call Center,16.3,Resolved,Low
+Q00000736,C003491,2025-10-16,Network,Call Center,23.4,Resolved,Low
+Q00000737,C003495,2026-02-23,Call Quality,Call Center,14.5,Open,Low
+Q00000738,C003501,2026-01-03,Internet,Call Center,21.8,Resolved,Low
+Q00000739,C003504,2024-01-01,Call Quality,Call Center,12.1,Resolved,Medium
+Q00000740,C003504,2026-06-05,Billing,Call Center,31.7,Resolved,Low
+Q00000741,C003507,2026-06-07,Recharge,Web,9.0,Resolved,Medium
+Q00000742,C003507,2024-08-03,Network,Call Center,8.9,Resolved,Low
+Q00000743,C003510,2025-12-09,Recharge,Web,6.0,Resolved,Low
+Q00000744,C003510,2024-09-27,Network,Call Center,17.1,Open,Low
+Q00000745,C003517,2026-03-05,Recharge,Call Center,28.0,Resolved,Low
+Q00000746,C003519,2026-08-29,Internet,App,13.7,Resolved,Medium
+Q00000747,C003524,2024-04-23,Recharge,Call Center,16.3,Resolved,Medium
+Q00000748,C003547,2023-07-03,Call Quality,App,19.6,Resolved,Medium
+Q00000749,C003552,2024-05-01,Billing,Web,3.9,Resolved,Low
+Q00000750,C003558,2024-05-10,Recharge,Web,8.3,Resolved,Medium
+Q00000751,C003562,2025-10-26,Internet,Call Center,8.5,Resolved,Low
+Q00000752,C003563,2023-09-29,Network,Web,44.0,Resolved,High
+Q00000753,C003563,2026-06-13,Internet,App,5.2,Resolved,Low
+Q00000754,C003566,2024-05-15,Network,Web,18.9,Resolved,Low
+Q00000755,C003566,2026-06-16,Billing,Web,37.0,Escalated,Low
+Q00000756,C003574,2026-03-14,Internet,Call Center,0.8,Resolved,Low
+Q00000757,C003576,2025-10-01,Internet,Web,12.2,Resolved,Medium
+Q00000758,C003577,2024-06-04,Call Quality,Call Center,8.2,Escalated,Medium
+Q00000759,C003583,2025-07-21,Call Quality,App,21.6,Resolved,Low
+Q00000760,C003587,2026-02-27,Billing,App,8.7,Resolved,Low
+Q00000761,C003587,2024-09-18,Network,Call Center,15.3,Resolved,Low
+Q00000762,C003587,2026-05-07,Call Quality,App,27.1,Open,High
+Q00000763,C003597,2026-04-13,Network,Call Center,8.7,Resolved,Low
+Q00000764,C003600,2026-08-22,Internet,App,9.1,Resolved,Low
+Q00000765,C003608,2026-05-08,Call Quality,Call Center,3.5,Resolved,Low
+Q00000766,C003614,2025-03-07,Customer Service,Call Center,9.1,Resolved,Low
+Q00000767,C003614,2025-07-13,Other,Store,4.4,Resolved,Low
+Q00000768,C003616,2025-03-15,Internet,Call Center,30.1,Resolved,Medium
+Q00000769,C003620,2024-02-11,Call Quality,Call Center,23.0,Open,Low
+Q00000770,C003622,2026-02-14,Customer Service,Call Center,17.4,Resolved,Low
+Q00000771,C003636,2024-07-28,Call Quality,Call Center,14.1,Resolved,Medium
+Q00000772,C003638,2023-08-05,Recharge,App,3.9,Open,Medium
+Q00000773,C003642,2026-03-03,Network,Web,26.0,Resolved,Medium
+Q00000774,C003642,2026-07-21,Internet,Web,3.4,Resolved,Medium
+Q00000775,C003643,2025-05-23,Customer Service,Call Center,11.3,Resolved,High
+Q00000776,C003644,2024-11-25,Customer Service,Call Center,16.9,Resolved,Medium
+Q00000777,C003656,2025-09-10,Call Quality,Store,8.5,Resolved,High
+Q00000778,C003657,2024-11-18,Network,Call Center,3.5,Resolved,Low
+Q00000779,C003664,2025-05-21,Call Quality,Call Center,10.1,Resolved,Medium
+Q00000780,C003667,2023-08-26,Recharge,App,33.9,Resolved,Low
+Q00000781,C003672,2024-11-24,Recharge,Call Center,23.4,Resolved,Low
+Q00000782,C003674,2026-07-08,Network,Web,4.2,Resolved,Low
+Q00000783,C003679,2025-01-24,Billing,App,22.2,Resolved,Medium
+Q00000784,C003686,2025-04-05,Internet,App,24.7,Resolved,Low
+Q00000785,C003690,2026-02-18,Network,App,10.3,Open,Low
+Q00000786,C003696,2026-05-24,Other,Call Center,32.7,Resolved,Low
+Q00000787,C003705,2024-05-08,Network,Call Center,15.4,Resolved,Low
+Q00000788,C003706,2024-05-03,Recharge,Call Center,7.0,Resolved,Low
+Q00000789,C003710,2025-10-18,Network,Call Center,9.1,Open,Low
+Q00000790,C003712,2026-01-15,Other,App,2.3,Resolved,Medium
+Q00000791,C003715,2026-01-08,Billing,Call Center,12.9,Resolved,Medium
+Q00000792,C003717,2026-06-14,Network,Call Center,15.5,Open,Low
+Q00000793,C003719,2026-04-04,Network,Web,6.1,Open,Low
+Q00000794,C003719,2025-11-14,Network,Web,21.8,Resolved,Medium
+Q00000795,C003721,2024-02-11,Call Quality,Call Center,22.9,Resolved,Low
+Q00000796,C003733,2026-01-17,Network,Call Center,9.1,Escalated,Low
+Q00000797,C003740,2022-12-19,Recharge,Call Center,3.2,Resolved,Low
+Q00000798,C003747,2023-10-28,Internet,Web,3.4,Resolved,Low
+Q00000799,C003749,2025-09-19,Network,App,10.5,Resolved,Low
+Q00000800,C003763,2025-02-01,Recharge,App,15.4,Open,Medium
+Q00000801,C003764,2025-03-13,Other,App,3.0,Escalated,Low
+Q00000802,C003764,2025-03-27,Call Quality,Call Center,10.1,Open,Low
+Q00000803,C003766,2024-12-04,Internet,App,9.7,Resolved,Medium
+Q00000804,C003778,2026-05-23,Network,Call Center,20.0,Escalated,Low
+Q00000805,C003786,2025-09-15,Network,Store,2.8,Resolved,Medium
+Q00000806,C003798,2026-03-20,Other,Call Center,6.9,Resolved,Low
+Q00000807,C003803,2023-12-09,Recharge,Call Center,5.8,Resolved,Medium
+Q00000808,C003808,2026-01-02,Network,App,31.2,Resolved,Low
+Q00000809,C003812,2024-12-31,Call Quality,Call Center,8.2,Resolved,Medium
+Q00000810,C003816,2024-06-19,Network,Web,20.7,Open,Low
+Q00000811,C003828,2024-01-01,Network,Call Center,14.2,Resolved,Low
+Q00000812,C003830,2026-04-28,Network,Call Center,19.5,Resolved,Low
+Q00000813,C003830,2026-08-05,Billing,App,8.0,Resolved,Low
+Q00000814,C003835,2026-08-23,Internet,Web,16.2,Resolved,Low
+Q00000815,C003839,2026-03-05,Customer Service,App,13.8,Resolved,Low
+Q00000816,C003850,2022-08-09,Network,App,31.4,Open,Low
+Q00000817,C003855,2026-05-24,Call Quality,App,10.4,Resolved,Medium
+Q00000818,C003857,2026-07-16,Call Quality,Store,20.5,Resolved,Low
+Q00000819,C003871,2024-03-08,Other,App,3.3,Escalated,Low
+Q00000820,C003874,2023-03-13,Network,App,9.8,Resolved,Medium
+Q00000821,C003880,2026-03-17,Network,Call Center,9.1,Resolved,Low
+Q00000822,C003881,2024-07-14,Network,Web,14.9,Resolved,Low
+Q00000823,C003881,2024-05-03,Customer Service,Call Center,5.7,Resolved,Low
+Q00000824,C003881,2025-06-02,Customer Service,Call Center,9.9,Resolved,Medium
+Q00000825,C003885,2025-08-21,Internet,Web,17.9,Resolved,High
+Q00000826,C003895,2025-09-16,Billing,Call Center,11.5,Resolved,Medium
+Q00000827,C003902,2026-06-19,Network,Call Center,24.0,Resolved,Low
+Q00000828,C003907,2026-02-12,Internet,Store,2.4,Resolved,Medium
+Q00000829,C003908,2026-07-07,Network,Call Center,22.7,Resolved,Low
+Q00000830,C003908,2026-05-08,Other,Web,33.3,Resolved,Low
+Q00000831,C003912,2026-06-16,Customer Service,App,13.9,Resolved,Low
+Q00000832,C003912,2026-04-30,Network,App,3.9,Resolved,Low
+Q00000833,C003921,2026-07-19,Other,Store,13.1,Resolved,Medium
+Q00000834,C003922,2022-12-21,Internet,Web,22.9,Escalated,Medium
+Q00000835,C003925,2025-11-27,Network,Call Center,18.1,Resolved,Low
+Q00000836,C003926,2024-04-13,Network,Web,23.1,Resolved,Low
+Q00000837,C003936,2024-10-15,Billing,Call Center,14.4,Resolved,Low
+Q00000838,C003942,2025-12-15,Call Quality,Call Center,37.2,Resolved,Low
+Q00000839,C003944,2026-02-21,Network,Web,36.2,Resolved,Low
+Q00000840,C003944,2026-02-07,Network,Store,11.6,Resolved,High
+Q00000841,C003946,2026-02-18,Network,Store,19.8,Resolved,High
+Q00000842,C003951,2023-09-14,Network,Store,11.2,Resolved,Medium
+Q00000843,C003954,2025-03-17,Network,Call Center,13.3,Resolved,Low
+Q00000844,C003962,2026-02-16,Network,Call Center,16.0,Resolved,Low
+Q00000845,C003964,2025-04-20,Internet,Store,9.3,Resolved,Medium
+Q00000846,C003969,2025-11-18,Billing,Call Center,7.6,Open,Low
+Q00000847,C003971,2025-07-05,Billing,App,1.5,Resolved,Medium
+Q00000848,C003978,2026-03-04,Billing,Web,25.1,Resolved,Medium
+Q00000849,C003984,2026-04-25,Network,Call Center,13.0,Resolved,Medium
+Q00000850,C003988,2026-02-20,Customer Service,Call Center,13.9,Resolved,Medium
+Q00000851,C003988,2026-05-10,Billing,Web,11.1,Resolved,Low
+Q00000852,C003990,2025-01-16,Other,Store,14.6,Resolved,Low
+Q00000853,C003990,2026-03-17,Billing,App,12.0,Open,Low
+Q00000854,C003999,2025-09-10,Other,Call Center,12.4,Resolved,Low
+Q00000855,C004001,2026-04-09,Network,Call Center,11.1,Open,Medium
+Q00000856,C004003,2023-10-29,Network,Call Center,3.3,Resolved,High
+Q00000857,C004007,2024-01-15,Recharge,App,12.6,Resolved,High
+Q00000858,C004010,2025-10-12,Network,Web,12.3,Resolved,Low
+Q00000859,C004011,2022-10-23,Billing,Call Center,7.7,Open,Medium
+Q00000860,C004012,2025-05-23,Billing,Web,14.1,Resolved,Medium
+Q00000861,C004017,2022-08-17,Call Quality,Call Center,13.8,Open,Low
+Q00000862,C004025,2026-05-11,Billing,Call Center,27.4,Resolved,Low
+Q00000863,C004028,2025-04-18,Customer Service,Web,7.8,Resolved,Medium
+Q00000864,C004031,2025-07-02,Network,Call Center,4.7,Resolved,Medium
+Q00000865,C004031,2025-03-17,Other,App,27.0,Resolved,High
+Q00000866,C004033,2025-11-11,Recharge,Web,12.3,Resolved,Low
+Q00000867,C004040,2026-01-03,Billing,Call Center,27.8,Resolved,Low
+Q00000868,C004046,2024-06-11,Billing,Call Center,10.7,Resolved,Low
+Q00000869,C004047,2026-05-09,Network,Call Center,12.0,Resolved,Low
+Q00000870,C004056,2024-06-26,Other,Web,28.5,Escalated,Low
+Q00000871,C004059,2025-08-06,Internet,Call Center,5.9,Resolved,High
+Q00000872,C004064,2025-10-09,Network,Call Center,9.5,Resolved,Low
+Q00000873,C004065,2026-07-11,Internet,Store,6.4,Resolved,Medium
+Q00000874,C004071,2026-02-09,Internet,App,5.3,Resolved,High
+Q00000875,C004074,2026-03-27,Billing,App,8.9,Resolved,Low
+Q00000876,C004075,2026-08-18,Other,App,13.9,Resolved,Low
+Q00000877,C004077,2024-09-27,Recharge,Call Center,12.7,Resolved,Low
+Q00000878,C004082,2026-01-30,Network,Web,8.4,Open,Medium
+Q00000879,C004087,2025-10-08,Network,Call Center,24.4,Resolved,Medium
+Q00000880,C004101,2026-02-24,Network,Call Center,13.3,Resolved,Low
+Q00000881,C004105,2025-05-26,Billing,Call Center,44.1,Resolved,Low
+Q00000882,C004109,2025-12-26,Customer Service,App,4.9,Resolved,Medium
+Q00000883,C004109,2026-04-30,Network,Call Center,23.7,Resolved,Medium
+Q00000884,C004110,2025-07-14,Network,Web,2.4,Escalated,High
+Q00000885,C004111,2026-03-21,Call Quality,App,13.5,Resolved,Low
+Q00000886,C004113,2022-08-10,Recharge,App,18.1,Resolved,Low
+Q00000887,C004117,2024-07-24,Network,Call Center,19.6,Resolved,High
+Q00000888,C004117,2026-04-09,Billing,Web,8.0,Resolved,High
+Q00000889,C004118,2026-05-29,Network,Call Center,9.9,Resolved,Medium
+Q00000890,C004127,2023-12-15,Internet,App,1.9,Resolved,Medium
+Q00000891,C004129,2024-06-13,Recharge,App,22.8,Resolved,Medium
+Q00000892,C004132,2024-11-01,Internet,Call Center,23.0,Escalated,Low
+Q00000893,C004144,2025-04-26,Billing,Store,18.3,Resolved,Low
+Q00000894,C004145,2024-07-26,Network,App,2.6,Resolved,High
+Q00000895,C004153,2026-03-21,Call Quality,App,17.2,Resolved,Low
+Q00000896,C004158,2025-10-14,Call Quality,Web,8.4,Resolved,Medium
+Q00000897,C004161,2026-04-16,Billing,App,16.2,Resolved,High
+Q00000898,C004164,2026-06-28,Customer Service,App,9.6,Resolved,Medium
+Q00000899,C004164,2025-10-24,Network,Call Center,2.1,Resolved,Medium
+Q00000900,C004166,2024-07-18,Network,Call Center,18.4,Resolved,Medium
+Q00000901,C004172,2025-03-04,Call Quality,Call Center,6.6,Resolved,Medium
+Q00000902,C004173,2024-05-11,Call Quality,Store,21.3,Resolved,High
+Q00000903,C004183,2025-12-25,Network,Web,0.5,Resolved,Low
+Q00000904,C004189,2026-07-05,Internet,App,11.4,Resolved,Medium
+Q00000905,C004191,2026-02-04,Customer Service,Call Center,7.1,Resolved,High
+Q00000906,C004191,2026-07-20,Network,Store,10.4,Resolved,Medium
+Q00000907,C004191,2026-07-12,Internet,Call Center,12.0,Open,Medium
+Q00000908,C004201,2026-08-17,Network,App,17.1,Resolved,Low
+Q00000909,C004201,2025-12-30,Call Quality,Web,8.2,Escalated,Low
+Q00000910,C004211,2025-07-07,Network,App,2.3,Resolved,Medium
+Q00000911,C004219,2026-04-18,Network,Call Center,24.7,Resolved,Medium
+Q00000912,C004227,2026-04-19,Customer Service,Web,19.7,Resolved,Medium
+Q00000913,C004233,2023-09-11,Billing,Call Center,19.3,Resolved,Medium
+Q00000914,C004233,2024-05-05,Other,Call Center,10.0,Resolved,Low
+Q00000915,C004238,2026-06-02,Internet,App,6.7,Escalated,Medium
+Q00000916,C004248,2026-01-17,Internet,App,21.3,Resolved,Medium
+Q00000917,C004260,2026-02-27,Call Quality,Call Center,20.8,Resolved,Low
+Q00000918,C004260,2026-06-17,Network,Web,15.3,Open,Low
+Q00000919,C004261,2026-03-14,Billing,Call Center,6.3,Resolved,Low
+Q00000920,C004267,2022-03-24,Internet,Call Center,8.5,Resolved,Medium
+Q00000921,C004269,2025-12-04,Billing,App,4.3,Open,High
+Q00000922,C004271,2025-05-22,Internet,Call Center,6.3,Resolved,Medium
+Q00000923,C004276,2025-01-01,Network,Call Center,15.3,Resolved,Low
+Q00000924,C004286,2026-04-17,Billing,App,11.2,Resolved,Low
+Q00000925,C004288,2025-10-29,Internet,Call Center,43.9,Resolved,Medium
+Q00000926,C004291,2026-01-08,Call Quality,Call Center,26.9,Resolved,Low
+Q00000927,C004300,2025-02-17,Internet,App,25.5,Resolved,Medium
+Q00000928,C004311,2026-01-30,Network,Call Center,29.5,Resolved,Low
+Q00000929,C004314,2026-02-07,Other,Call Center,18.4,Resolved,Low
+Q00000930,C004314,2025-02-21,Call Quality,Store,24.8,Resolved,High
+Q00000931,C004315,2026-02-23,Network,Web,12.0,Resolved,High
+Q00000932,C004321,2026-02-26,Internet,Call Center,2.4,Resolved,Medium
+Q00000933,C004330,2024-10-16,Billing,Call Center,4.0,Resolved,Medium
+Q00000934,C004338,2024-04-25,Billing,Store,23.4,Resolved,Low
+Q00000935,C004338,2025-01-09,Call Quality,Web,16.0,Resolved,High
+Q00000936,C004342,2026-06-28,Network,Call Center,7.7,Resolved,Low
+Q00000937,C004347,2025-07-03,Internet,Call Center,25.3,Resolved,High
+Q00000938,C004353,2023-08-04,Call Quality,Web,5.1,Resolved,Medium
+Q00000939,C004357,2024-05-30,Internet,App,23.6,Resolved,Medium
+Q00000940,C004364,2026-03-13,Billing,Call Center,26.0,Resolved,Low
+Q00000941,C004364,2026-04-23,Network,Call Center,4.6,Resolved,Medium
+Q00000942,C004367,2026-05-24,Customer Service,Call Center,22.5,Resolved,Low
+Q00000943,C004367,2026-01-21,Network,Call Center,16.9,Resolved,High
+Q00000944,C004372,2026-04-21,Network,Web,35.7,Resolved,Medium
+Q00000945,C004376,2025-08-09,Internet,Store,16.4,Resolved,Medium
+Q00000946,C004379,2026-05-10,Network,Call Center,26.4,Open,Medium
+Q00000947,C004380,2025-10-19,Recharge,Store,13.4,Resolved,Low
+Q00000948,C004380,2025-12-01,Network,Store,14.1,Resolved,Low
+Q00000949,C004408,2026-03-07,Network,Call Center,12.2,Resolved,Medium
+Q00000950,C004441,2025-08-06,Recharge,App,6.7,Resolved,Low
+Q00000951,C004455,2025-12-25,Network,Call Center,11.4,Resolved,Medium
+Q00000952,C004460,2026-02-25,Other,App,12.7,Resolved,Medium
+Q00000953,C004475,2025-09-29,Internet,Call Center,18.4,Resolved,Medium
+Q00000954,C004477,2023-09-15,Internet,Call Center,23.9,Open,Medium
+Q00000955,C004479,2023-06-19,Billing,Web,23.8,Escalated,High
+Q00000956,C004479,2023-11-30,Network,Call Center,9.4,Open,Medium
+Q00000957,C004484,2026-08-22,Call Quality,App,10.9,Resolved,Medium
+Q00000958,C004486,2025-05-16,Network,App,6.3,Resolved,Medium
+Q00000959,C004490,2023-08-24,Internet,Call Center,21.5,Resolved,Low
+Q00000960,C004491,2026-04-18,Call Quality,Store,6.0,Resolved,Low
+Q00000961,C004510,2026-03-21,Internet,Call Center,5.4,Resolved,Medium
+Q00000962,C004515,2025-06-02,Internet,Store,14.8,Resolved,Low
+Q00000963,C004519,2026-02-05,Internet,Call Center,13.3,Resolved,Medium
+Q00000964,C004523,2025-07-06,Billing,Web,3.3,Resolved,Low
+Q00000965,C004528,2025-10-13,Other,Call Center,4.0,Resolved,High
+Q00000966,C004529,2026-04-02,Call Quality,Call Center,16.8,Resolved,Medium
+Q00000967,C004533,2025-09-29,Network,Call Center,6.2,Resolved,Medium
+Q00000968,C004538,2025-07-30,Internet,App,20.3,Escalated,Low
+Q00000969,C004548,2026-04-21,Billing,Store,6.5,Resolved,Low
+Q00000970,C004551,2024-12-04,Billing,Call Center,13.0,Resolved,Low
+Q00000971,C004553,2024-10-06,Recharge,Web,4.8,Resolved,Low
+Q00000972,C004558,2025-11-21,Call Quality,App,5.6,Resolved,Low
+Q00000973,C004562,2026-04-24,Customer Service,Call Center,11.5,Resolved,Medium
+Q00000974,C004562,2026-04-09,Network,Store,5.7,Resolved,Low
+Q00000975,C004562,2024-03-14,Call Quality,App,13.4,Resolved,Low
+Q00000976,C004565,2026-05-17,Network,Call Center,11.5,Resolved,Medium
+Q00000977,C004569,2024-07-04,Call Quality,Call Center,12.7,Resolved,Low
+Q00000978,C004580,2025-11-11,Billing,Store,20.9,Resolved,Medium
+Q00000979,C004589,2025-08-06,Network,Store,15.3,Resolved,Medium
+Q00000980,C004590,2026-05-14,Network,Store,5.0,Open,Low
+Q00000981,C004590,2026-05-03,Network,Call Center,4.0,Resolved,Medium
+Q00000982,C004603,2026-02-07,Billing,Call Center,8.4,Escalated,Medium
+Q00000983,C004604,2026-01-29,Internet,App,8.8,Resolved,Medium
+Q00000984,C004605,2026-05-14,Recharge,Store,8.4,Resolved,Low
+Q00000985,C004613,2026-01-25,Recharge,Call Center,11.4,Resolved,Low
+Q00000986,C004619,2026-06-11,Call Quality,App,21.4,Resolved,Medium
+Q00000987,C004620,2026-07-06,Internet,Call Center,9.9,Resolved,Medium
+Q00000988,C004625,2026-01-27,Network,Store,4.2,Resolved,Low
+Q00000989,C004632,2023-05-25,Network,Call Center,10.5,Escalated,Medium
+Q00000990,C004640,2025-04-16,Internet,Call Center,4.4,Resolved,Low
+Q00000991,C004640,2026-01-10,Billing,App,18.7,Resolved,Low
+Q00000992,C004641,2026-01-24,Internet,Call Center,29.4,Resolved,Low
+Q00000993,C004645,2026-03-05,Internet,Call Center,15.8,Resolved,Medium
+Q00000994,C004649,2024-10-11,Recharge,Call Center,4.2,Resolved,Low
+Q00000995,C004650,2026-04-13,Billing,Store,32.8,Resolved,Low
+Q00000996,C004653,2026-04-04,Network,Web,21.7,Resolved,Medium
+Q00000997,C004653,2026-05-03,Network,App,21.4,Resolved,Low
+Q00000998,C004654,2026-06-06,Network,Web,13.8,Resolved,Medium
+Q00000999,C004654,2026-06-01,Call Quality,Call Center,20.3,Resolved,Medium
+Q00001000,C004679,2026-03-29,Internet,Call Center,7.8,Resolved,Medium
+Q00001001,C004688,2023-09-12,Call Quality,Store,16.6,Resolved,Medium
+Q00001002,C004698,2024-05-17,Network,App,1.6,Resolved,Low
+Q00001003,C004701,2025-06-06,Network,Call Center,22.2,Resolved,Low
+Q00001004,C004714,2024-10-02,Billing,Web,11.6,Resolved,Low
+Q00001005,C004714,2025-06-30,Call Quality,Call Center,25.8,Resolved,Low
+Q00001006,C004739,2025-09-25,Customer Service,App,18.8,Resolved,Low
+Q00001007,C004759,2026-02-12,Billing,Call Center,7.8,Resolved,Low
+Q00001008,C004759,2025-05-27,Other,Store,27.6,Resolved,High
+Q00001009,C004763,2026-05-08,Network,App,7.5,Resolved,Low
+Q00001010,C004763,2026-08-28,Network,Call Center,9.9,Resolved,Medium
+Q00001011,C004774,2025-03-28,Billing,Call Center,3.1,Resolved,Medium
+Q00001012,C004780,2024-11-12,Internet,Call Center,4.3,Resolved,High
+Q00001013,C004781,2025-10-31,Network,Call Center,10.8,Resolved,Low
+Q00001014,C004784,2025-07-21,Internet,App,27.4,Resolved,Medium
+Q00001015,C004785,2026-06-06,Network,Call Center,25.1,Open,Low
+Q00001016,C004807,2026-01-28,Network,Store,60.3,Resolved,Medium
+Q00001017,C004808,2025-07-20,Billing,App,2.8,Resolved,Medium
+Q00001018,C004827,2024-06-18,Network,App,2.7,Resolved,Medium
+Q00001019,C004849,2025-09-15,Call Quality,Call Center,46.2,Resolved,Medium
+Q00001020,C004867,2026-03-27,Network,Call Center,3.3,Open,Low
+Q00001021,C004874,2025-01-25,Internet,Call Center,14.3,Resolved,Low
+Q00001022,C004875,2026-07-30,Recharge,Call Center,9.4,Open,Medium
+Q00001023,C004876,2025-11-11,Network,Web,8.7,Resolved,High
+Q00001024,C004879,2026-07-14,Customer Service,Call Center,12.6,Resolved,Low
+Q00001025,C004881,2024-08-22,Network,Call Center,7.1,Resolved,Medium
+Q00001026,C004881,2024-12-10,Internet,Web,11.4,Resolved,Medium
+Q00001027,C004887,2023-05-14,Internet,Web,24.4,Escalated,Low
+Q00001028,C004901,2026-05-13,Billing,Call Center,32.2,Resolved,Low
+Q00001029,C004905,2026-03-11,Network,Call Center,1.5,Resolved,Low
+Q00001030,C004907,2026-03-11,Customer Service,App,35.8,Escalated,Medium
+Q00001031,C004909,2024-08-15,Recharge,Web,4.0,Resolved,Low
+Q00001032,C004912,2026-03-08,Customer Service,Web,4.6,Resolved,Low
+Q00001033,C004914,2024-11-23,Billing,Call Center,6.1,Resolved,Low
+Q00001034,C004916,2024-03-28,Billing,Call Center,4.4,Resolved,Low
+Q00001035,C004916,2024-06-14,Internet,Store,4.1,Open,Low
+Q00001036,C004923,2024-06-07,Network,Call Center,6.6,Resolved,Medium
+Q00001037,C004924,2026-08-04,Other,App,29.6,Resolved,Low
+Q00001038,C004925,2024-03-05,Billing,Call Center,20.3,Resolved,High
+Q00001039,C004926,2025-06-28,Recharge,Call Center,8.0,Resolved,High
+Q00001040,C004947,2026-05-01,Customer Service,Store,10.0,Open,Medium
+Q00001041,C004956,2026-03-09,Internet,Store,6.0,Resolved,Medium
+Q00001042,C004959,2026-07-27,Customer Service,Call Center,8.6,Resolved,Medium
+Q00001043,C004960,2025-06-11,Internet,Call Center,5.3,Resolved,Low
+Q00001044,C004961,2026-07-05,Billing,Web,11.0,Open,Low
+Q00001045,C004963,2026-01-15,Network,Store,16.6,Resolved,Low
+Q00001046,C004966,2023-12-07,Call Quality,App,10.8,Resolved,Low
+Q00001047,C004977,2026-04-02,Network,Call Center,11.1,Open,Low
+Q00001048,C004978,2026-05-25,Internet,Call Center,7.6,Resolved,Low
+Q00001049,C004990,2026-08-29,Billing,Call Center,12.1,Resolved,Low
+Q00001050,C004992,2026-06-01,Network,Web,17.1,Resolved,Medium
+Q00001051,C004993,2025-10-05,Network,App,5.1,Resolved,Low
+Q00001052,C004996,2026-04-21,Recharge,Store,6.0,Escalated,Medium
+Q00001053,C004998,2025-11-24,Network,App,1.0,Resolved,High
+Q00001054,C005000,2026-03-27,Billing,Call Center,17.7,Resolved,Low
+Q00001055,C005005,2024-01-25,Network,App,10.9,Resolved,Low
+Q00001056,C005008,2026-06-01,Network,Web,13.8,Escalated,Medium
+Q00001057,C005018,2026-05-21,Call Quality,Call Center,11.6,Resolved,Low
+Q00001058,C005018,2025-01-23,Other,App,4.2,Resolved,Low
+Q00001059,C005022,2026-08-19,Network,App,9.0,Resolved,Medium
+Q00001060,C005035,2026-06-25,Internet,App,2.1,Resolved,Low
+Q00001061,C005039,2024-11-07,Network,Web,11.7,Escalated,Medium
+Q00001062,C005042,2026-05-03,Call Quality,App,26.9,Resolved,Low
+Q00001063,C005044,2024-09-27,Internet,Store,28.1,Resolved,Medium
+Q00001064,C005049,2026-03-10,Recharge,Call Center,6.8,Resolved,Medium
+Q00001065,C005054,2026-06-24,Internet,Web,23.2,Open,Low
+Q00001066,C005055,2024-01-26,Recharge,Web,9.1,Resolved,Low
+Q00001067,C005061,2023-10-14,Billing,Web,10.8,Resolved,Low
+Q00001068,C005069,2024-08-29,Call Quality,Web,10.4,Resolved,Low
+Q00001069,C005077,2026-07-23,Recharge,Call Center,30.8,Resolved,High
+Q00001070,C005078,2026-01-17,Network,Store,23.4,Resolved,Low
+Q00001071,C005083,2026-05-04,Billing,Call Center,4.0,Resolved,High
+Q00001072,C005083,2026-06-02,Network,Web,9.1,Resolved,Low
+Q00001073,C005098,2026-05-14,Network,Store,12.2,Resolved,Medium
+Q00001074,C005102,2026-01-01,Billing,Web,6.1,Resolved,Low
+Q00001075,C005107,2023-09-15,Network,Store,17.8,Resolved,Low
+Q00001076,C005108,2025-11-25,Recharge,Web,18.7,Resolved,Low
+Q00001077,C005120,2026-06-22,Call Quality,Call Center,15.5,Resolved,Medium
+Q00001078,C005130,2025-07-28,Internet,Web,16.7,Resolved,Low
+Q00001079,C005132,2025-07-05,Billing,Call Center,25.7,Resolved,Low
+Q00001080,C005138,2024-07-26,Network,App,5.2,Resolved,Low
+Q00001081,C005143,2022-03-21,Internet,Call Center,8.1,Resolved,Low
+Q00001082,C005143,2026-08-21,Internet,App,32.2,Resolved,Low
+Q00001083,C005147,2026-07-07,Internet,Call Center,30.0,Resolved,Medium
+Q00001084,C005162,2026-04-29,Network,Call Center,8.2,Resolved,Medium
+Q00001085,C005164,2026-05-18,Other,Call Center,5.2,Resolved,High
+Q00001086,C005171,2025-04-28,Customer Service,App,20.4,Resolved,Medium
+Q00001087,C005182,2026-03-15,Internet,Web,10.1,Resolved,Low
+Q00001088,C005190,2026-05-31,Network,Web,15.1,Resolved,Low
+Q00001089,C005191,2024-11-27,Network,Call Center,7.7,Open,Low
+Q00001090,C005198,2024-06-11,Billing,Web,13.1,Open,Medium
+Q00001091,C005200,2025-04-09,Billing,Web,9.8,Resolved,High
+Q00001092,C005200,2026-04-21,Billing,Call Center,4.7,Resolved,High
+Q00001093,C005208,2025-09-28,Internet,App,15.6,Resolved,Medium
+Q00001094,C005210,2023-08-24,Internet,Call Center,2.1,Resolved,Medium
+Q00001095,C005216,2026-04-21,Customer Service,Call Center,16.2,Resolved,Medium
+Q00001096,C005217,2024-04-24,Network,Store,21.1,Escalated,Low
+Q00001097,C005226,2026-05-25,Network,Call Center,22.1,Resolved,Low
+Q00001098,C005228,2025-09-29,Network,Call Center,26.6,Resolved,Medium
+Q00001099,C005241,2026-06-09,Internet,Call Center,19.1,Resolved,Medium
+Q00001100,C005244,2025-09-28,Network,App,14.0,Resolved,Low
+Q00001101,C005247,2023-12-05,Network,Store,20.5,Resolved,High
+Q00001102,C005251,2026-04-26,Recharge,App,18.0,Resolved,Medium
+Q00001103,C005253,2026-05-05,Recharge,Web,14.9,Resolved,Low
+Q00001104,C005256,2026-06-09,Network,Call Center,13.1,Resolved,Medium
+Q00001105,C005260,2022-06-01,Recharge,App,9.3,Resolved,Medium
+Q00001106,C005264,2026-06-28,Customer Service,Call Center,2.9,Open,Medium
+Q00001107,C005268,2024-02-25,Internet,Call Center,15.9,Resolved,Low
+Q00001108,C005269,2025-01-26,Other,Call Center,12.6,Open,Low
+Q00001109,C005271,2026-01-13,Network,App,8.6,Escalated,Low
+Q00001110,C005298,2026-06-23,Billing,Call Center,7.9,Resolved,Medium
+Q00001111,C005302,2025-03-02,Billing,Store,17.1,Resolved,Low
+Q00001112,C005303,2024-01-12,Network,App,18.0,Open,Low
+Q00001113,C005305,2024-08-13,Network,Call Center,3.7,Resolved,Low
+Q00001114,C005312,2024-02-19,Recharge,Store,5.1,Resolved,Low
+Q00001115,C005314,2026-02-07,Billing,App,3.2,Resolved,High
+Q00001116,C005318,2025-10-20,Billing,App,4.3,Resolved,Medium
+Q00001117,C005321,2025-05-31,Billing,Call Center,20.7,Resolved,Medium
+Q00001118,C005325,2026-02-17,Call Quality,Call Center,44.0,Resolved,Medium
+Q00001119,C005327,2025-10-04,Billing,Web,17.0,Escalated,Low
+Q00001120,C005331,2023-09-03,Customer Service,Call Center,4.9,Resolved,Medium
+Q00001121,C005333,2026-08-03,Call Quality,App,12.9,Resolved,Low
+Q00001122,C005336,2026-03-31,Network,App,14.7,Resolved,Low
+Q00001123,C005372,2024-08-05,Recharge,Call Center,11.7,Escalated,Low
+Q00001124,C005375,2026-04-30,Customer Service,App,18.9,Resolved,Low
+Q00001125,C005376,2025-10-30,Network,Call Center,14.1,Resolved,Low
+Q00001126,C005376,2025-02-09,Internet,App,3.8,Resolved,Low
+Q00001127,C005390,2025-01-31,Internet,Call Center,12.0,Resolved,Low
+Q00001128,C005396,2026-03-06,Customer Service,Call Center,15.7,Escalated,Low
+Q00001129,C005399,2024-09-13,Billing,App,1.9,Resolved,Medium
+Q00001130,C005401,2025-12-19,Network,Web,14.9,Resolved,Low
+Q00001131,C005401,2026-05-16,Network,Call Center,21.5,Resolved,Low
+Q00001132,C005405,2026-05-08,Internet,Web,9.0,Resolved,Low
+Q00001133,C005412,2026-02-04,Network,Web,34.1,Resolved,Medium
+Q00001134,C005413,2025-07-19,Other,App,20.7,Resolved,Low
+Q00001135,C005436,2026-03-22,Call Quality,Web,4.3,Resolved,Medium
+Q00001136,C005443,2026-04-12,Billing,App,12.4,Resolved,Low
+Q00001137,C005454,2026-04-22,Recharge,Web,12.5,Resolved,High
+Q00001138,C005464,2025-11-09,Network,Store,15.1,Resolved,Low
+Q00001139,C005465,2026-07-12,Network,Call Center,2.3,Open,Medium
+Q00001140,C005467,2026-01-29,Network,App,19.4,Resolved,Low
+Q00001141,C005470,2026-02-11,Internet,Call Center,13.2,Resolved,Medium
+Q00001142,C005472,2026-06-05,Call Quality,Call Center,25.0,Resolved,Low
+Q00001143,C005473,2026-08-24,Billing,Call Center,3.3,Resolved,High
+Q00001144,C005474,2026-05-29,Network,App,2.4,Resolved,Medium
+Q00001145,C005480,2026-05-24,Call Quality,Call Center,15.0,Resolved,Low
+Q00001146,C005481,2025-05-26,Billing,App,4.0,Resolved,Low
+Q00001147,C005496,2026-04-03,Internet,Web,10.0,Resolved,Low
+Q00001148,C005496,2024-10-05,Internet,App,18.1,Resolved,Low
+Q00001149,C005497,2026-02-06,Other,Web,21.4,Resolved,High
+Q00001150,C005502,2025-01-13,Call Quality,Store,9.2,Resolved,Medium
+Q00001151,C005511,2025-12-04,Other,Call Center,7.4,Resolved,Low
+Q00001152,C005525,2026-06-15,Customer Service,Call Center,5.7,Escalated,High
+Q00001153,C005528,2026-05-03,Call Quality,Call Center,15.9,Resolved,High
+Q00001154,C005530,2026-02-22,Network,App,26.5,Resolved,Low
+Q00001155,C005530,2025-12-14,Network,Call Center,11.6,Resolved,High
+Q00001156,C005536,2026-03-08,Billing,Store,7.3,Resolved,Low
+Q00001157,C005536,2026-08-29,Internet,Call Center,12.5,Resolved,Low
+Q00001158,C005542,2024-05-16,Customer Service,Store,8.8,Resolved,High
+Q00001159,C005553,2024-07-29,Customer Service,Web,18.1,Open,Low
+Q00001160,C005554,2026-04-24,Other,Web,12.7,Resolved,Low
+Q00001161,C005559,2025-11-20,Billing,Web,45.9,Resolved,High
+Q00001162,C005559,2025-10-11,Network,Web,38.7,Resolved,Low
+Q00001163,C005562,2025-12-19,Customer Service,Call Center,3.0,Resolved,Low
+Q00001164,C005564,2023-12-24,Call Quality,App,37.2,Open,Medium
+Q00001165,C005567,2025-03-01,Call Quality,Web,8.2,Resolved,Medium
+Q00001166,C005580,2026-08-06,Internet,App,3.9,Resolved,Low
+Q00001167,C005584,2025-10-25,Internet,Call Center,14.5,Resolved,Medium
+Q00001168,C005587,2026-01-03,Billing,App,9.1,Resolved,High
+Q00001169,C005598,2025-07-12,Network,Call Center,17.8,Resolved,Low
+Q00001170,C005602,2025-12-08,Customer Service,App,6.7,Resolved,Medium
+Q00001171,C005606,2023-02-26,Network,Call Center,18.9,Resolved,Low
+Q00001172,C005607,2026-05-30,Network,Call Center,7.5,Resolved,High
+Q00001173,C005607,2026-08-13,Other,Call Center,5.9,Escalated,High
+Q00001174,C005612,2023-10-09,Other,Call Center,10.5,Resolved,Medium
+Q00001175,C005640,2025-09-26,Network,Store,9.5,Resolved,Medium
+Q00001176,C005644,2024-12-02,Recharge,Call Center,8.4,Resolved,Low
+Q00001177,C005645,2026-03-19,Billing,Call Center,30.4,Open,Medium
+Q00001178,C005646,2025-09-14,Internet,Call Center,15.8,Resolved,Low
+Q00001179,C005654,2025-01-22,Call Quality,Store,5.2,Resolved,Low
+Q00001180,C005655,2026-04-13,Internet,App,41.9,Resolved,Low
+Q00001181,C005658,2025-09-18,Customer Service,Store,8.4,Resolved,Low
+Q00001182,C005667,2026-01-05,Network,Call Center,45.8,Resolved,Low
+Q00001183,C005667,2026-01-22,Call Quality,Call Center,8.9,Resolved,High
+Q00001184,C005672,2024-12-04,Network,Web,8.9,Resolved,Low
+Q00001185,C005683,2025-10-07,Internet,App,3.0,Resolved,Medium
+Q00001186,C005684,2024-05-13,Network,Call Center,10.9,Resolved,Low
+Q00001187,C005685,2025-11-13,Billing,App,19.1,Resolved,Medium
+Q00001188,C005698,2025-05-20,Internet,Store,22.0,Open,Low
+Q00001189,C005703,2026-01-04,Internet,App,17.4,Resolved,High
+Q00001190,C005714,2026-03-20,Network,Call Center,4.9,Resolved,Medium
+Q00001191,C005716,2024-03-09,Network,Store,19.6,Resolved,Medium
+Q00001192,C005732,2026-04-19,Billing,Call Center,4.8,Resolved,Medium
+Q00001193,C005732,2025-01-03,Network,Call Center,4.3,Escalated,Medium
+Q00001194,C005745,2025-03-18,Billing,Call Center,18.8,Resolved,Low
+Q00001195,C005747,2024-09-11,Internet,App,44.0,Resolved,Medium
+Q00001196,C005748,2023-08-30,Billing,App,9.4,Resolved,Low
+Q00001197,C005753,2026-02-28,Internet,Store,13.6,Resolved,Medium
+Q00001198,C005753,2026-03-05,Call Quality,Call Center,9.5,Resolved,Low
+Q00001199,C005756,2022-10-04,Network,Web,13.2,Resolved,Medium
+Q00001200,C005767,2026-06-17,Call Quality,Call Center,10.2,Resolved,Medium
+Q00001201,C005767,2026-02-19,Billing,Store,8.6,Resolved,Low
+Q00001202,C005771,2026-03-25,Other,Store,9.3,Resolved,High
+Q00001203,C005773,2026-08-28,Call Quality,Web,9.5,Resolved,Low
+Q00001204,C005774,2025-06-04,Network,Call Center,22.2,Resolved,Medium
+Q00001205,C005777,2023-06-16,Call Quality,Call Center,2.3,Resolved,Low
+Q00001206,C005781,2024-03-30,Network,Call Center,31.4,Resolved,Medium
+Q00001207,C005792,2026-07-23,Recharge,Call Center,17.4,Resolved,Medium
+Q00001208,C005796,2026-06-02,Internet,App,19.3,Resolved,High
+Q00001209,C005796,2026-06-15,Network,Store,5.5,Resolved,Low
+Q00001210,C005799,2026-05-21,Internet,Call Center,11.4,Resolved,Low
+Q00001211,C005800,2026-02-24,Call Quality,Web,18.5,Resolved,Low
+Q00001212,C005801,2023-02-28,Call Quality,Store,25.6,Resolved,Low
+Q00001213,C005802,2026-01-05,Network,App,12.4,Resolved,High
+Q00001214,C005806,2026-06-23,Network,Store,20.0,Resolved,Medium
+Q00001215,C005811,2024-01-21,Internet,Store,16.4,Resolved,Medium
+Q00001216,C005820,2026-06-20,Network,Call Center,9.7,Resolved,Low
+Q00001217,C005821,2026-02-05,Network,App,15.2,Open,Medium
+Q00001218,C005823,2025-09-15,Billing,App,25.6,Resolved,Medium
+Q00001219,C005826,2024-11-07,Network,Store,15.3,Resolved,Low
+Q00001220,C005829,2026-01-24,Network,App,6.8,Resolved,Medium
+Q00001221,C005831,2025-04-14,Internet,Call Center,2.6,Resolved,Low
+Q00001222,C005835,2024-08-01,Billing,Web,1.5,Resolved,Medium
+Q00001223,C005843,2026-08-04,Network,App,6.2,Open,Medium
+Q00001224,C005851,2026-02-25,Call Quality,Call Center,5.1,Open,Medium
+Q00001225,C005853,2023-04-05,Internet,Store,17.4,Resolved,Low
+Q00001226,C005858,2024-11-05,Call Quality,Web,16.2,Resolved,Low
+Q00001227,C005860,2026-03-11,Recharge,App,21.4,Resolved,Medium
+Q00001228,C005861,2026-05-05,Call Quality,Web,7.7,Resolved,Medium
+Q00001229,C005864,2026-02-20,Customer Service,Web,17.4,Resolved,Medium
+Q00001230,C005864,2026-01-22,Other,App,16.1,Resolved,Low
+Q00001231,C005864,2026-06-03,Network,Call Center,21.1,Resolved,Low
+Q00001232,C005877,2025-05-04,Customer Service,Web,8.0,Resolved,Medium
+Q00001233,C005886,2026-06-21,Customer Service,Store,2.4,Resolved,Low
+Q00001234,C005897,2026-03-03,Customer Service,Web,13.9,Resolved,Low
+Q00001235,C005899,2026-05-01,Call Quality,App,13.5,Resolved,Medium
+Q00001236,C005901,2024-06-11,Network,Call Center,8.4,Escalated,Low
+Q00001237,C005910,2025-01-16,Network,Web,12.7,Resolved,Low
+Q00001238,C005913,2026-06-08,Network,Call Center,26.7,Resolved,Low
+Q00001239,C005927,2026-03-07,Internet,Web,10.8,Resolved,Medium
+Q00001240,C005927,2026-08-19,Customer Service,Call Center,10.1,Resolved,Low
+Q00001241,C005933,2026-07-16,Other,Call Center,19.0,Open,Low
+Q00001242,C005937,2025-03-20,Recharge,Call Center,13.0,Resolved,Low
+Q00001243,C005938,2023-02-19,Customer Service,Call Center,2.7,Resolved,Medium
+Q00001244,C005942,2024-03-12,Internet,Store,7.3,Resolved,Low
+Q00001245,C005948,2026-01-14,Network,Call Center,27.4,Resolved,Low
+Q00001246,C005948,2023-09-17,Internet,Call Center,9.8,Resolved,Medium
+Q00001247,C005951,2024-04-25,Network,Call Center,19.5,Resolved,Low
+Q00001248,C005955,2026-03-08,Internet,Call Center,4.2,Resolved,High
+Q00001249,C005976,2026-07-03,Billing,Call Center,6.1,Resolved,Low
+Q00001250,C005981,2026-03-23,Network,Store,3.9,Resolved,High
+Q00001251,C005989,2026-05-01,Network,Web,18.5,Resolved,Low
+Q00001252,C005991,2025-12-26,Billing,Call Center,7.2,Resolved,Low
+Q00001253,C005992,2024-01-19,Internet,Call Center,8.4,Escalated,Low
+Q00001254,C005995,2025-11-21,Internet,Call Center,12.6,Open,Medium
+Q00001255,C005996,2025-04-27,Call Quality,Call Center,26.0,Resolved,High
+Q00001256,C005998,2025-09-04,Call Quality,Call Center,12.1,Escalated,Medium
+Q00001257,C006002,2025-08-06,Network,Call Center,11.2,Resolved,Low
+Q00001258,C006018,2023-07-09,Billing,Store,38.8,Resolved,Low
+Q00001259,C006022,2026-01-07,Customer Service,Call Center,14.5,Resolved,Medium
+Q00001260,C006023,2025-12-21,Network,Call Center,11.8,Resolved,High
+Q00001261,C006035,2025-11-19,Billing,Call Center,40.2,Escalated,Low
+Q00001262,C006035,2026-03-08,Billing,Store,17.2,Resolved,High
+Q00001263,C006035,2026-06-17,Network,Call Center,8.9,Escalated,Low
+Q00001264,C006045,2025-09-11,Network,App,5.0,Resolved,Low
+Q00001265,C006053,2026-03-06,Internet,Web,10.8,Resolved,Low
+Q00001266,C006067,2023-10-02,Other,App,13.1,Open,Low
+Q00001267,C006072,2026-03-12,Internet,Web,9.2,Resolved,Medium
+Q00001268,C006075,2025-11-23,Network,Store,37.6,Escalated,Low
+Q00001269,C006082,2024-07-28,Customer Service,App,2.0,Resolved,Low
+Q00001270,C006089,2026-05-10,Billing,Call Center,9.7,Resolved,Low
+Q00001271,C006090,2025-07-11,Network,Call Center,7.5,Resolved,Medium
+Q00001272,C006094,2026-06-23,Other,Call Center,13.1,Resolved,Medium
+Q00001273,C006100,2023-11-18,Internet,Call Center,21.8,Open,Low
+Q00001274,C006107,2026-03-04,Internet,Web,25.2,Resolved,High
+Q00001275,C006109,2026-06-26,Other,Call Center,8.1,Resolved,Medium
+Q00001276,C006109,2026-07-16,Internet,Call Center,9.4,Resolved,Low
+Q00001277,C006113,2025-12-05,Billing,Call Center,7.1,Resolved,Low
+Q00001278,C006116,2026-07-27,Internet,App,35.3,Resolved,Low
+Q00001279,C006116,2026-04-23,Billing,Web,11.7,Resolved,Low
+Q00001280,C006118,2024-02-26,Network,Web,4.1,Resolved,Low
+Q00001281,C006121,2024-11-16,Customer Service,Call Center,13.5,Escalated,Low
+Q00001282,C006122,2026-08-08,Billing,Web,7.7,Resolved,Low
+Q00001283,C006123,2025-02-12,Customer Service,App,11.4,Escalated,Low
+Q00001284,C006128,2026-01-10,Internet,Call Center,14.8,Resolved,Low
+Q00001285,C006129,2024-12-15,Billing,App,8.6,Resolved,Medium
+Q00001286,C006130,2026-03-08,Customer Service,App,4.4,Escalated,Low
+Q00001287,C006132,2026-03-10,Internet,App,20.3,Resolved,High
+Q00001288,C006132,2026-03-31,Billing,Web,1.8,Escalated,Low
+Q00001289,C006132,2026-04-11,Network,App,4.3,Resolved,Medium
+Q00001290,C006145,2026-01-06,Network,Store,4.5,Resolved,High
+Q00001291,C006152,2026-01-01,Internet,App,4.7,Resolved,Medium
+Q00001292,C006152,2026-03-30,Billing,App,10.0,Open,High
+Q00001293,C006153,2024-05-28,Customer Service,Call Center,5.5,Resolved,Low
+Q00001294,C006154,2025-09-18,Recharge,Call Center,6.2,Escalated,Low
+Q00001295,C006164,2025-11-20,Recharge,Call Center,2.1,Resolved,Medium
+Q00001296,C006168,2025-10-11,Billing,App,16.9,Escalated,Medium
+Q00001297,C006168,2026-07-23,Internet,Web,13.6,Resolved,Medium
+Q00001298,C006168,2025-08-28,Other,Call Center,24.7,Resolved,Low
+Q00001299,C006170,2026-06-05,Other,App,38.0,Resolved,High
+Q00001300,C006172,2024-08-18,Customer Service,App,12.6,Open,High
+Q00001301,C006180,2026-07-18,Other,Store,6.8,Resolved,Low
+Q00001302,C006185,2026-04-05,Call Quality,Web,17.4,Resolved,Low
+Q00001303,C006186,2025-12-09,Call Quality,App,33.0,Resolved,Medium
+Q00001304,C006190,2026-05-29,Network,Call Center,24.7,Resolved,Low
+Q00001305,C006196,2023-12-31,Network,Web,6.8,Resolved,Low
+Q00001306,C006207,2025-06-28,Network,Call Center,3.6,Escalated,Low
+Q00001307,C006208,2026-06-08,Internet,Call Center,9.2,Escalated,Medium
+Q00001308,C006208,2025-12-28,Network,Call Center,13.8,Resolved,High
+Q00001309,C006209,2025-01-11,Customer Service,Store,7.9,Resolved,Medium
+Q00001310,C006218,2026-01-12,Other,Web,15.0,Resolved,Low
+Q00001311,C006230,2025-04-16,Call Quality,Store,22.4,Resolved,Low
+Q00001312,C006233,2026-03-01,Customer Service,Store,4.6,Resolved,Low
+Q00001313,C006238,2024-03-06,Internet,App,21.6,Resolved,Medium
+Q00001314,C006253,2025-05-08,Network,Web,4.0,Resolved,Medium
+Q00001315,C006257,2026-03-18,Call Quality,Call Center,6.7,Resolved,Medium
+Q00001316,C006258,2024-07-05,Internet,Call Center,2.2,Open,Low
+Q00001317,C006259,2025-10-07,Internet,Call Center,22.4,Resolved,Low
+Q00001318,C006262,2025-07-13,Billing,App,20.4,Resolved,Low
+Q00001319,C006267,2023-12-19,Billing,Web,23.2,Resolved,Low
+Q00001320,C006282,2026-08-14,Network,App,15.3,Open,Low
+Q00001321,C006283,2026-05-02,Network,App,16.7,Resolved,Low
+Q00001322,C006286,2026-01-09,Recharge,App,10.2,Resolved,Medium
+Q00001323,C006288,2026-01-22,Network,Call Center,27.9,Resolved,Medium
+Q00001324,C006289,2024-11-02,Billing,Web,18.2,Resolved,Medium
+Q00001325,C006289,2024-05-09,Billing,Store,6.5,Resolved,Low
+Q00001326,C006291,2023-08-02,Network,App,17.0,Resolved,High
+Q00001327,C006293,2024-08-27,Network,Web,5.3,Open,Medium
+Q00001328,C006299,2025-12-05,Recharge,Call Center,7.8,Open,High
+Q00001329,C006302,2024-07-31,Call Quality,Web,16.3,Resolved,Medium
+Q00001330,C006305,2024-07-30,Call Quality,Call Center,9.7,Escalated,Low
+Q00001331,C006309,2024-05-07,Network,Store,4.4,Open,Low
+Q00001332,C006311,2026-07-14,Network,Call Center,14.1,Resolved,Low
+Q00001333,C006315,2026-05-17,Call Quality,Call Center,10.3,Resolved,Low
+Q00001334,C006318,2024-10-30,Network,Call Center,6.7,Resolved,Medium
+Q00001335,C006325,2026-05-09,Billing,Call Center,9.7,Resolved,Medium
+Q00001336,C006326,2026-02-15,Other,Call Center,5.9,Resolved,Medium
+Q00001337,C006337,2026-07-10,Internet,Call Center,14.8,Resolved,Low
+Q00001338,C006341,2026-06-01,Customer Service,Web,18.1,Resolved,Medium
+Q00001339,C006343,2026-05-03,Internet,Call Center,14.4,Resolved,Medium
+Q00001340,C006344,2025-11-10,Network,Web,20.4,Resolved,Medium
+Q00001341,C006348,2025-09-27,Internet,Call Center,6.7,Open,Low
+Q00001342,C006353,2026-05-18,Internet,Store,5.4,Open,Low
+Q00001343,C006354,2025-11-07,Other,Call Center,8.3,Resolved,Low
+Q00001344,C006359,2026-04-29,Customer Service,App,13.9,Resolved,Low
+Q00001345,C006365,2026-04-12,Customer Service,Call Center,25.2,Resolved,Medium
+Q00001346,C006372,2026-01-16,Call Quality,Call Center,16.4,Open,High
+Q00001347,C006376,2026-06-11,Network,Web,10.1,Resolved,Low
+Q00001348,C006377,2026-04-04,Internet,Call Center,17.8,Resolved,Low
+Q00001349,C006386,2026-06-04,Network,Web,1.6,Escalated,Medium
+Q00001350,C006394,2025-12-17,Network,Web,8.7,Resolved,High
+Q00001351,C006394,2025-12-20,Call Quality,Web,8.5,Escalated,Low
+Q00001352,C006397,2023-03-06,Other,Call Center,4.7,Resolved,Medium
+Q00001353,C006399,2026-01-25,Network,Call Center,8.1,Resolved,Medium
+Q00001354,C006405,2026-07-03,Billing,App,12.2,Escalated,High
+Q00001355,C006411,2026-04-25,Customer Service,Call Center,13.8,Resolved,Medium
+Q00001356,C006414,2024-07-22,Network,Call Center,13.6,Resolved,Low
+Q00001357,C006416,2026-01-15,Internet,Web,13.6,Resolved,Low
+Q00001358,C006417,2026-03-20,Other,Call Center,11.7,Resolved,Medium
+Q00001359,C006418,2026-06-18,Network,Call Center,3.7,Open,Low
+Q00001360,C006424,2025-09-30,Call Quality,App,24.2,Resolved,Low
+Q00001361,C006425,2025-06-03,Internet,Call Center,22.6,Resolved,Low
+Q00001362,C006427,2023-07-27,Internet,Call Center,26.2,Resolved,Low
+Q00001363,C006434,2026-07-19,Billing,Call Center,13.3,Resolved,Medium
+Q00001364,C006445,2025-09-26,Network,Call Center,14.4,Resolved,Medium
+Q00001365,C006455,2025-12-25,Billing,Store,8.0,Resolved,Medium
+Q00001366,C006482,2026-01-24,Call Quality,Store,3.0,Resolved,Low
+Q00001367,C006487,2025-12-20,Billing,Web,8.4,Resolved,Low
+Q00001368,C006488,2025-12-27,Customer Service,App,8.7,Resolved,Medium
+Q00001369,C006504,2026-02-22,Network,Call Center,27.2,Open,High
+Q00001370,C006505,2025-04-09,Recharge,Call Center,16.9,Resolved,Medium
+Q00001371,C006508,2025-11-02,Call Quality,Web,3.4,Resolved,Medium
+Q00001372,C006516,2026-02-26,Recharge,App,17.7,Resolved,Medium
+Q00001373,C006524,2025-06-20,Internet,Web,9.7,Resolved,Medium
+Q00001374,C006528,2023-06-21,Other,Call Center,15.8,Escalated,Medium
+Q00001375,C006536,2025-08-23,Recharge,App,18.6,Resolved,High
+Q00001376,C006546,2026-08-17,Network,Web,11.5,Resolved,Low
+Q00001377,C006547,2026-01-28,Call Quality,App,11.9,Resolved,Low
+Q00001378,C006549,2026-05-25,Recharge,Call Center,18.8,Resolved,Low
+Q00001379,C006552,2026-04-08,Call Quality,Call Center,29.4,Resolved,Low
+Q00001380,C006558,2026-05-12,Network,Store,35.9,Escalated,Medium
+Q00001381,C006559,2025-10-07,Recharge,App,8.0,Resolved,High
+Q00001382,C006560,2024-11-15,Customer Service,App,24.0,Resolved,Low
+Q00001383,C006576,2023-09-17,Billing,Call Center,7.4,Resolved,Low
+Q00001384,C006576,2026-06-19,Billing,Call Center,11.3,Escalated,Medium
+Q00001385,C006577,2026-05-19,Network,Store,9.0,Resolved,Low
+Q00001386,C006584,2026-02-18,Network,Call Center,6.7,Resolved,Medium
+Q00001387,C006588,2025-06-05,Customer Service,Call Center,11.6,Open,Low
+Q00001388,C006591,2023-10-04,Other,Call Center,27.3,Resolved,Medium
+Q00001389,C006599,2024-09-11,Network,App,7.1,Resolved,Low
+Q00001390,C006599,2025-02-25,Call Quality,Web,6.2,Resolved,Medium
+Q00001391,C006611,2026-02-12,Recharge,App,12.5,Resolved,Low
+Q00001392,C006625,2026-08-26,Internet,Call Center,19.3,Resolved,Low
+Q00001393,C006630,2026-05-22,Network,Call Center,7.7,Escalated,Low
+Q00001394,C006632,2026-05-24,Internet,Call Center,8.2,Resolved,Low
+Q00001395,C006650,2024-12-11,Customer Service,Call Center,17.7,Escalated,Medium
+Q00001396,C006656,2024-04-17,Other,Web,13.6,Resolved,Low
+Q00001397,C006661,2025-01-07,Billing,Call Center,6.5,Open,Medium
+Q00001398,C006668,2026-02-25,Call Quality,Call Center,12.0,Open,Medium
+Q00001399,C006674,2024-11-28,Customer Service,App,31.7,Escalated,Low
+Q00001400,C006674,2025-12-09,Network,Web,15.6,Resolved,Medium
+Q00001401,C006678,2026-06-28,Network,Call Center,13.6,Resolved,Medium
+Q00001402,C006678,2025-07-22,Network,App,6.3,Resolved,Medium
+Q00001403,C006679,2025-07-15,Call Quality,Call Center,10.7,Resolved,Medium
+Q00001404,C006686,2026-04-12,Network,Web,10.6,Resolved,Medium
+Q00001405,C006702,2025-11-17,Internet,Call Center,8.6,Resolved,High
+Q00001406,C006711,2026-04-13,Internet,App,13.0,Resolved,Low
+Q00001407,C006711,2024-10-21,Network,Call Center,10.7,Resolved,Medium
+Q00001408,C006712,2025-07-31,Other,Call Center,6.5,Resolved,Medium
+Q00001409,C006713,2026-05-30,Call Quality,Web,16.3,Open,Low
+Q00001410,C006720,2026-06-03,Internet,Store,54.1,Resolved,Low
+Q00001411,C006723,2025-10-21,Customer Service,App,28.4,Resolved,Medium
+Q00001412,C006727,2026-04-04,Billing,Store,25.2,Resolved,Low
+Q00001413,C006737,2026-06-17,Other,Call Center,8.0,Resolved,Low
+Q00001414,C006742,2026-03-27,Billing,Call Center,26.0,Escalated,Medium
+Q00001415,C006744,2023-10-25,Other,Web,36.1,Resolved,Medium
+Q00001416,C006755,2025-12-15,Other,Web,5.9,Resolved,Medium
+Q00001417,C006768,2026-02-05,Customer Service,Web,7.9,Resolved,High
+Q00001418,C006779,2026-05-19,Internet,Web,15.1,Resolved,Low
+Q00001419,C006781,2026-06-04,Network,Store,21.9,Resolved,Low
+Q00001420,C006783,2025-09-19,Recharge,Call Center,4.0,Resolved,High
+Q00001421,C006787,2026-02-16,Recharge,Web,24.6,Resolved,Medium
+Q00001422,C006797,2025-04-02,Network,App,9.7,Escalated,High
+Q00001423,C006802,2026-05-25,Recharge,Call Center,5.3,Resolved,Low
+Q00001424,C006806,2026-03-19,Internet,Store,11.9,Resolved,Low
+Q00001425,C006807,2024-12-02,Network,App,35.1,Resolved,Medium
+Q00001426,C006808,2025-03-06,Internet,Call Center,6.2,Escalated,Low
+Q00001427,C006811,2026-03-08,Call Quality,Web,20.8,Resolved,Low
+Q00001428,C006819,2025-12-09,Recharge,App,25.8,Open,Low
+Q00001429,C006822,2024-10-18,Network,Call Center,15.0,Resolved,Medium
+Q00001430,C006823,2026-02-11,Billing,App,21.2,Resolved,Low
+Q00001431,C006827,2026-08-17,Customer Service,Call Center,11.2,Resolved,Medium
+Q00001432,C006829,2024-02-27,Call Quality,Call Center,32.9,Resolved,Low
+Q00001433,C006841,2024-04-16,Customer Service,Web,16.6,Resolved,Low
+Q00001434,C006842,2026-07-09,Billing,App,8.8,Resolved,Low
+Q00001435,C006858,2026-05-29,Recharge,Call Center,9.6,Resolved,Low
+Q00001436,C006859,2025-07-06,Internet,Call Center,36.2,Resolved,Low
+Q00001437,C006860,2025-12-23,Internet,Web,10.0,Resolved,Low
+Q00001438,C006864,2026-04-17,Billing,Store,3.2,Resolved,Medium
+Q00001439,C006866,2025-12-29,Recharge,Call Center,12.4,Resolved,Low
+Q00001440,C006872,2024-11-19,Network,Call Center,3.7,Resolved,Medium
+Q00001441,C006901,2024-08-02,Network,App,2.4,Resolved,Low
+Q00001442,C006904,2026-06-15,Network,Web,12.1,Resolved,Medium
+Q00001443,C006906,2024-05-03,Customer Service,Call Center,9.4,Resolved,Low
+Q00001444,C006925,2025-12-20,Network,Call Center,3.2,Resolved,Low
+Q00001445,C006931,2025-12-22,Customer Service,Call Center,24.3,Resolved,Low
+Q00001446,C006943,2025-09-19,Internet,Web,17.1,Resolved,Medium
+Q00001447,C006945,2025-09-26,Network,Call Center,13.5,Resolved,Low
+Q00001448,C006953,2026-04-15,Recharge,Call Center,11.1,Resolved,Medium
+Q00001449,C006959,2026-04-16,Customer Service,Call Center,41.4,Escalated,Low
+Q00001450,C006959,2024-03-30,Call Quality,App,6.1,Resolved,Low
+Q00001451,C006963,2024-03-18,Recharge,Call Center,6.5,Escalated,High
+Q00001452,C006969,2026-06-03,Network,App,14.7,Resolved,Low
+Q00001453,C006984,2026-01-24,Internet,Call Center,4.6,Resolved,Low
+Q00001454,C006985,2026-03-14,Customer Service,Call Center,21.2,Resolved,High
+Q00001455,C006994,2026-03-13,Other,Call Center,39.4,Resolved,Low
+Q00001456,C006997,2026-05-16,Call Quality,Call Center,12.6,Resolved,High
+Q00001457,C007009,2026-03-04,Call Quality,Call Center,8.4,Resolved,Medium
+Q00001458,C007011,2026-08-22,Customer Service,Web,13.9,Resolved,Low
+Q00001459,C007016,2026-01-17,Network,Call Center,11.1,Open,Medium
+Q00001460,C007019,2026-06-30,Network,App,12.0,Open,Low
+Q00001461,C007021,2026-03-20,Recharge,Call Center,27.3,Resolved,Low
+Q00001462,C007024,2026-04-20,Internet,Call Center,28.8,Open,Low
+Q00001463,C007027,2026-05-21,Call Quality,App,12.5,Escalated,High
+Q00001464,C007031,2026-01-25,Recharge,Call Center,16.6,Resolved,Low
+Q00001465,C007042,2024-11-12,Internet,Store,21.8,Resolved,Medium
+Q00001466,C007045,2026-01-30,Network,Store,2.5,Open,Low
+Q00001467,C007046,2023-08-28,Network,Call Center,14.3,Open,Medium
+Q00001468,C007047,2024-04-05,Call Quality,Call Center,42.4,Resolved,Low
+Q00001469,C007049,2025-09-03,Internet,Call Center,9.0,Resolved,High
+Q00001470,C007051,2025-09-12,Customer Service,Call Center,5.9,Open,Low
+Q00001471,C007057,2025-08-03,Network,App,24.4,Resolved,Low
+Q00001472,C007062,2024-06-21,Network,Web,8.2,Open,Medium
+Q00001473,C007068,2026-03-31,Internet,Web,7.6,Resolved,Low
+Q00001474,C007085,2026-03-09,Network,Call Center,25.7,Resolved,Low
+Q00001475,C007086,2022-10-22,Internet,Call Center,17.7,Resolved,Low
+Q00001476,C007090,2024-09-08,Network,Web,15.8,Resolved,High
+Q00001477,C007097,2024-03-27,Billing,App,45.2,Resolved,Low
+Q00001478,C007104,2026-07-29,Recharge,App,19.6,Resolved,Medium
+Q00001479,C007109,2023-08-03,Customer Service,Store,6.6,Resolved,Medium
+Q00001480,C007111,2025-04-04,Internet,Call Center,16.3,Resolved,Low
+Q00001481,C007116,2025-01-07,Billing,App,16.1,Resolved,Medium
+Q00001482,C007119,2025-08-07,Internet,App,22.1,Escalated,Low
+Q00001483,C007119,2024-06-28,Recharge,Web,4.5,Resolved,Medium
+Q00001484,C007121,2025-02-01,Other,Web,8.0,Resolved,Medium
+Q00001485,C007123,2024-06-22,Network,App,14.8,Resolved,Low
+Q00001486,C007126,2026-05-30,Customer Service,App,11.9,Resolved,Medium
+Q00001487,C007128,2022-10-26,Network,Web,15.8,Resolved,Medium
+Q00001488,C007135,2025-12-12,Network,Call Center,19.2,Escalated,High
+Q00001489,C007141,2026-02-12,Network,Call Center,21.1,Resolved,Medium
+Q00001490,C007142,2025-11-21,Call Quality,Call Center,14.5,Resolved,Medium
+Q00001491,C007147,2024-08-02,Other,Call Center,2.5,Resolved,Medium
+Q00001492,C007154,2025-08-14,Call Quality,Call Center,3.2,Resolved,Low
+Q00001493,C007161,2026-06-26,Customer Service,Call Center,7.4,Escalated,Low
+Q00001494,C007161,2026-06-28,Network,Web,11.7,Resolved,Low
+Q00001495,C007162,2026-04-12,Internet,Web,8.2,Resolved,Low
+Q00001496,C007162,2026-08-24,Internet,App,30.8,Resolved,Low
+Q00001497,C007167,2026-04-16,Billing,App,10.3,Resolved,Low
+Q00001498,C007169,2024-01-02,Other,Call Center,13.3,Resolved,Medium
+Q00001499,C007177,2024-09-29,Call Quality,App,23.3,Resolved,Low
+Q00001500,C007181,2025-12-31,Internet,Call Center,1.4,Resolved,Medium
+Q00001501,C007187,2026-01-26,Billing,Store,10.5,Resolved,Low
+Q00001502,C007195,2026-03-21,Customer Service,Call Center,30.0,Resolved,Medium
+Q00001503,C007195,2026-03-12,Network,Call Center,12.0,Resolved,Low
+Q00001504,C007195,2026-05-08,Billing,Call Center,15.5,Resolved,Medium
+Q00001505,C007197,2024-07-24,Network,Call Center,31.3,Resolved,Medium
+Q00001506,C007206,2024-10-04,Customer Service,Web,5.4,Resolved,Low
+Q00001507,C007207,2026-07-02,Network,Call Center,9.2,Resolved,Low
+Q00001508,C007209,2026-06-24,Network,Call Center,11.1,Resolved,Low
+Q00001509,C007211,2026-01-18,Customer Service,App,18.9,Resolved,Low
+Q00001510,C007216,2026-06-04,Recharge,Call Center,17.2,Resolved,High
+Q00001511,C007217,2026-04-13,Call Quality,Call Center,15.2,Resolved,Low
+Q00001512,C007218,2024-01-27,Other,Call Center,5.6,Resolved,Low
+Q00001513,C007218,2025-12-14,Internet,Call Center,19.2,Resolved,Low
+Q00001514,C007223,2026-06-04,Customer Service,Call Center,10.6,Open,Low
+Q00001515,C007228,2026-02-07,Other,App,23.1,Resolved,Low
+Q00001516,C007231,2025-08-08,Network,Call Center,23.0,Resolved,Medium
+Q00001517,C007232,2026-05-15,Network,Call Center,28.7,Resolved,Medium
+Q00001518,C007233,2026-05-08,Billing,Call Center,6.4,Resolved,Low
+Q00001519,C007234,2025-08-09,Call Quality,Web,4.4,Escalated,Medium
+Q00001520,C007244,2026-02-17,Network,Call Center,5.3,Resolved,Low
+Q00001521,C007245,2026-02-27,Billing,Call Center,14.0,Resolved,Medium
+Q00001522,C007246,2026-03-26,Network,App,7.3,Resolved,Medium
+Q00001523,C007247,2026-06-23,Customer Service,Call Center,10.5,Resolved,Medium
+Q00001524,C007248,2026-04-20,Internet,Call Center,19.7,Resolved,High
+Q00001525,C007250,2026-07-24,Billing,Store,23.7,Open,Medium
+Q00001526,C007253,2026-03-30,Network,Call Center,6.2,Resolved,High
+Q00001527,C007253,2026-04-14,Customer Service,App,5.5,Resolved,Low
+Q00001528,C007264,2024-10-26,Network,App,9.0,Resolved,Low
+Q00001529,C007265,2025-07-07,Billing,Call Center,16.3,Resolved,Medium
+Q00001530,C007284,2026-06-10,Internet,Web,26.4,Resolved,Low
+Q00001531,C007287,2024-08-01,Network,App,22.6,Escalated,Low
+Q00001532,C007289,2026-01-11,Customer Service,App,21.8,Open,Medium
+Q00001533,C007289,2026-01-27,Recharge,App,13.7,Resolved,Low
+Q00001534,C007290,2026-02-10,Recharge,Call Center,2.8,Resolved,Low
+Q00001535,C007292,2023-11-23,Other,App,26.8,Resolved,Medium
+Q00001536,C007292,2025-09-06,Billing,App,20.7,Resolved,Medium
+Q00001537,C007296,2025-11-01,Network,Call Center,6.5,Open,Low
+Q00001538,C007298,2025-07-13,Network,Store,16.5,Resolved,Low
+Q00001539,C007301,2026-02-18,Network,Web,2.9,Resolved,Low
+Q00001540,C007306,2025-03-30,Internet,Web,8.6,Resolved,Medium
+Q00001541,C007313,2025-10-05,Recharge,App,9.2,Resolved,Medium
+Q00001542,C007317,2025-11-25,Internet,Store,8.0,Resolved,Low
+Q00001543,C007322,2026-03-17,Billing,Call Center,33.3,Resolved,Low
+Q00001544,C007324,2025-12-12,Billing,Call Center,13.0,Resolved,Low
+Q00001545,C007328,2026-06-26,Call Quality,Call Center,9.4,Resolved,Low
+Q00001546,C007333,2026-05-03,Network,Call Center,13.5,Resolved,High
+Q00001547,C007339,2024-03-13,Billing,App,20.6,Resolved,Medium
+Q00001548,C007344,2026-01-16,Network,App,21.5,Resolved,High
+Q00001549,C007346,2023-10-07,Customer Service,App,20.8,Resolved,Low
+Q00001550,C007347,2024-08-11,Billing,Call Center,20.8,Open,Low
+Q00001551,C007351,2026-02-14,Network,Call Center,15.0,Resolved,Low
+Q00001552,C007366,2023-08-01,Network,App,21.3,Resolved,Low
+Q00001553,C007381,2026-06-11,Network,Call Center,3.6,Resolved,Low
+Q00001554,C007394,2026-03-30,Other,Call Center,11.5,Resolved,Medium
+Q00001555,C007409,2025-06-28,Network,Call Center,12.1,Resolved,Medium
+Q00001556,C007415,2026-05-27,Internet,App,21.4,Resolved,Low
+Q00001557,C007415,2022-10-31,Other,App,3.5,Resolved,Medium
+Q00001558,C007418,2024-04-11,Call Quality,Store,7.2,Resolved,High
+Q00001559,C007438,2023-03-19,Call Quality,Call Center,3.9,Resolved,Medium
+Q00001560,C007439,2026-07-20,Network,App,5.1,Resolved,Low
+Q00001561,C007440,2023-07-16,Internet,Store,8.5,Resolved,Medium
+Q00001562,C007440,2025-03-14,Network,Store,25.4,Escalated,Medium
+Q00001563,C007441,2024-01-02,Recharge,Call Center,7.3,Open,Low
+Q00001564,C007445,2026-05-05,Recharge,Call Center,2.8,Resolved,Medium
+Q00001565,C007447,2023-05-26,Network,Call Center,24.1,Escalated,Low
+Q00001566,C007452,2026-07-08,Call Quality,Web,14.6,Resolved,Low
+Q00001567,C007455,2022-11-18,Recharge,Call Center,15.4,Resolved,High
+Q00001568,C007456,2025-01-15,Internet,Call Center,21.1,Escalated,Medium
+Q00001569,C007458,2026-03-11,Network,Call Center,19.6,Resolved,Medium
+Q00001570,C007460,2025-10-07,Recharge,Store,4.1,Open,Medium
+Q00001571,C007460,2026-04-17,Recharge,Store,14.8,Open,Medium
+Q00001572,C007479,2026-08-17,Billing,App,21.2,Resolved,Medium
+Q00001573,C007480,2026-07-15,Network,App,17.1,Resolved,Low
+Q00001574,C007481,2025-11-05,Call Quality,App,20.4,Resolved,Medium
+Q00001575,C007483,2025-12-11,Other,Call Center,13.6,Resolved,Medium
+Q00001576,C007486,2024-09-13,Customer Service,Store,3.8,Resolved,Medium
+Q00001577,C007488,2026-07-27,Internet,Call Center,8.3,Resolved,Medium
+Q00001578,C007491,2026-02-24,Network,Call Center,9.3,Resolved,Low
+Q00001579,C007492,2026-01-03,Call Quality,App,7.2,Resolved,Low
+Q00001580,C007495,2026-07-13,Call Quality,Call Center,7.5,Open,Low
+Q00001581,C007500,2024-02-08,Call Quality,Call Center,36.2,Resolved,Medium
+Q00001582,C007504,2026-05-27,Customer Service,App,6.2,Resolved,Low
+Q00001583,C007505,2023-06-12,Network,Call Center,8.0,Resolved,Medium
+Q00001584,C007506,2025-04-04,Network,Call Center,16.2,Resolved,Medium
+Q00001585,C007512,2026-02-14,Network,Store,8.5,Resolved,Low
+Q00001586,C007523,2026-04-07,Billing,Web,7.2,Resolved,Medium
+Q00001587,C007526,2025-09-28,Network,Web,4.8,Open,Low
+Q00001588,C007527,2024-09-14,Internet,Web,13.5,Resolved,Low
+Q00001589,C007533,2025-02-26,Call Quality,Store,7.0,Resolved,Low
+Q00001590,C007539,2022-10-16,Internet,Store,22.0,Escalated,Medium
+Q00001591,C007541,2026-03-04,Network,Store,33.9,Resolved,Medium
+Q00001592,C007546,2025-12-26,Call Quality,Call Center,26.3,Resolved,Low
+Q00001593,C007552,2025-07-21,Recharge,App,19.2,Resolved,Medium
+Q00001594,C007552,2025-08-24,Customer Service,Call Center,11.0,Resolved,Low
+Q00001595,C007566,2026-02-14,Recharge,Call Center,14.0,Resolved,Medium
+Q00001596,C007578,2025-09-28,Billing,App,28.5,Resolved,Low
+Q00001597,C007579,2026-07-01,Network,Store,11.9,Resolved,Medium
+Q00001598,C007586,2026-06-10,Network,App,15.7,Resolved,Low
+Q00001599,C007586,2026-05-11,Recharge,Call Center,22.6,Resolved,Low
+Q00001600,C007592,2023-01-07,Billing,Call Center,15.9,Resolved,Low
+Q00001601,C007593,2026-02-06,Customer Service,Web,18.3,Resolved,Medium
+Q00001602,C007604,2026-02-04,Network,App,20.1,Resolved,Medium
+Q00001603,C007606,2026-07-27,Call Quality,Call Center,15.3,Resolved,Medium
+Q00001604,C007607,2024-02-01,Call Quality,Store,7.2,Resolved,Low
+Q00001605,C007621,2022-05-04,Internet,Web,9.7,Resolved,Low
+Q00001606,C007621,2025-10-28,Network,Store,19.0,Resolved,Low
+Q00001607,C007624,2026-01-13,Network,Call Center,22.6,Resolved,Medium
+Q00001608,C007625,2026-03-13,Network,Call Center,31.0,Resolved,Low
+Q00001609,C007631,2026-05-22,Billing,Call Center,30.8,Resolved,Low
+Q00001610,C007633,2025-10-22,Call Quality,App,10.8,Resolved,Medium
+Q00001611,C007636,2026-06-23,Network,App,6.7,Resolved,Low
+Q00001612,C007646,2023-12-04,Customer Service,App,16.6,Resolved,Low
+Q00001613,C007646,2026-08-23,Call Quality,Call Center,10.4,Resolved,High
+Q00001614,C007650,2025-09-20,Network,Call Center,14.1,Resolved,Medium
+Q00001615,C007658,2026-06-17,Network,Call Center,9.6,Resolved,Low
+Q00001616,C007663,2026-06-25,Call Quality,Call Center,1.8,Open,High
+Q00001617,C007676,2026-01-05,Call Quality,Web,8.7,Resolved,Low
+Q00001618,C007677,2024-11-22,Customer Service,Store,10.1,Resolved,Low
+Q00001619,C007679,2025-09-19,Call Quality,Store,21.4,Resolved,Medium
+Q00001620,C007684,2025-06-28,Internet,Call Center,25.3,Resolved,Low
+Q00001621,C007687,2023-12-15,Recharge,App,24.0,Resolved,Low
+Q00001622,C007692,2025-10-17,Billing,Call Center,16.0,Resolved,Low
+Q00001623,C007692,2026-05-24,Billing,Call Center,18.6,Open,Low
+Q00001624,C007697,2025-08-03,Internet,Call Center,16.2,Resolved,Medium
+Q00001625,C007700,2024-05-12,Customer Service,App,9.5,Resolved,Medium
+Q00001626,C007703,2026-06-15,Network,Call Center,26.7,Resolved,Low
+Q00001627,C007712,2026-06-12,Billing,Call Center,18.9,Resolved,Low
+Q00001628,C007716,2026-02-17,Customer Service,Call Center,10.7,Resolved,Medium
+Q00001629,C007719,2022-08-14,Network,Web,12.3,Resolved,Medium
+Q00001630,C007721,2025-10-15,Network,Call Center,18.3,Resolved,Medium
+Q00001631,C007723,2025-08-16,Billing,Web,1.2,Resolved,Low
+Q00001632,C007724,2025-06-19,Internet,Web,5.8,Resolved,Medium
+Q00001633,C007728,2026-05-21,Call Quality,Call Center,12.6,Escalated,Medium
+Q00001634,C007729,2026-04-19,Billing,App,13.7,Resolved,Low
+Q00001635,C007736,2024-01-16,Internet,Web,15.1,Resolved,Medium
+Q00001636,C007736,2025-06-18,Call Quality,Call Center,20.2,Escalated,Low
+Q00001637,C007742,2026-05-05,Call Quality,Web,13.7,Resolved,Low
+Q00001638,C007746,2026-01-25,Other,Store,8.6,Resolved,Medium
+Q00001639,C007747,2026-04-27,Other,Web,22.3,Resolved,Low
+Q00001640,C007748,2026-01-14,Internet,App,9.7,Resolved,Low
+Q00001641,C007750,2026-07-08,Network,Call Center,12.6,Resolved,Medium
+Q00001642,C007750,2026-03-21,Billing,Call Center,16.7,Resolved,Low
+Q00001643,C007753,2025-07-31,Billing,Web,20.0,Open,Medium
+Q00001644,C007760,2026-08-29,Billing,Web,24.4,Escalated,Low
+Q00001645,C007764,2024-03-20,Network,App,24.4,Resolved,High
+Q00001646,C007768,2026-07-22,Customer Service,App,16.5,Resolved,Low
+Q00001647,C007768,2026-07-11,Call Quality,App,6.1,Resolved,Low
+Q00001648,C007780,2026-07-04,Call Quality,App,25.7,Resolved,Medium
+Q00001649,C007784,2026-04-14,Call Quality,App,2.4,Resolved,Medium
+Q00001650,C007786,2026-04-13,Network,Web,13.5,Resolved,Low
+Q00001651,C007790,2024-11-22,Network,Store,33.9,Escalated,Low
+Q00001652,C007816,2025-06-26,Internet,App,15.7,Resolved,Low
+Q00001653,C007817,2026-03-17,Billing,App,17.4,Resolved,Low
+Q00001654,C007819,2025-08-15,Billing,Call Center,13.8,Resolved,Low
+Q00001655,C007820,2026-05-25,Billing,App,32.0,Resolved,Low
+Q00001656,C007823,2026-05-15,Recharge,Web,16.2,Resolved,Medium
+Q00001657,C007824,2026-06-16,Customer Service,App,7.3,Resolved,Low
+Q00001658,C007826,2025-08-05,Internet,Call Center,37.1,Escalated,Medium
+Q00001659,C007828,2026-06-11,Network,Web,5.5,Resolved,Low
+Q00001660,C007831,2026-07-09,Customer Service,Call Center,31.1,Resolved,Low
+Q00001661,C007834,2026-04-11,Billing,Call Center,19.5,Resolved,Medium
+Q00001662,C007834,2023-04-05,Billing,App,17.8,Resolved,High
+Q00001663,C007837,2026-07-27,Network,App,11.7,Resolved,Medium
+Q00001664,C007839,2025-05-11,Customer Service,App,47.6,Resolved,Low
+Q00001665,C007840,2026-02-06,Network,Call Center,24.7,Resolved,Low
+Q00001666,C007845,2025-06-17,Other,Call Center,14.4,Open,Medium
+Q00001667,C007845,2026-01-13,Billing,Call Center,42.2,Resolved,Low
+Q00001668,C007850,2024-10-08,Call Quality,Call Center,8.0,Resolved,Low
+Q00001669,C007851,2026-05-26,Network,Store,8.7,Resolved,Low
+Q00001670,C007853,2023-06-30,Billing,Call Center,4.7,Resolved,Low
+Q00001671,C007864,2025-07-26,Call Quality,Call Center,14.2,Resolved,Medium
+Q00001672,C007865,2026-05-07,Billing,Store,20.7,Resolved,Low
+Q00001673,C007866,2026-02-06,Internet,Web,34.9,Escalated,Low
+Q00001674,C007867,2026-01-17,Internet,Call Center,21.2,Open,Low
+Q00001675,C007870,2024-11-30,Network,Web,29.5,Resolved,Low
+Q00001676,C007874,2024-02-24,Network,Call Center,17.5,Resolved,Low
+Q00001677,C007875,2025-05-23,Internet,App,14.1,Resolved,Low
+Q00001678,C007879,2025-11-14,Customer Service,Store,40.3,Resolved,High
+Q00001679,C007881,2023-07-04,Network,Web,9.3,Resolved,Medium
+Q00001680,C007886,2026-04-09,Network,Web,12.0,Escalated,High
+Q00001681,C007886,2026-05-06,Billing,Call Center,18.7,Resolved,Medium
+Q00001682,C007891,2026-01-29,Billing,App,16.5,Resolved,Medium
+Q00001683,C007914,2025-04-21,Customer Service,Web,11.2,Resolved,Medium
+Q00001684,C007914,2025-03-17,Internet,App,13.4,Resolved,Medium
+Q00001685,C007915,2022-05-17,Billing,Web,14.5,Resolved,Medium
+Q00001686,C007915,2025-10-28,Billing,Call Center,31.3,Resolved,Medium
+Q00001687,C007918,2026-05-16,Network,App,25.3,Resolved,Low
+Q00001688,C007919,2024-05-17,Other,Call Center,36.2,Resolved,Low
+Q00001689,C007931,2026-07-02,Billing,App,15.9,Resolved,Medium
+Q00001690,C007941,2026-02-19,Network,Web,7.4,Resolved,Medium
+Q00001691,C007950,2024-12-17,Network,App,3.7,Resolved,Low
+Q00001692,C007952,2025-02-15,Network,Call Center,42.7,Resolved,Low
+Q00001693,C007957,2026-02-07,Other,Call Center,9.0,Escalated,Low
+Q00001694,C007961,2026-06-07,Network,Store,15.4,Resolved,Medium
+Q00001695,C007963,2025-12-27,Call Quality,App,7.0,Resolved,Low
+Q00001696,C007963,2024-07-10,Network,App,24.5,Resolved,Low
+Q00001697,C007966,2025-04-09,Customer Service,Call Center,7.7,Resolved,Low
+Q00001698,C007967,2026-04-19,Customer Service,Call Center,7.8,Open,Low
+Q00001699,C007969,2026-03-31,Recharge,App,6.0,Resolved,Low
+Q00001700,C007973,2024-05-28,Billing,Store,15.2,Open,Medium
+Q00001701,C007984,2024-01-11,Internet,Call Center,2.5,Resolved,Low
+Q00001702,C007988,2024-04-29,Internet,Call Center,9.9,Resolved,Medium
+Q00001703,C007989,2025-10-06,Customer Service,Web,43.2,Resolved,Low
+Q00001704,C007993,2023-06-05,Recharge,Web,3.8,Resolved,Low
+Q00001705,C007996,2026-02-19,Call Quality,App,3.6,Escalated,Medium
+Q00001706,C007996,2025-05-31,Network,Call Center,4.2,Resolved,Medium
+Q00001707,C007998,2024-11-14,Network,Call Center,12.0,Open,Low
+Q00001708,C008001,2026-08-22,Billing,App,16.6,Resolved,Medium
+Q00001709,C008004,2024-10-15,Call Quality,Call Center,25.5,Escalated,Medium
+Q00001710,C008005,2023-07-08,Call Quality,Call Center,9.6,Open,Medium
+Q00001711,C008022,2026-04-07,Billing,App,33.1,Resolved,Low
+Q00001712,C008027,2024-01-19,Network,Call Center,9.7,Resolved,Medium
+Q00001713,C008027,2026-04-10,Billing,App,46.0,Escalated,Low
+Q00001714,C008037,2023-10-22,Network,Web,16.3,Open,Low
+Q00001715,C008037,2026-02-05,Customer Service,Web,10.1,Resolved,High
+Q00001716,C008039,2025-12-25,Call Quality,App,14.9,Resolved,Medium
+Q00001717,C008042,2026-03-06,Other,App,12.1,Open,Low
+Q00001718,C008043,2026-05-19,Internet,App,2.1,Open,Low
+Q00001719,C008043,2026-07-15,Network,Web,6.3,Resolved,Low
+Q00001720,C008047,2025-02-21,Network,App,12.1,Resolved,High
+Q00001721,C008050,2026-03-20,Call Quality,Web,32.1,Resolved,Low
+Q00001722,C008057,2026-06-13,Network,Call Center,19.1,Open,Low
+Q00001723,C008069,2025-02-15,Call Quality,Web,16.3,Resolved,Low
+Q00001724,C008069,2025-03-24,Billing,Call Center,10.5,Resolved,High
+Q00001725,C008078,2025-06-19,Network,App,20.7,Open,Medium
+Q00001726,C008087,2026-03-02,Network,Call Center,13.6,Resolved,Medium
+Q00001727,C008089,2022-08-05,Network,Call Center,9.4,Escalated,Medium
+Q00001728,C008091,2026-06-25,Internet,App,47.1,Resolved,Medium
+Q00001729,C008091,2026-03-27,Internet,App,12.3,Open,High
+Q00001730,C008095,2026-04-19,Network,Call Center,7.8,Resolved,Low
+Q00001731,C008099,2026-03-13,Billing,Call Center,29.3,Resolved,Medium
+Q00001732,C008104,2025-02-22,Network,Web,1.8,Resolved,Low
+Q00001733,C008107,2026-04-28,Internet,Store,29.6,Escalated,Low
+Q00001734,C008109,2026-01-25,Internet,Store,13.9,Escalated,Low
+Q00001735,C008109,2026-01-04,Network,Call Center,3.9,Escalated,High
+Q00001736,C008115,2025-06-18,Internet,Call Center,6.2,Resolved,Medium
+Q00001737,C008115,2026-04-06,Internet,Call Center,24.9,Resolved,Low
+Q00001738,C008116,2025-08-01,Call Quality,App,5.1,Open,Low
+Q00001739,C008117,2026-05-18,Billing,App,12.5,Escalated,High
+Q00001740,C008118,2026-01-19,Other,App,10.0,Resolved,Medium
+Q00001741,C008121,2026-03-05,Call Quality,Web,15.4,Resolved,Medium
+Q00001742,C008125,2022-06-29,Customer Service,Call Center,22.4,Resolved,Medium
+Q00001743,C008139,2025-02-25,Network,App,10.4,Open,Medium
+Q00001744,C008143,2026-04-20,Network,Call Center,14.2,Resolved,Low
+Q00001745,C008149,2026-04-30,Billing,Web,8.7,Resolved,Low
+Q00001746,C008150,2025-04-12,Customer Service,Call Center,5.6,Resolved,Low
+Q00001747,C008155,2025-09-19,Call Quality,Call Center,10.1,Resolved,Low
+Q00001748,C008173,2025-10-15,Internet,Call Center,20.4,Resolved,Medium
+Q00001749,C008175,2026-03-27,Billing,Store,4.7,Resolved,Medium
+Q00001750,C008175,2026-03-04,Other,App,14.2,Open,Low
+Q00001751,C008176,2026-04-07,Network,Call Center,15.7,Resolved,Low
+Q00001752,C008176,2023-12-06,Network,Call Center,43.7,Resolved,Low
+Q00001753,C008177,2025-03-22,Internet,App,17.3,Resolved,Medium
+Q00001754,C008178,2026-04-02,Network,Call Center,9.0,Resolved,Low
+Q00001755,C008181,2026-04-29,Customer Service,App,13.1,Resolved,Medium
+Q00001756,C008184,2025-04-12,Billing,Call Center,13.8,Resolved,Low
+Q00001757,C008185,2024-08-31,Internet,Call Center,8.6,Resolved,Medium
+Q00001758,C008186,2026-04-12,Customer Service,Call Center,10.0,Resolved,Low
+Q00001759,C008189,2026-01-21,Other,Call Center,4.2,Open,Medium
+Q00001760,C008193,2025-12-25,Billing,Call Center,4.4,Resolved,Low
+Q00001761,C008210,2025-10-11,Call Quality,Web,31.0,Resolved,Low
+Q00001762,C008211,2026-03-25,Network,Web,22.2,Resolved,Medium
+Q00001763,C008214,2022-10-12,Recharge,App,11.8,Resolved,High
+Q00001764,C008215,2024-01-23,Customer Service,App,16.3,Resolved,Medium
+Q00001765,C008234,2024-11-17,Network,Web,2.7,Resolved,Low
+Q00001766,C008245,2026-06-17,Call Quality,Web,7.0,Resolved,High
+Q00001767,C008254,2025-10-01,Recharge,Store,26.5,Resolved,Medium
+Q00001768,C008256,2025-07-16,Recharge,App,13.8,Resolved,Low
+Q00001769,C008277,2026-07-17,Call Quality,App,17.5,Resolved,Low
+Q00001770,C008285,2026-06-17,Internet,Call Center,52.5,Resolved,Low
+Q00001771,C008291,2023-06-01,Billing,Call Center,4.0,Resolved,Low
+Q00001772,C008293,2026-07-28,Network,Call Center,15.1,Resolved,Low
+Q00001773,C008308,2026-05-28,Call Quality,Web,25.9,Resolved,Low
+Q00001774,C008314,2023-10-29,Network,Call Center,12.8,Resolved,Low
+Q00001775,C008321,2026-08-12,Recharge,Store,13.2,Resolved,Low
+Q00001776,C008323,2023-07-25,Call Quality,App,18.1,Resolved,Medium
+Q00001777,C008325,2025-09-05,Internet,Call Center,16.8,Resolved,Medium
+Q00001778,C008336,2025-12-08,Internet,Call Center,30.6,Resolved,Low
+Q00001779,C008338,2023-05-22,Internet,App,17.6,Resolved,Low
+Q00001780,C008339,2024-04-27,Customer Service,Call Center,27.9,Resolved,Medium
+Q00001781,C008342,2023-12-11,Call Quality,App,27.1,Resolved,Low
+Q00001782,C008347,2025-11-17,Network,Store,5.7,Resolved,Low
+Q00001783,C008353,2025-10-17,Network,Call Center,27.9,Resolved,Low
+Q00001784,C008353,2023-10-22,Internet,App,14.9,Open,Low
+Q00001785,C008354,2026-03-29,Internet,App,3.3,Resolved,Low
+Q00001786,C008354,2026-05-07,Recharge,Call Center,8.6,Resolved,Low
+Q00001787,C008357,2026-02-19,Recharge,Web,6.8,Open,Low
+Q00001788,C008357,2026-06-12,Call Quality,Call Center,5.0,Resolved,Low
+Q00001789,C008357,2026-07-15,Billing,Call Center,19.5,Resolved,High
+Q00001790,C008365,2024-03-19,Network,App,9.3,Resolved,Low
+Q00001791,C008376,2026-03-20,Call Quality,Call Center,20.5,Resolved,Medium
+Q00001792,C008381,2026-06-14,Network,Web,6.4,Resolved,Low
+Q00001793,C008391,2026-03-13,Network,Call Center,12.4,Resolved,Medium
+Q00001794,C008397,2026-02-04,Network,Call Center,5.5,Resolved,Medium
+Q00001795,C008401,2026-06-10,Internet,App,16.3,Resolved,Low
+Q00001796,C008403,2026-02-20,Other,Call Center,8.1,Resolved,Low
+Q00001797,C008411,2023-03-10,Call Quality,Call Center,3.1,Resolved,Low
+Q00001798,C008417,2026-06-23,Billing,Call Center,20.2,Resolved,Low
+Q00001799,C008417,2026-06-16,Internet,App,24.9,Resolved,High
+Q00001800,C008425,2026-03-15,Network,App,7.4,Resolved,Medium
+Q00001801,C008426,2026-06-12,Billing,Call Center,6.9,Resolved,Medium
+Q00001802,C008426,2025-09-10,Network,App,9.0,Resolved,Low
+Q00001803,C008433,2026-04-10,Billing,App,21.5,Resolved,Medium
+Q00001804,C008434,2026-04-23,Network,Web,7.1,Resolved,Medium
+Q00001805,C008434,2026-05-27,Internet,App,13.9,Resolved,Low
+Q00001806,C008442,2022-07-19,Network,Call Center,30.2,Resolved,Low
+Q00001807,C008443,2024-05-28,Billing,App,0.7,Open,Medium
+Q00001808,C008444,2025-11-06,Call Quality,Call Center,17.0,Resolved,Low
+Q00001809,C008448,2026-06-08,Internet,Web,19.0,Resolved,High
+Q00001810,C008449,2025-10-28,Customer Service,Web,42.6,Resolved,Low
+Q00001811,C008450,2025-06-04,Billing,Call Center,11.3,Resolved,Medium
+Q00001812,C008458,2026-06-27,Other,App,25.1,Escalated,Medium
+Q00001813,C008476,2025-07-21,Internet,Web,16.1,Resolved,Low
+Q00001814,C008477,2026-03-28,Call Quality,App,28.8,Open,Low
+Q00001815,C008479,2026-08-08,Billing,App,17.9,Resolved,Low
+Q00001816,C008480,2026-05-20,Network,Call Center,3.4,Resolved,Medium
+Q00001817,C008481,2026-01-05,Internet,App,34.5,Open,Low
+Q00001818,C008483,2025-07-12,Network,App,5.0,Resolved,Low
+Q00001819,C008485,2025-08-16,Billing,App,4.8,Resolved,Low
+Q00001820,C008489,2025-07-18,Customer Service,Call Center,12.6,Resolved,Low
+Q00001821,C008494,2025-12-17,Call Quality,App,18.4,Escalated,Low
+Q00001822,C008496,2025-09-01,Customer Service,Call Center,14.9,Resolved,Low
+Q00001823,C008496,2024-11-24,Call Quality,Call Center,22.9,Resolved,Medium
+Q00001824,C008503,2026-03-01,Network,Web,11.7,Resolved,Medium
+Q00001825,C008508,2026-03-06,Internet,Store,2.3,Resolved,Low
+Q00001826,C008509,2024-12-27,Network,Call Center,5.1,Resolved,Medium
+Q00001827,C008512,2026-06-16,Network,Store,67.2,Resolved,Medium
+Q00001828,C008516,2026-05-16,Network,App,21.0,Resolved,Medium
+Q00001829,C008520,2026-08-04,Call Quality,Call Center,13.6,Resolved,Medium
+Q00001830,C008526,2025-10-29,Network,Call Center,2.2,Escalated,Low
+Q00001831,C008542,2023-06-16,Internet,Call Center,24.7,Resolved,Medium
+Q00001832,C008543,2026-01-17,Network,Store,5.6,Resolved,Low
+Q00001833,C008543,2026-05-25,Call Quality,Call Center,30.8,Resolved,Low
+Q00001834,C008545,2025-09-12,Internet,App,24.5,Resolved,Medium
+Q00001835,C008547,2025-06-09,Internet,Web,7.1,Resolved,Medium
+Q00001836,C008547,2024-04-06,Internet,Call Center,5.1,Resolved,Low
+Q00001837,C008549,2026-04-23,Other,App,4.5,Open,Low
+Q00001838,C008564,2026-04-12,Internet,App,25.2,Resolved,Medium
+Q00001839,C008567,2025-02-22,Network,Call Center,7.6,Resolved,Low
+Q00001840,C008567,2025-10-17,Network,Store,9.2,Resolved,Low
+Q00001841,C008569,2025-09-29,Network,Call Center,12.7,Open,Low
+Q00001842,C008569,2024-11-04,Recharge,Web,17.5,Resolved,Medium
+Q00001843,C008576,2025-07-20,Network,Call Center,20.2,Resolved,Low
+Q00001844,C008585,2025-07-06,Internet,Store,15.2,Resolved,Medium
+Q00001845,C008591,2026-05-23,Internet,Call Center,18.9,Resolved,Low
+Q00001846,C008597,2026-02-08,Billing,Web,17.5,Resolved,Low
+Q00001847,C008603,2023-12-24,Internet,Call Center,27.0,Resolved,Low
+Q00001848,C008614,2026-04-22,Call Quality,Call Center,10.2,Resolved,Medium
+Q00001849,C008617,2025-08-24,Customer Service,Call Center,43.2,Resolved,High
+Q00001850,C008648,2026-08-11,Recharge,Web,19.7,Resolved,Low
+Q00001851,C008650,2025-02-27,Network,Call Center,13.9,Escalated,Low
+Q00001852,C008653,2026-04-17,Billing,App,5.8,Open,Medium
+Q00001853,C008653,2026-05-31,Billing,App,5.8,Resolved,Medium
+Q00001854,C008653,2026-05-28,Internet,Call Center,17.1,Resolved,Medium
+Q00001855,C008654,2024-10-26,Billing,Call Center,5.7,Resolved,Low
+Q00001856,C008655,2024-11-22,Network,Call Center,5.3,Resolved,Medium
+Q00001857,C008660,2026-02-27,Customer Service,App,6.2,Resolved,Medium
+Q00001858,C008673,2025-06-12,Network,App,8.5,Escalated,Medium
+Q00001859,C008674,2026-03-06,Billing,Call Center,6.3,Resolved,Low
+Q00001860,C008683,2026-05-17,Recharge,Call Center,21.0,Escalated,Medium
+Q00001861,C008689,2023-04-24,Network,App,12.1,Open,Low
+Q00001862,C008692,2025-04-23,Network,Store,29.4,Resolved,Low
+Q00001863,C008692,2025-11-04,Network,Store,3.9,Resolved,Low
+Q00001864,C008696,2025-08-01,Billing,App,13.4,Resolved,Low
+Q00001865,C008701,2025-01-20,Call Quality,App,11.0,Escalated,Low
+Q00001866,C008703,2025-11-21,Customer Service,Web,13.5,Escalated,Medium
+Q00001867,C008705,2024-04-18,Internet,App,4.1,Resolved,Medium
+Q00001868,C008715,2025-10-14,Network,App,17.8,Resolved,Low
+Q00001869,C008721,2025-06-17,Network,App,6.3,Escalated,Low
+Q00001870,C008747,2025-11-21,Internet,App,4.5,Resolved,Medium
+Q00001871,C008756,2024-03-28,Recharge,App,13.2,Resolved,Low
+Q00001872,C008766,2026-08-15,Customer Service,Store,6.6,Resolved,Low
+Q00001873,C008769,2026-02-16,Internet,Call Center,11.3,Open,Low
+Q00001874,C008771,2025-07-26,Call Quality,Call Center,22.6,Resolved,Low
+Q00001875,C008774,2025-05-18,Billing,App,1.3,Open,High
+Q00001876,C008774,2024-10-21,Billing,Store,13.0,Resolved,Medium
+Q00001877,C008779,2026-04-09,Network,Web,23.3,Resolved,Medium
+Q00001878,C008786,2026-04-11,Call Quality,Call Center,5.2,Resolved,Medium
+Q00001879,C008803,2026-05-17,Internet,App,11.8,Resolved,Low
+Q00001880,C008812,2024-12-04,Network,Call Center,20.2,Resolved,Low
+Q00001881,C008816,2026-05-28,Call Quality,Call Center,4.3,Escalated,Low
+Q00001882,C008817,2026-05-10,Network,App,4.8,Resolved,Low
+Q00001883,C008836,2026-07-29,Call Quality,App,16.7,Resolved,Low
+Q00001884,C008838,2024-12-01,Internet,App,16.8,Resolved,Medium
+Q00001885,C008839,2025-07-17,Network,Web,28.3,Resolved,Medium
+Q00001886,C008842,2024-03-22,Customer Service,App,7.3,Resolved,Medium
+Q00001887,C008844,2026-03-31,Other,Call Center,20.6,Escalated,Medium
+Q00001888,C008844,2026-01-19,Call Quality,Call Center,5.7,Resolved,Low
+Q00001889,C008845,2026-04-19,Customer Service,Call Center,14.5,Resolved,Low
+Q00001890,C008854,2024-02-04,Customer Service,Web,17.3,Resolved,Low
+Q00001891,C008856,2026-05-04,Billing,App,20.8,Resolved,Low
+Q00001892,C008864,2026-04-08,Internet,Web,10.3,Escalated,Medium
+Q00001893,C008870,2026-05-02,Customer Service,Call Center,11.4,Resolved,Low
+Q00001894,C008871,2024-11-12,Network,Web,5.2,Resolved,Low
+Q00001895,C008879,2026-01-04,Internet,Web,11.7,Resolved,Low
+Q00001896,C008880,2026-06-02,Internet,Web,15.0,Resolved,Low
+Q00001897,C008883,2025-12-13,Network,Call Center,21.6,Resolved,Medium
+Q00001898,C008885,2025-05-29,Network,Call Center,37.6,Open,Low
+Q00001899,C008890,2026-07-10,Network,App,7.2,Escalated,Medium
+Q00001900,C008897,2026-04-28,Call Quality,Call Center,14.5,Resolved,Low
+Q00001901,C008898,2024-05-13,Network,Call Center,8.5,Open,Low
+Q00001902,C008909,2022-11-24,Call Quality,Store,47.1,Resolved,Medium
+Q00001903,C008909,2023-11-28,Internet,Web,18.7,Resolved,Low
+Q00001904,C008910,2023-03-04,Network,Web,14.7,Resolved,Medium
+Q00001905,C008913,2026-04-20,Billing,Call Center,18.2,Resolved,Low
+Q00001906,C008914,2023-02-24,Recharge,Call Center,12.9,Resolved,Medium
+Q00001907,C008917,2023-02-08,Billing,App,13.9,Open,Low
+Q00001908,C008917,2024-11-07,Other,Web,37.0,Escalated,Medium
+Q00001909,C008925,2025-12-02,Call Quality,App,3.6,Resolved,Low
+Q00001910,C008933,2023-09-06,Network,Web,13.7,Resolved,Medium
+Q00001911,C008935,2026-05-21,Customer Service,Call Center,7.3,Resolved,Low
+Q00001912,C008952,2025-01-22,Internet,Call Center,20.4,Resolved,Low
+Q00001913,C008952,2026-05-02,Other,App,17.3,Escalated,Medium
+Q00001914,C008974,2026-01-17,Customer Service,Call Center,6.7,Resolved,Low
+Q00001915,C008975,2026-06-06,Internet,App,1.7,Escalated,Low
+Q00001916,C008975,2026-06-24,Billing,Call Center,4.1,Resolved,Medium
+Q00001917,C008976,2026-01-10,Internet,Call Center,5.9,Resolved,High
+Q00001918,C008981,2026-03-06,Internet,App,13.0,Resolved,Low
+Q00001919,C008987,2025-08-15,Recharge,Call Center,13.3,Resolved,Low
+Q00001920,C008990,2025-01-15,Internet,Store,13.4,Resolved,Low
+Q00001921,C008990,2026-03-19,Other,Call Center,11.7,Resolved,High
+Q00001922,C008990,2026-03-17,Network,App,33.1,Resolved,Low
+Q00001923,C008996,2026-04-04,Other,Call Center,16.4,Resolved,Medium
+Q00001924,C008997,2023-08-19,Network,Call Center,0.7,Resolved,Low
+Q00001925,C009000,2026-04-19,Network,Web,5.8,Resolved,High
+Q00001926,C009000,2026-05-06,Network,Store,13.7,Resolved,Low
+Q00001927,C009002,2022-04-26,Call Quality,Store,9.8,Resolved,Medium
+Q00001928,C009003,2026-04-28,Network,App,6.5,Resolved,Medium
+Q00001929,C009006,2026-05-20,Internet,Call Center,14.1,Resolved,Low
+Q00001930,C009012,2026-05-02,Billing,App,4.4,Resolved,Low
+Q00001931,C009014,2026-02-05,Network,App,16.8,Resolved,Medium
+Q00001932,C009026,2026-01-21,Call Quality,Call Center,11.8,Resolved,Low
+Q00001933,C009032,2026-05-21,Billing,Store,11.4,Resolved,Low
+Q00001934,C009037,2026-01-15,Network,App,27.4,Resolved,Low
+Q00001935,C009038,2026-03-14,Other,App,25.9,Resolved,Low
+Q00001936,C009038,2026-05-10,Call Quality,Web,6.7,Resolved,Medium
+Q00001937,C009038,2026-05-05,Network,Call Center,9.5,Resolved,High
+Q00001938,C009040,2026-06-06,Call Quality,App,23.0,Resolved,Low
+Q00001939,C009041,2026-06-13,Customer Service,Store,18.3,Resolved,Low
+Q00001940,C009044,2025-06-09,Customer Service,Web,16.9,Escalated,Low
+Q00001941,C009045,2026-06-08,Other,App,10.4,Resolved,High
+Q00001942,C009057,2026-01-17,Network,Web,41.1,Resolved,Low
+Q00001943,C009066,2026-01-24,Customer Service,Call Center,18.0,Resolved,Low
+Q00001944,C009073,2026-02-17,Other,Web,20.1,Resolved,Low
+Q00001945,C009073,2026-01-02,Call Quality,Call Center,12.8,Escalated,Low
+Q00001946,C009079,2024-02-01,Recharge,Call Center,12.2,Escalated,Low
+Q00001947,C009085,2025-11-29,Call Quality,Call Center,21.6,Resolved,Low
+Q00001948,C009088,2026-04-16,Call Quality,App,5.7,Escalated,Low
+Q00001949,C009088,2026-04-09,Network,Store,22.2,Resolved,Low
+Q00001950,C009089,2026-05-31,Internet,Web,24.2,Escalated,High
+Q00001951,C009090,2026-06-04,Call Quality,Web,3.3,Resolved,High
+Q00001952,C009092,2025-12-18,Other,Web,8.5,Resolved,Low
+Q00001953,C009095,2025-01-07,Network,Store,16.6,Resolved,Medium
+Q00001954,C009100,2026-04-05,Customer Service,Call Center,26.5,Resolved,Low
+Q00001955,C009101,2025-12-14,Network,Call Center,4.3,Resolved,Low
+Q00001956,C009115,2026-07-04,Billing,Call Center,13.4,Resolved,Medium
+Q00001957,C009116,2024-04-07,Billing,Call Center,5.8,Resolved,Low
+Q00001958,C009121,2026-01-01,Network,Call Center,17.0,Resolved,Medium
+Q00001959,C009122,2024-08-03,Call Quality,Web,43.9,Resolved,Low
+Q00001960,C009124,2026-03-29,Internet,App,16.0,Resolved,Medium
+Q00001961,C009124,2026-02-14,Internet,App,22.9,Resolved,High
+Q00001962,C009129,2024-11-25,Billing,Store,24.4,Resolved,Low
+Q00001963,C009131,2025-02-05,Internet,Call Center,8.7,Resolved,Medium
+Q00001964,C009136,2026-07-23,Network,App,5.2,Resolved,Low
+Q00001965,C009140,2025-03-29,Internet,Web,10.6,Resolved,Medium
+Q00001966,C009141,2025-09-05,Customer Service,App,11.3,Resolved,Medium
+Q00001967,C009153,2025-01-22,Customer Service,Web,16.8,Resolved,Low
+Q00001968,C009175,2025-11-07,Call Quality,Web,9.5,Resolved,Medium
+Q00001969,C009185,2026-05-17,Network,Call Center,24.2,Resolved,Low
+Q00001970,C009188,2026-07-15,Internet,Web,11.7,Resolved,Low
+Q00001971,C009191,2026-06-22,Billing,Call Center,15.6,Resolved,Medium
+Q00001972,C009194,2024-06-20,Internet,App,15.4,Open,Low
+Q00001973,C009198,2026-04-17,Call Quality,Web,5.3,Resolved,Low
+Q00001974,C009200,2026-08-12,Recharge,Web,28.4,Resolved,Low
+Q00001975,C009201,2026-05-14,Network,Call Center,6.2,Resolved,Low
+Q00001976,C009206,2025-12-27,Network,App,15.0,Open,Low
+Q00001977,C009209,2026-08-27,Other,Call Center,31.8,Resolved,Medium
+Q00001978,C009210,2026-02-17,Network,Call Center,10.0,Resolved,Low
+Q00001979,C009211,2024-11-18,Customer Service,Call Center,4.9,Resolved,Medium
+Q00001980,C009212,2024-10-02,Call Quality,Web,17.1,Resolved,Low
+Q00001981,C009217,2026-01-02,Internet,Store,24.8,Open,High
+Q00001982,C009217,2024-12-08,Network,Call Center,27.8,Resolved,Low
+Q00001983,C009220,2025-03-25,Call Quality,Call Center,3.9,Resolved,Low
+Q00001984,C009220,2024-12-29,Internet,Call Center,5.2,Resolved,High
+Q00001985,C009226,2026-04-11,Other,Call Center,21.6,Resolved,Low
+Q00001986,C009227,2025-09-12,Network,Web,6.9,Resolved,Low
+Q00001987,C009235,2023-02-20,Call Quality,Web,26.7,Resolved,Low
+Q00001988,C009236,2025-12-29,Internet,Call Center,45.1,Resolved,Medium
+Q00001989,C009245,2025-12-18,Network,Web,9.3,Escalated,Medium
+Q00001990,C009246,2023-11-26,Call Quality,Call Center,33.6,Resolved,High
+Q00001991,C009255,2026-03-12,Customer Service,Call Center,10.8,Resolved,High
+Q00001992,C009260,2026-02-13,Network,Store,25.8,Open,Medium
+Q00001993,C009263,2026-05-20,Internet,App,13.9,Resolved,Low
+Q00001994,C009274,2025-05-10,Network,Store,25.4,Escalated,Medium
+Q00001995,C009290,2026-06-08,Network,Call Center,6.2,Resolved,High
+Q00001996,C009291,2026-01-02,Network,Call Center,6.3,Resolved,Low
+Q00001997,C009293,2026-07-09,Recharge,Call Center,8.9,Resolved,Medium
+Q00001998,C009294,2023-11-19,Recharge,Web,7.4,Resolved,High
+Q00001999,C009294,2024-04-09,Internet,Web,6.5,Resolved,Low
+Q00002000,C009297,2026-08-14,Other,Call Center,11.3,Resolved,Low
+Q00002001,C009301,2025-09-20,Call Quality,Call Center,30.3,Resolved,Low
+Q00002002,C009305,2025-08-25,Network,Call Center,7.0,Resolved,Low
+Q00002003,C009307,2024-11-15,Internet,Call Center,59.0,Resolved,Low
+Q00002004,C009307,2026-05-18,Other,App,2.8,Resolved,Medium
+Q00002005,C009309,2026-01-16,Internet,Call Center,25.4,Escalated,Low
+Q00002006,C009316,2026-02-04,Billing,App,13.7,Resolved,Low
+Q00002007,C009316,2025-12-04,Network,Call Center,16.8,Resolved,Medium
+Q00002008,C009324,2025-11-18,Network,App,7.2,Resolved,Low
+Q00002009,C009324,2023-09-15,Network,Store,19.2,Resolved,Medium
+Q00002010,C009325,2026-02-24,Internet,Call Center,11.9,Resolved,Low
+Q00002011,C009326,2026-06-15,Billing,Call Center,21.3,Resolved,Medium
+Q00002012,C009328,2026-08-06,Call Quality,App,6.8,Resolved,Medium
+Q00002013,C009331,2023-08-07,Internet,Web,14.9,Resolved,Medium
+Q00002014,C009332,2026-07-29,Recharge,Call Center,15.7,Open,Low
+Q00002015,C009335,2025-01-10,Call Quality,Call Center,34.1,Resolved,Low
+Q00002016,C009338,2026-02-16,Billing,Web,48.9,Resolved,Low
+Q00002017,C009350,2026-02-28,Network,Call Center,5.1,Escalated,Medium
+Q00002018,C009353,2026-03-17,Recharge,Call Center,17.7,Resolved,Medium
+Q00002019,C009357,2024-05-22,Billing,Web,13.4,Resolved,Low
+Q00002020,C009359,2025-08-18,Internet,App,5.8,Resolved,High
+Q00002021,C009366,2025-12-28,Billing,App,3.5,Resolved,Medium
+Q00002022,C009385,2025-07-09,Network,Call Center,5.8,Resolved,Low
+Q00002023,C009409,2023-12-25,Network,Call Center,16.5,Resolved,Medium
+Q00002024,C009414,2025-10-09,Internet,Call Center,24.7,Resolved,Low
+Q00002025,C009415,2026-02-17,Internet,Call Center,10.1,Resolved,Medium
+Q00002026,C009415,2026-02-11,Billing,Call Center,37.7,Resolved,Low
+Q00002027,C009416,2026-01-21,Internet,Web,9.8,Resolved,Low
+Q00002028,C009418,2026-06-21,Recharge,Web,4.6,Resolved,Medium
+Q00002029,C009418,2024-12-15,Internet,Store,10.2,Resolved,Low
+Q00002030,C009422,2023-08-05,Internet,Call Center,41.3,Resolved,Low
+Q00002031,C009425,2026-04-12,Recharge,Call Center,5.3,Resolved,Low
+Q00002032,C009431,2026-03-08,Customer Service,Call Center,9.2,Resolved,Low
+Q00002033,C009434,2026-07-25,Billing,Call Center,10.4,Escalated,Low
+Q00002034,C009436,2026-04-18,Other,Call Center,26.1,Resolved,Medium
+Q00002035,C009440,2026-01-20,Internet,Call Center,13.1,Resolved,Low
+Q00002036,C009441,2024-10-25,Other,Call Center,8.3,Resolved,Medium
+Q00002037,C009443,2026-05-03,Customer Service,Call Center,19.8,Resolved,Low
+Q00002038,C009459,2026-02-01,Network,Call Center,22.8,Resolved,Low
+Q00002039,C009465,2025-03-09,Network,Store,26.6,Resolved,Medium
+Q00002040,C009465,2025-06-13,Billing,App,5.2,Open,Medium
+Q00002041,C009473,2026-07-28,Billing,Call Center,5.0,Resolved,Medium
+Q00002042,C009483,2026-05-22,Internet,App,6.4,Resolved,Low
+Q00002043,C009494,2024-08-13,Customer Service,App,6.9,Resolved,Low
+Q00002044,C009495,2024-01-04,Other,Call Center,46.6,Resolved,Medium
+Q00002045,C009497,2026-02-08,Billing,Web,29.7,Open,High
+Q00002046,C009497,2026-04-05,Customer Service,Store,8.1,Resolved,Medium
+Q00002047,C009498,2026-02-26,Network,Call Center,6.4,Resolved,Medium
+Q00002048,C009510,2025-12-25,Network,Call Center,23.7,Escalated,Low
+Q00002049,C009513,2025-10-13,Internet,Web,14.0,Resolved,High
+Q00002050,C009515,2026-02-19,Other,Store,3.8,Resolved,Low
+Q00002051,C009517,2026-05-01,Call Quality,Call Center,15.7,Open,Low
+Q00002052,C009527,2026-04-12,Recharge,Web,12.1,Escalated,Medium
+Q00002053,C009542,2026-02-03,Customer Service,Web,9.9,Resolved,Low
+Q00002054,C009555,2025-10-09,Internet,App,13.5,Resolved,Low
+Q00002055,C009566,2024-12-19,Customer Service,App,9.6,Resolved,Medium
+Q00002056,C009567,2025-11-21,Customer Service,Call Center,25.1,Resolved,Low
+Q00002057,C009606,2025-03-20,Billing,Call Center,12.5,Escalated,Low
+Q00002058,C009607,2026-05-24,Billing,Web,11.9,Resolved,High
+Q00002059,C009607,2025-12-11,Billing,Call Center,34.5,Resolved,Medium
+Q00002060,C009611,2026-02-08,Network,Store,27.2,Resolved,Medium
+Q00002061,C009611,2025-08-02,Customer Service,Call Center,9.5,Resolved,Medium
+Q00002062,C009618,2023-01-01,Network,Call Center,2.9,Open,Medium
+Q00002063,C009619,2025-04-09,Billing,Web,6.7,Resolved,Medium
+Q00002064,C009623,2025-05-23,Internet,Call Center,9.9,Open,Low
+Q00002065,C009624,2026-03-05,Network,Call Center,11.9,Resolved,Low
+Q00002066,C009625,2026-07-29,Billing,Store,7.6,Resolved,Medium
+Q00002067,C009625,2026-06-12,Internet,App,18.4,Escalated,Low
+Q00002068,C009629,2026-04-13,Network,Call Center,13.8,Resolved,Medium
+Q00002069,C009629,2023-07-04,Call Quality,App,6.4,Escalated,Low
+Q00002070,C009630,2026-04-09,Call Quality,App,9.2,Resolved,High
+Q00002071,C009635,2026-05-20,Call Quality,Call Center,17.4,Resolved,Low
+Q00002072,C009635,2026-05-09,Billing,App,15.9,Open,Medium
+Q00002073,C009639,2024-10-04,Internet,Call Center,15.7,Resolved,Medium
+Q00002074,C009645,2026-06-04,Call Quality,App,15.2,Resolved,Low
+Q00002075,C009650,2026-07-17,Call Quality,Call Center,11.0,Resolved,Medium
+Q00002076,C009657,2026-05-08,Billing,Call Center,25.2,Open,Low
+Q00002077,C009659,2026-04-15,Network,Web,11.6,Resolved,Low
+Q00002078,C009672,2026-06-21,Call Quality,App,9.0,Resolved,Medium
+Q00002079,C009676,2026-04-16,Network,Call Center,12.7,Open,Low
+Q00002080,C009680,2026-07-01,Internet,Store,29.6,Resolved,Low
+Q00002081,C009683,2024-11-19,Network,Call Center,29.7,Resolved,Low
+Q00002082,C009686,2024-09-07,Billing,Call Center,20.6,Resolved,Low
+Q00002083,C009693,2026-04-05,Billing,App,6.4,Resolved,Medium
+Q00002084,C009693,2026-03-05,Network,Call Center,8.5,Escalated,Medium
+Q00002085,C009694,2026-03-16,Billing,Web,30.4,Resolved,High
+Q00002086,C009700,2025-09-28,Internet,App,6.7,Resolved,Low
+Q00002087,C009701,2025-06-13,Billing,Call Center,9.0,Resolved,Low
+Q00002088,C009704,2024-06-26,Other,Call Center,4.0,Resolved,Medium
+Q00002089,C009706,2026-06-04,Internet,Call Center,9.3,Resolved,Low
+Q00002090,C009706,2026-05-13,Network,Call Center,18.2,Resolved,Low
+Q00002091,C009712,2023-10-01,Billing,Call Center,11.2,Resolved,Low
+Q00002092,C009732,2026-02-27,Call Quality,Web,15.3,Resolved,Medium
+Q00002093,C009734,2026-03-15,Billing,Web,18.7,Resolved,Low
+Q00002094,C009737,2026-06-10,Internet,Store,6.8,Resolved,Medium
+Q00002095,C009739,2025-07-04,Internet,App,21.4,Open,Medium
+Q00002096,C009747,2026-02-15,Other,App,16.0,Resolved,Medium
+Q00002097,C009753,2026-05-21,Network,Web,18.6,Resolved,High
+Q00002098,C009758,2026-03-24,Other,Web,16.9,Resolved,Low
+Q00002099,C009761,2026-01-01,Network,App,13.1,Resolved,Low
+Q00002100,C009762,2025-08-13,Customer Service,App,8.2,Resolved,Low
+Q00002101,C009778,2026-04-12,Recharge,App,12.6,Resolved,Low
+Q00002102,C009783,2026-04-25,Network,App,25.8,Resolved,Medium
+Q00002103,C009793,2026-05-14,Network,Call Center,18.6,Resolved,Low
+Q00002104,C009799,2022-07-03,Internet,Web,18.3,Resolved,Medium
+Q00002105,C009806,2024-10-09,Recharge,App,15.0,Resolved,Low
+Q00002106,C009810,2026-03-17,Internet,Store,13.1,Resolved,Low
+Q00002107,C009814,2023-04-29,Network,Web,8.8,Resolved,Low
+Q00002108,C009815,2026-03-05,Call Quality,Call Center,17.0,Resolved,Low
+Q00002109,C009821,2026-01-21,Customer Service,Call Center,12.6,Resolved,Medium
+Q00002110,C009826,2026-03-28,Internet,App,20.6,Open,Medium
+Q00002111,C009834,2026-03-05,Call Quality,Call Center,15.8,Resolved,Medium
+Q00002112,C009836,2026-01-29,Network,Store,8.2,Escalated,Medium
+Q00002113,C009837,2024-06-11,Network,App,16.2,Resolved,Low
+Q00002114,C009838,2026-05-16,Recharge,Store,24.2,Open,Medium
+Q00002115,C009841,2025-11-08,Call Quality,Store,27.1,Resolved,Medium
+Q00002116,C009843,2025-03-28,Billing,Call Center,21.1,Resolved,Medium
+Q00002117,C009843,2026-08-28,Internet,Call Center,8.2,Resolved,High
+Q00002118,C009846,2025-01-22,Internet,Web,26.2,Escalated,Low
+Q00002119,C009848,2024-10-22,Network,Web,3.8,Resolved,Low
+Q00002120,C009849,2026-01-30,Billing,App,5.0,Resolved,Low
+Q00002121,C009871,2026-02-04,Network,App,12.7,Resolved,Low
+Q00002122,C009880,2025-09-18,Network,App,2.1,Resolved,Medium
+Q00002123,C009884,2024-12-01,Customer Service,Call Center,19.6,Resolved,Medium
+Q00002124,C009886,2026-08-11,Internet,Call Center,16.4,Escalated,High
+Q00002125,C009889,2026-02-27,Network,Web,13.8,Resolved,Low
+Q00002126,C009892,2023-05-03,Internet,Web,2.2,Resolved,Medium
+Q00002127,C009901,2026-03-15,Internet,Call Center,6.5,Resolved,Medium
+Q00002128,C009905,2025-05-29,Call Quality,App,34.9,Resolved,Low
+Q00002129,C009907,2026-04-05,Network,App,19.1,Escalated,Medium
+Q00002130,C009923,2026-02-22,Billing,App,17.7,Resolved,High
+Q00002131,C009925,2026-05-19,Call Quality,Call Center,20.9,Resolved,Low
+Q00002132,C009927,2025-12-03,Internet,Store,9.2,Resolved,Low
+Q00002133,C009929,2026-06-27,Network,App,8.9,Resolved,Low
+Q00002134,C009931,2025-05-27,Customer Service,Web,17.2,Resolved,Low
+Q00002135,C009932,2026-07-13,Billing,Call Center,21.1,Resolved,Low
+Q00002136,C009935,2023-04-21,Network,Call Center,27.7,Resolved,Low
+Q00002137,C009938,2026-07-10,Internet,App,10.4,Resolved,Low
+Q00002138,C009942,2026-02-17,Call Quality,Call Center,6.4,Resolved,Medium
+Q00002139,C009942,2025-12-07,Customer Service,Call Center,22.1,Resolved,Low
+Q00002140,C009959,2026-06-09,Billing,Call Center,4.8,Resolved,Low
+Q00002141,C009960,2026-01-05,Other,Call Center,16.6,Resolved,Medium
+Q00002142,C009963,2025-12-31,Network,Call Center,39.6,Resolved,Low
+Q00002143,C009965,2026-07-27,Billing,Call Center,25.2,Resolved,Low
+Q00002144,C009967,2025-04-13,Network,Call Center,4.7,Resolved,Low
+Q00002145,C009967,2025-04-30,Call Quality,App,2.8,Resolved,Low
+Q00002146,C009981,2025-12-26,Network,Call Center,36.0,Resolved,Medium
+Q00002147,C009982,2026-05-09,Customer Service,Call Center,6.1,Resolved,Medium
+Q00002148,C009988,2026-08-25,Other,Web,23.6,Resolved,Low
+Q00002149,C009994,2025-07-25,Internet,Web,37.2,Resolved,Low
+Q00002150,C010005,2026-08-22,Network,Call Center,17.5,Resolved,Medium
+Q00002151,C010009,2026-05-25,Internet,Call Center,22.2,Resolved,Medium
+Q00002152,C010009,2026-04-10,Billing,App,15.2,Resolved,Low
+Q00002153,C010009,2026-05-14,Network,Call Center,11.1,Resolved,Low
+Q00002154,C010016,2025-10-28,Call Quality,App,3.9,Resolved,Low
+Q00002155,C010032,2025-04-22,Network,Call Center,20.1,Resolved,Low
+Q00002156,C010034,2025-01-24,Recharge,Call Center,20.5,Open,Low
+Q00002157,C010035,2026-01-26,Network,Store,3.6,Resolved,Medium
+Q00002158,C010041,2025-05-02,Network,Web,23.9,Resolved,Low
+Q00002159,C010045,2026-06-30,Network,App,15.3,Resolved,Low
+Q00002160,C010048,2026-01-20,Billing,App,16.1,Resolved,High
+Q00002161,C010048,2026-01-25,Recharge,Call Center,20.1,Resolved,High
+Q00002162,C010049,2026-04-23,Call Quality,App,11.9,Resolved,Low
+Q00002163,C010053,2025-09-28,Network,App,37.3,Resolved,Medium
+Q00002164,C010057,2026-04-25,Network,Call Center,12.8,Resolved,Low
+Q00002165,C010060,2025-06-04,Internet,Call Center,10.3,Resolved,Medium
+Q00002166,C010060,2022-11-05,Billing,Call Center,30.3,Escalated,Medium
+Q00002167,C010074,2026-06-25,Internet,Web,15.3,Resolved,Medium
+Q00002168,C010079,2026-02-14,Call Quality,App,13.9,Resolved,High
+Q00002169,C010080,2023-11-17,Billing,App,23.6,Resolved,High
+Q00002170,C010082,2025-06-17,Call Quality,App,20.6,Resolved,Medium
+Q00002171,C010084,2026-05-09,Customer Service,App,11.7,Open,Medium
+Q00002172,C010086,2024-05-13,Customer Service,Store,12.7,Open,Low
+Q00002173,C010089,2025-09-23,Recharge,Call Center,41.9,Resolved,Low
+Q00002174,C010091,2026-05-23,Customer Service,Store,20.2,Resolved,Low
+Q00002175,C010092,2025-03-21,Other,Call Center,11.0,Open,Low
+Q00002176,C010092,2025-08-23,Recharge,App,8.5,Resolved,Medium
+Q00002177,C010097,2026-03-06,Call Quality,App,29.9,Open,Medium
+Q00002178,C010098,2022-10-09,Network,Call Center,8.1,Resolved,Medium
+Q00002179,C010108,2023-04-21,Network,Web,2.1,Resolved,Medium
+Q00002180,C010110,2024-09-25,Customer Service,Call Center,16.5,Resolved,Medium
+Q00002181,C010111,2026-05-27,Other,Call Center,11.7,Resolved,Low
+Q00002182,C010116,2026-04-30,Network,Web,3.3,Open,Low
+Q00002183,C010122,2026-01-13,Network,Call Center,13.2,Resolved,Low
+Q00002184,C010125,2026-02-18,Billing,Store,7.2,Open,Low
+Q00002185,C010133,2026-03-20,Internet,App,10.7,Resolved,Low
+Q00002186,C010134,2026-07-12,Internet,App,30.1,Resolved,Low
+Q00002187,C010138,2026-08-23,Network,Web,3.3,Escalated,Low
+Q00002188,C010139,2025-07-13,Billing,Call Center,3.8,Resolved,Low
+Q00002189,C010142,2025-01-23,Internet,Web,14.4,Resolved,Low
+Q00002190,C010150,2026-04-24,Other,App,26.9,Resolved,High
+Q00002191,C010152,2025-01-12,Customer Service,Store,7.1,Resolved,Medium
+Q00002192,C010155,2026-03-24,Network,Call Center,6.6,Resolved,Medium
+Q00002193,C010158,2024-06-09,Network,Call Center,7.9,Resolved,Low
+Q00002194,C010164,2026-06-15,Billing,Call Center,22.5,Resolved,Low
+Q00002195,C010164,2025-02-20,Internet,Call Center,15.4,Resolved,Low
+Q00002196,C010177,2024-05-08,Recharge,Call Center,10.9,Open,Low
+Q00002197,C010181,2026-06-03,Billing,Call Center,3.8,Resolved,Medium
+Q00002198,C010183,2024-07-30,Internet,App,22.1,Resolved,Medium
+Q00002199,C010184,2025-08-22,Billing,App,22.3,Resolved,High
+Q00002200,C010184,2025-07-08,Network,App,17.0,Resolved,Medium
+Q00002201,C010192,2025-11-11,Internet,Call Center,16.7,Resolved,Low
+Q00002202,C010192,2026-08-05,Billing,Call Center,23.8,Resolved,Low
+Q00002203,C010198,2026-03-15,Network,Call Center,15.4,Resolved,Medium
+Q00002204,C010204,2024-12-12,Other,App,19.0,Resolved,Low
+Q00002205,C010204,2026-06-23,Billing,Call Center,14.5,Resolved,Medium
+Q00002206,C010205,2026-05-19,Customer Service,Call Center,8.5,Resolved,High
+Q00002207,C010205,2026-06-16,Other,Call Center,17.6,Resolved,Low
+Q00002208,C010210,2023-11-24,Recharge,Web,5.0,Resolved,Medium
+Q00002209,C010222,2026-04-02,Network,Call Center,12.7,Resolved,Low
+Q00002210,C010232,2026-02-02,Recharge,Web,16.3,Resolved,Medium
+Q00002211,C010235,2025-03-08,Network,App,4.1,Resolved,Low
+Q00002212,C010237,2022-05-02,Network,Call Center,13.0,Resolved,Low
+Q00002213,C010237,2023-07-15,Network,App,26.3,Escalated,Low
+Q00002214,C010240,2026-03-16,Billing,App,47.0,Resolved,High
+Q00002215,C010256,2026-08-17,Internet,Call Center,61.3,Resolved,Low
+Q00002216,C010256,2026-02-12,Recharge,Store,15.2,Resolved,Low
+Q00002217,C010261,2023-12-08,Call Quality,Web,6.6,Resolved,Low
+Q00002218,C010262,2026-03-26,Customer Service,Call Center,18.3,Resolved,Medium
+Q00002219,C010262,2025-04-03,Call Quality,Call Center,2.4,Escalated,Medium
+Q00002220,C010263,2026-05-07,Call Quality,Call Center,8.6,Resolved,Low
+Q00002221,C010265,2026-03-26,Network,Call Center,4.0,Resolved,High
+Q00002222,C010272,2024-12-20,Billing,App,18.8,Resolved,Medium
+Q00002223,C010280,2022-09-15,Network,Call Center,6.0,Resolved,High
+Q00002224,C010281,2026-01-07,Billing,Call Center,9.5,Resolved,Low
+Q00002225,C010283,2026-08-10,Call Quality,Web,19.9,Open,Medium
+Q00002226,C010284,2026-04-06,Billing,Call Center,20.6,Resolved,Low
+Q00002227,C010285,2025-06-22,Network,App,5.6,Resolved,Low
+Q00002228,C010285,2024-03-17,Billing,App,7.4,Resolved,Low
+Q00002229,C010289,2026-05-02,Internet,App,12.2,Resolved,High
+Q00002230,C010293,2026-05-09,Billing,Call Center,38.9,Resolved,Medium
+Q00002231,C010295,2025-12-04,Network,App,15.9,Resolved,Medium
+Q00002232,C010301,2025-08-02,Recharge,Call Center,4.9,Resolved,Low
+Q00002233,C010302,2026-05-28,Network,Call Center,14.6,Resolved,Low
+Q00002234,C010307,2024-05-11,Billing,Call Center,6.2,Resolved,Low
+Q00002235,C010310,2026-08-29,Recharge,Web,12.8,Resolved,Low
+Q00002236,C010328,2026-02-16,Call Quality,App,12.2,Resolved,Medium
+Q00002237,C010331,2025-11-10,Internet,App,5.9,Resolved,Low
+Q00002238,C010331,2026-01-26,Other,Store,8.1,Resolved,Low
+Q00002239,C010332,2025-04-05,Network,App,5.7,Resolved,Low
+Q00002240,C010333,2024-10-21,Call Quality,App,2.8,Escalated,Low
+Q00002241,C010336,2024-12-07,Network,App,6.1,Open,Low
+Q00002242,C010349,2026-06-20,Billing,Call Center,4.4,Resolved,High
+Q00002243,C010350,2026-07-20,Customer Service,App,26.7,Resolved,Low
+Q00002244,C010352,2023-09-16,Other,Call Center,32.2,Resolved,Medium
+Q00002245,C010359,2026-07-08,Billing,Call Center,30.8,Resolved,Medium
+Q00002246,C010361,2026-05-25,Other,App,14.7,Open,Low
+Q00002247,C010365,2026-04-11,Internet,Store,13.2,Resolved,High
+Q00002248,C010369,2024-11-25,Network,Call Center,7.3,Open,Medium
+Q00002249,C010370,2026-01-11,Billing,Web,16.1,Resolved,Low
+Q00002250,C010374,2026-04-21,Billing,Call Center,14.2,Resolved,High
+Q00002251,C010382,2022-06-20,Internet,Web,13.1,Escalated,Low
+Q00002252,C010383,2026-03-27,Call Quality,Call Center,19.6,Resolved,Low
+Q00002253,C010384,2026-05-05,Billing,Web,1.9,Resolved,High
+Q00002254,C010384,2025-09-15,Call Quality,Call Center,34.4,Open,Low
+Q00002255,C010385,2025-10-12,Internet,Call Center,8.6,Resolved,Medium
+Q00002256,C010386,2025-06-08,Other,Call Center,10.9,Resolved,Medium
+Q00002257,C010389,2026-01-28,Network,App,14.4,Open,Low
+Q00002258,C010391,2023-11-29,Other,Call Center,6.2,Resolved,High
+Q00002259,C010391,2026-06-22,Customer Service,Web,10.5,Resolved,Medium
+Q00002260,C010393,2026-07-13,Network,Web,5.6,Resolved,Low
+Q00002261,C010402,2024-10-10,Call Quality,Store,12.3,Escalated,Medium
+Q00002262,C010403,2026-02-16,Call Quality,App,16.1,Resolved,High
+Q00002263,C010407,2026-03-14,Billing,Web,32.6,Resolved,Low
+Q00002264,C010410,2026-05-19,Internet,App,16.5,Resolved,Low
+Q00002265,C010417,2026-02-04,Other,Web,5.4,Resolved,Low
+Q00002266,C010444,2026-05-22,Call Quality,Call Center,31.3,Open,Low
+Q00002267,C010444,2026-04-07,Call Quality,Web,12.0,Resolved,Medium
+Q00002268,C010445,2025-06-28,Internet,App,25.0,Resolved,Low
+Q00002269,C010459,2025-03-08,Billing,App,8.5,Resolved,Low
+Q00002270,C010463,2026-04-03,Internet,App,8.3,Resolved,High
+Q00002271,C010465,2026-07-04,Customer Service,App,17.0,Resolved,Low
+Q00002272,C010471,2026-02-05,Recharge,App,3.2,Resolved,Low
+Q00002273,C010471,2026-08-12,Network,Store,14.3,Open,Medium
+Q00002274,C010471,2026-01-13,Recharge,Web,27.1,Resolved,Medium
+Q00002275,C010472,2025-09-10,Customer Service,App,12.9,Escalated,Low
+Q00002276,C010472,2026-07-23,Internet,Call Center,27.7,Resolved,Low
+Q00002277,C010477,2026-03-05,Call Quality,Call Center,20.5,Resolved,Low
+Q00002278,C010478,2025-10-17,Network,Call Center,23.5,Resolved,Medium
+Q00002279,C010484,2025-04-21,Network,Call Center,21.7,Resolved,Medium
+Q00002280,C010484,2025-05-01,Network,Web,6.0,Resolved,Low
+Q00002281,C010485,2023-04-22,Network,Call Center,5.2,Resolved,Medium
+Q00002282,C010503,2025-07-17,Other,Call Center,10.3,Resolved,Low
+Q00002283,C010508,2026-08-28,Call Quality,Call Center,5.9,Resolved,Medium
+Q00002284,C010510,2024-07-26,Other,App,24.5,Resolved,Medium
+Q00002285,C010510,2025-10-29,Call Quality,Call Center,6.1,Resolved,Medium
+Q00002286,C010515,2026-08-03,Network,App,21.8,Resolved,Low
+Q00002287,C010517,2024-11-11,Network,Store,11.3,Resolved,Low
+Q00002288,C010521,2026-03-30,Other,Store,11.8,Resolved,Medium
+Q00002289,C010523,2026-03-29,Internet,Store,16.8,Resolved,Medium
+Q00002290,C010524,2023-08-23,Network,Call Center,1.8,Open,Medium
+Q00002291,C010528,2026-07-31,Network,Web,22.3,Escalated,Medium
+Q00002292,C010538,2025-01-30,Internet,Call Center,27.1,Resolved,High
+Q00002293,C010539,2026-07-30,Internet,Call Center,37.5,Escalated,Low
+Q00002294,C010542,2025-10-11,Network,Store,24.5,Resolved,Low
+Q00002295,C010548,2025-11-26,Call Quality,Call Center,19.8,Resolved,Low
+Q00002296,C010548,2025-07-29,Billing,Call Center,3.3,Resolved,Low
+Q00002297,C010553,2025-12-03,Other,App,21.3,Resolved,Low
+Q00002298,C010553,2026-01-02,Recharge,Store,3.0,Resolved,Low
+Q00002299,C010558,2026-05-05,Customer Service,Call Center,15.8,Open,Medium
+Q00002300,C010561,2025-07-22,Network,Call Center,6.2,Open,Low
+Q00002301,C010561,2026-01-23,Network,Call Center,10.8,Resolved,Low
+Q00002302,C010566,2024-08-21,Recharge,App,7.2,Resolved,Low
+Q00002303,C010569,2026-02-01,Billing,App,22.4,Open,Low
+Q00002304,C010572,2026-05-03,Network,App,4.7,Resolved,Low
+Q00002305,C010575,2026-08-12,Internet,Call Center,36.3,Resolved,Low
+Q00002306,C010583,2023-08-16,Network,Call Center,20.9,Resolved,Medium
+Q00002307,C010583,2023-02-01,Internet,Web,11.7,Resolved,Low
+Q00002308,C010584,2026-04-24,Internet,Web,23.9,Resolved,Low
+Q00002309,C010585,2025-04-19,Call Quality,Web,7.2,Resolved,Low
+Q00002310,C010596,2026-04-16,Network,Store,29.6,Resolved,Low
+Q00002311,C010597,2026-03-27,Call Quality,App,16.3,Escalated,Low
+Q00002312,C010599,2026-05-10,Call Quality,App,9.9,Open,Medium
+Q00002313,C010603,2026-06-04,Other,Web,5.4,Escalated,Medium
+Q00002314,C010606,2024-09-06,Other,Web,7.0,Open,Low
+Q00002315,C010607,2026-03-21,Billing,Call Center,27.6,Resolved,High
+Q00002316,C010609,2024-12-30,Other,Store,18.1,Open,High
+Q00002317,C010618,2026-03-15,Network,App,12.0,Escalated,Low
+Q00002318,C010620,2026-07-16,Internet,Call Center,18.9,Resolved,Medium
+Q00002319,C010621,2026-04-15,Customer Service,Store,11.3,Resolved,Medium
+Q00002320,C010621,2026-04-25,Call Quality,Call Center,7.9,Open,Medium
+Q00002321,C010621,2025-10-27,Network,Web,10.4,Open,Low
+Q00002322,C010622,2026-06-18,Network,Call Center,13.2,Escalated,Low
+Q00002323,C010632,2026-01-11,Network,Web,15.4,Resolved,High
+Q00002324,C010635,2025-02-06,Billing,Web,15.2,Resolved,Low
+Q00002325,C010636,2025-11-11,Network,Call Center,18.3,Resolved,Low
+Q00002326,C010640,2025-09-16,Internet,App,9.1,Resolved,Medium
+Q00002327,C010645,2026-07-16,Internet,Call Center,21.3,Resolved,Low
+Q00002328,C010648,2026-03-20,Billing,Store,12.1,Resolved,High
+Q00002329,C010650,2026-05-11,Call Quality,Web,5.9,Resolved,High
+Q00002330,C010650,2026-03-18,Customer Service,Call Center,0.7,Resolved,High
+Q00002331,C010650,2026-04-14,Billing,Store,9.7,Open,Low
+Q00002332,C010653,2025-05-13,Internet,Call Center,14.9,Resolved,Medium
+Q00002333,C010672,2025-12-19,Billing,App,10.1,Resolved,Medium
+Q00002334,C010675,2026-04-28,Internet,Web,24.3,Escalated,Low
+Q00002335,C010706,2026-03-22,Call Quality,Web,13.7,Resolved,High
+Q00002336,C010708,2026-06-13,Network,Call Center,5.7,Resolved,Low
+Q00002337,C010722,2026-04-18,Network,Call Center,19.2,Escalated,Low
+Q00002338,C010725,2026-02-21,Other,Store,18.1,Escalated,Medium
+Q00002339,C010732,2026-05-31,Internet,Web,36.3,Resolved,Medium
+Q00002340,C010739,2025-10-18,Call Quality,Call Center,8.0,Resolved,High
+Q00002341,C010739,2023-11-17,Internet,Call Center,12.8,Escalated,Low
+Q00002342,C010744,2026-05-30,Internet,Web,18.0,Resolved,Medium
+Q00002343,C010752,2026-08-17,Call Quality,App,3.3,Resolved,Medium
+Q00002344,C010753,2025-09-27,Internet,Call Center,37.0,Resolved,Medium
+Q00002345,C010753,2026-08-13,Billing,App,39.2,Resolved,Low
+Q00002346,C010753,2026-02-04,Billing,App,1.0,Resolved,Medium
+Q00002347,C010756,2026-02-28,Internet,Call Center,20.8,Escalated,Medium
+Q00002348,C010763,2024-02-17,Other,Web,8.5,Escalated,Low
+Q00002349,C010775,2026-02-14,Network,Call Center,20.1,Open,Medium
+Q00002350,C010779,2026-03-23,Internet,Web,14.2,Resolved,Medium
+Q00002351,C010780,2024-10-30,Network,App,11.4,Resolved,Low
+Q00002352,C010784,2026-05-22,Recharge,Store,7.7,Resolved,Medium
+Q00002353,C010785,2026-06-21,Call Quality,App,20.3,Resolved,High
+Q00002354,C010790,2026-06-17,Customer Service,Call Center,33.8,Resolved,Medium
+Q00002355,C010793,2024-05-12,Network,App,21.5,Resolved,Medium
+Q00002356,C010793,2025-04-19,Internet,App,16.7,Resolved,Medium
+Q00002357,C010794,2026-01-25,Internet,Web,9.6,Open,Medium
+Q00002358,C010795,2026-05-14,Network,Store,22.9,Resolved,Low
+Q00002359,C010800,2024-08-15,Network,Call Center,5.7,Open,Low
+Q00002360,C010804,2023-06-14,Internet,App,10.9,Resolved,Medium
+Q00002361,C010805,2026-04-19,Network,Web,24.9,Resolved,Medium
+Q00002362,C010809,2025-02-24,Billing,Web,16.0,Resolved,Medium
+Q00002363,C010817,2026-03-02,Network,Call Center,13.7,Resolved,Low
+Q00002364,C010822,2026-05-22,Network,Call Center,25.3,Resolved,Low
+Q00002365,C010829,2023-05-27,Call Quality,App,10.2,Resolved,Low
+Q00002366,C010832,2024-02-03,Recharge,App,4.2,Escalated,Medium
+Q00002367,C010835,2026-02-24,Billing,Store,6.0,Resolved,Low
+Q00002368,C010843,2022-09-05,Network,Call Center,9.5,Resolved,Medium
+Q00002369,C010846,2026-05-04,Network,Call Center,9.0,Resolved,Low
+Q00002370,C010847,2026-06-18,Billing,App,25.0,Open,Low
+Q00002371,C010847,2026-07-22,Customer Service,Store,4.1,Resolved,Low
+Q00002372,C010849,2026-02-09,Internet,App,13.9,Open,Low
+Q00002373,C010849,2026-03-22,Call Quality,App,23.9,Resolved,Low
+Q00002374,C010853,2026-06-27,Internet,App,4.2,Open,Low
+Q00002375,C010854,2026-02-10,Call Quality,Call Center,24.8,Resolved,High
+Q00002376,C010855,2026-02-14,Billing,Call Center,18.7,Resolved,Medium
+Q00002377,C010857,2025-08-06,Call Quality,Call Center,15.7,Open,Low
+Q00002378,C010858,2025-07-22,Network,Web,14.6,Resolved,Low
+Q00002379,C010867,2026-05-16,Internet,Call Center,46.8,Resolved,High
+Q00002380,C010868,2025-10-25,Call Quality,Call Center,2.4,Resolved,Medium
+Q00002381,C010868,2026-06-12,Internet,Store,18.1,Escalated,High
+Q00002382,C010874,2026-03-31,Other,Web,10.7,Resolved,Medium
+Q00002383,C010879,2026-04-23,Network,Web,34.3,Resolved,Low
+Q00002384,C010881,2025-04-18,Billing,Call Center,30.8,Resolved,Low
+Q00002385,C010885,2026-07-30,Other,Call Center,9.9,Open,Medium
+Q00002386,C010885,2026-02-09,Internet,Call Center,20.3,Resolved,Low
+Q00002387,C010887,2026-04-13,Internet,Web,8.0,Resolved,Low
+Q00002388,C010904,2025-03-28,Billing,Web,6.4,Open,Low
+Q00002389,C010906,2025-12-19,Internet,Call Center,4.1,Escalated,Low
+Q00002390,C010919,2026-06-19,Network,App,8.6,Resolved,Medium
+Q00002391,C010928,2025-11-23,Customer Service,App,33.3,Resolved,Low
+Q00002392,C010931,2026-01-25,Network,Web,9.6,Resolved,Low
+Q00002393,C010935,2026-01-11,Call Quality,App,13.4,Resolved,Low
+Q00002394,C010940,2026-08-27,Network,Call Center,24.6,Resolved,Low
+Q00002395,C010941,2026-01-17,Call Quality,Call Center,6.9,Resolved,Low
+Q00002396,C010942,2024-07-19,Network,Web,7.6,Resolved,Low
+Q00002397,C010942,2025-09-02,Recharge,Store,4.3,Resolved,Low
+Q00002398,C010943,2025-05-12,Customer Service,Web,11.8,Resolved,Low
+Q00002399,C010947,2023-10-15,Customer Service,Call Center,15.0,Resolved,High
+Q00002400,C010958,2026-05-14,Call Quality,Store,12.2,Resolved,Low
+Q00002401,C010963,2024-03-16,Network,Store,9.3,Resolved,Medium
+Q00002402,C010965,2024-01-04,Billing,App,30.4,Resolved,Medium
+Q00002403,C010965,2024-09-30,Billing,Store,5.8,Resolved,Low
+Q00002404,C010967,2025-01-01,Billing,Call Center,42.6,Resolved,Medium
+Q00002405,C010978,2025-12-30,Recharge,Web,2.5,Open,Medium
+Q00002406,C010978,2026-02-27,Network,Store,30.4,Resolved,Low
+Q00002407,C010985,2024-08-01,Network,Store,24.4,Resolved,Low
+Q00002408,C010987,2026-03-07,Customer Service,App,15.2,Resolved,Low
+Q00002409,C010988,2026-05-03,Call Quality,Call Center,13.0,Open,Low
+Q00002410,C010988,2026-01-30,Other,Web,8.5,Resolved,Low
+Q00002411,C010990,2026-03-12,Internet,Call Center,13.9,Resolved,Low
+Q00002412,C011005,2026-04-16,Internet,Store,16.6,Open,Medium
+Q00002413,C011005,2026-06-20,Other,Web,8.4,Resolved,Medium
+Q00002414,C011014,2025-12-12,Internet,Call Center,3.5,Resolved,Medium
+Q00002415,C011017,2024-11-02,Call Quality,Store,16.3,Resolved,Low
+Q00002416,C011022,2024-08-16,Call Quality,Call Center,8.5,Resolved,Medium
+Q00002417,C011029,2024-03-17,Internet,Store,10.3,Resolved,Medium
+Q00002418,C011032,2025-08-24,Customer Service,Store,16.6,Resolved,Low
+Q00002419,C011033,2026-08-21,Network,Call Center,30.8,Resolved,Medium
+Q00002420,C011045,2026-02-28,Internet,App,21.7,Resolved,High
+Q00002421,C011051,2025-10-02,Internet,App,30.4,Resolved,Medium
+Q00002422,C011054,2024-11-13,Customer Service,Store,8.0,Resolved,High
+Q00002423,C011054,2026-05-24,Internet,App,16.6,Resolved,Medium
+Q00002424,C011058,2025-06-09,Network,App,33.9,Resolved,Low
+Q00002425,C011066,2023-09-24,Other,Web,17.7,Resolved,High
+Q00002426,C011074,2026-04-09,Network,App,6.5,Resolved,Low
+Q00002427,C011076,2025-02-04,Network,Call Center,7.5,Resolved,High
+Q00002428,C011076,2025-07-18,Call Quality,Web,11.9,Resolved,Low
+Q00002429,C011077,2026-04-19,Network,Web,18.0,Resolved,Low
+Q00002430,C011081,2026-03-19,Internet,Store,22.1,Resolved,Low
+Q00002431,C011085,2025-12-12,Internet,Web,15.6,Resolved,Medium
+Q00002432,C011088,2026-03-23,Network,App,11.1,Resolved,Low
+Q00002433,C011097,2026-05-01,Network,Store,16.4,Open,Medium
+Q00002434,C011102,2025-02-15,Billing,App,6.7,Resolved,Medium
+Q00002435,C011103,2026-03-21,Call Quality,App,5.2,Resolved,High
+Q00002436,C011112,2025-07-15,Call Quality,App,5.6,Resolved,Low
+Q00002437,C011115,2024-05-27,Network,App,28.6,Escalated,Medium
+Q00002438,C011115,2025-12-29,Network,Call Center,8.3,Resolved,Low
+Q00002439,C011115,2026-03-27,Network,Web,19.8,Open,Low
+Q00002440,C011122,2023-08-23,Call Quality,Call Center,23.5,Resolved,Low
+Q00002441,C011124,2024-07-24,Recharge,Call Center,15.1,Resolved,Medium
+Q00002442,C011128,2023-10-25,Billing,App,6.3,Resolved,Low
+Q00002443,C011130,2024-11-06,Internet,Call Center,5.8,Resolved,Low
+Q00002444,C011133,2024-11-26,Billing,Call Center,11.9,Resolved,Medium
+Q00002445,C011135,2025-05-17,Internet,Call Center,19.2,Resolved,High
+Q00002446,C011136,2026-05-17,Internet,Call Center,29.1,Open,High
+Q00002447,C011137,2026-05-09,Internet,Web,10.7,Resolved,Medium
+Q00002448,C011138,2024-05-28,Billing,App,23.9,Resolved,Low
+Q00002449,C011138,2022-08-16,Internet,Web,20.6,Resolved,High
+Q00002450,C011141,2025-12-30,Internet,Call Center,11.6,Resolved,Low
+Q00002451,C011142,2024-06-01,Recharge,App,9.3,Resolved,High
+Q00002452,C011145,2026-02-02,Call Quality,Call Center,27.5,Resolved,Medium
+Q00002453,C011173,2025-02-26,Other,Call Center,5.8,Resolved,Medium
+Q00002454,C011175,2026-02-17,Internet,App,13.1,Resolved,Low
+Q00002455,C011177,2024-10-24,Billing,Call Center,11.7,Resolved,Low
+Q00002456,C011186,2026-01-22,Network,Store,6.7,Resolved,Low
+Q00002457,C011192,2025-10-30,Internet,Call Center,12.7,Escalated,Medium
+Q00002458,C011196,2024-03-08,Internet,App,7.5,Resolved,Low
+Q00002459,C011207,2024-02-29,Call Quality,App,7.5,Resolved,Low
+Q00002460,C011216,2023-08-19,Billing,Web,6.7,Escalated,Low
+Q00002461,C011217,2023-08-23,Network,Web,13.4,Resolved,Low
+Q00002462,C011219,2026-07-10,Call Quality,Call Center,16.6,Open,Low
+Q00002463,C011221,2025-10-15,Billing,Web,13.1,Resolved,Low
+Q00002464,C011222,2026-04-10,Other,Call Center,7.7,Open,Low
+Q00002465,C011224,2026-03-20,Customer Service,Call Center,8.7,Resolved,High
+Q00002466,C011224,2024-10-15,Internet,Call Center,7.7,Resolved,Medium
+Q00002467,C011224,2024-09-12,Network,Web,7.6,Escalated,Medium
+Q00002468,C011227,2024-06-26,Call Quality,App,25.8,Open,Medium
+Q00002469,C011238,2026-04-06,Call Quality,App,4.3,Resolved,Low
+Q00002470,C011252,2026-08-21,Other,Web,8.8,Resolved,Low
+Q00002471,C011254,2026-04-21,Call Quality,Store,9.7,Resolved,Medium
+Q00002472,C011258,2024-05-06,Network,Store,30.9,Resolved,Low
+Q00002473,C011267,2024-07-26,Network,Call Center,15.3,Resolved,Medium
+Q00002474,C011268,2023-03-29,Call Quality,Web,8.7,Resolved,Medium
+Q00002475,C011271,2025-05-04,Other,App,4.2,Escalated,Low
+Q00002476,C011273,2024-07-06,Network,Call Center,24.8,Resolved,Low
+Q00002477,C011274,2026-04-03,Internet,Call Center,9.6,Open,Medium
+Q00002478,C011285,2025-05-30,Network,App,17.7,Resolved,Medium
+Q00002479,C011288,2025-12-05,Network,Web,14.6,Escalated,Low
+Q00002480,C011292,2026-06-05,Customer Service,App,17.4,Resolved,Low
+Q00002481,C011302,2026-04-03,Internet,Web,14.4,Resolved,Low
+Q00002482,C011308,2026-08-09,Internet,Web,6.3,Resolved,High
+Q00002483,C011319,2026-06-12,Customer Service,Web,3.2,Resolved,Low
+Q00002484,C011324,2026-03-20,Recharge,Call Center,41.5,Resolved,Medium
+Q00002485,C011325,2025-10-21,Call Quality,Call Center,12.4,Resolved,Low
+Q00002486,C011325,2025-06-27,Internet,Web,15.9,Resolved,Medium
+Q00002487,C011325,2024-10-06,Customer Service,Call Center,15.0,Open,Low
+Q00002488,C011328,2024-06-13,Call Quality,App,9.7,Resolved,Medium
+Q00002489,C011337,2026-01-21,Billing,Web,14.0,Resolved,Low
+Q00002490,C011349,2026-04-15,Internet,Web,12.0,Resolved,Low
+Q00002491,C011354,2026-05-14,Internet,Call Center,8.8,Resolved,Low
+Q00002492,C011356,2023-09-18,Internet,App,8.0,Resolved,Low
+Q00002493,C011376,2026-07-05,Internet,Call Center,4.0,Resolved,Low
+Q00002494,C011378,2026-04-14,Internet,Web,15.3,Resolved,Low
+Q00002495,C011380,2025-08-23,Recharge,Call Center,12.9,Open,Low
+Q00002496,C011381,2026-05-07,Billing,Call Center,11.2,Open,Low
+Q00002497,C011384,2026-02-25,Billing,Call Center,29.9,Resolved,Low
+Q00002498,C011392,2024-08-11,Network,Store,34.7,Open,Low
+Q00002499,C011393,2026-03-17,Call Quality,Web,21.7,Resolved,Low
+Q00002500,C011394,2024-10-22,Customer Service,Call Center,5.5,Resolved,Medium
+Q00002501,C011401,2026-04-20,Customer Service,Call Center,17.0,Resolved,Low
+Q00002502,C011405,2026-06-01,Billing,Call Center,9.2,Resolved,Low
+Q00002503,C011405,2025-09-10,Call Quality,Web,8.1,Resolved,Medium
+Q00002504,C011407,2026-01-07,Network,Store,25.2,Resolved,Medium
+Q00002505,C011408,2025-12-12,Customer Service,Call Center,12.2,Resolved,Low
+Q00002506,C011410,2026-06-23,Internet,Web,14.0,Resolved,High
+Q00002507,C011411,2025-10-09,Call Quality,App,11.5,Resolved,Medium
+Q00002508,C011414,2026-07-24,Other,App,11.1,Resolved,Medium
+Q00002509,C011426,2026-06-24,Internet,App,19.2,Resolved,Low
+Q00002510,C011427,2026-07-17,Internet,Web,3.2,Resolved,Low
+Q00002511,C011432,2023-12-16,Internet,App,19.2,Open,Medium
+Q00002512,C011433,2026-04-21,Customer Service,Call Center,9.0,Resolved,Low
+Q00002513,C011436,2026-05-17,Network,Web,23.1,Resolved,Medium
+Q00002514,C011441,2026-01-29,Internet,Store,15.6,Resolved,Low
+Q00002515,C011442,2024-08-05,Call Quality,Call Center,21.3,Resolved,Low
+Q00002516,C011444,2026-01-06,Billing,Call Center,18.1,Resolved,Low
+Q00002517,C011457,2026-02-19,Network,Web,13.3,Resolved,Medium
+Q00002518,C011458,2025-09-22,Internet,Call Center,42.7,Resolved,High
+Q00002519,C011462,2026-04-20,Network,Call Center,19.4,Escalated,Low
+Q00002520,C011463,2025-07-20,Customer Service,Store,13.7,Resolved,Low
+Q00002521,C011465,2023-10-11,Internet,App,13.7,Resolved,High
+Q00002522,C011465,2024-05-25,Billing,Web,7.3,Resolved,Low
+Q00002523,C011467,2025-12-22,Recharge,Call Center,16.8,Open,Medium
+Q00002524,C011468,2023-11-10,Internet,App,36.0,Resolved,Low
+Q00002525,C011469,2023-12-08,Network,Call Center,8.9,Resolved,Low
+Q00002526,C011472,2026-05-08,Network,Call Center,10.2,Resolved,Low
+Q00002527,C011474,2026-02-05,Network,Call Center,5.8,Resolved,High
+Q00002528,C011476,2025-02-03,Network,Call Center,24.2,Resolved,Low
+Q00002529,C011482,2024-07-13,Other,App,33.6,Resolved,Low
+Q00002530,C011500,2026-01-23,Call Quality,Call Center,13.8,Resolved,Medium
+Q00002531,C011506,2025-06-11,Network,Call Center,19.0,Resolved,Medium
+Q00002532,C011506,2022-10-26,Call Quality,Call Center,12.6,Resolved,High
+Q00002533,C011509,2024-09-14,Billing,Web,14.3,Resolved,Medium
+Q00002534,C011510,2026-02-09,Network,Call Center,23.7,Resolved,Low
+Q00002535,C011517,2025-12-29,Billing,Store,3.6,Resolved,Medium
+Q00002536,C011523,2025-05-20,Internet,Web,22.3,Resolved,Low
+Q00002537,C011523,2024-09-27,Network,Call Center,23.7,Resolved,Low
+Q00002538,C011527,2026-07-12,Recharge,Call Center,10.3,Resolved,Low
+Q00002539,C011535,2026-03-10,Customer Service,Web,4.3,Resolved,Low
+Q00002540,C011537,2024-02-16,Billing,Store,19.7,Resolved,Medium
+Q00002541,C011539,2026-02-18,Billing,App,25.2,Resolved,Low
+Q00002542,C011539,2025-08-21,Call Quality,App,4.8,Resolved,High
+Q00002543,C011544,2026-01-22,Customer Service,Call Center,28.6,Resolved,Medium
+Q00002544,C011546,2025-08-23,Billing,Store,1.3,Resolved,Low
+Q00002545,C011547,2026-01-14,Internet,Store,9.3,Resolved,Medium
+Q00002546,C011560,2026-07-25,Call Quality,App,12.6,Resolved,Low
+Q00002547,C011562,2026-05-04,Internet,Call Center,6.0,Resolved,Low
+Q00002548,C011564,2026-04-25,Other,App,13.9,Resolved,Low
+Q00002549,C011564,2026-05-18,Call Quality,Call Center,13.9,Escalated,Medium
+Q00002550,C011565,2026-02-13,Internet,App,10.3,Resolved,Medium
+Q00002551,C011565,2026-02-12,Internet,Call Center,18.8,Resolved,Low
+Q00002552,C011569,2026-05-08,Billing,Call Center,16.1,Resolved,Low
+Q00002553,C011569,2026-03-26,Network,Call Center,9.4,Resolved,Medium
+Q00002554,C011570,2026-01-21,Recharge,Call Center,11.7,Resolved,Medium
+Q00002555,C011574,2024-05-12,Internet,App,6.5,Resolved,Low
+Q00002556,C011574,2026-06-11,Network,Call Center,12.3,Resolved,Medium
+Q00002557,C011584,2025-10-27,Network,Call Center,25.7,Resolved,Low
+Q00002558,C011591,2025-11-12,Billing,Web,3.4,Resolved,Low
+Q00002559,C011603,2026-04-27,Customer Service,Call Center,9.1,Resolved,Medium
+Q00002560,C011606,2026-08-28,Call Quality,Call Center,4.1,Resolved,Low
+Q00002561,C011621,2023-02-23,Billing,Call Center,20.5,Resolved,Low
+Q00002562,C011628,2026-02-25,Billing,Web,15.8,Resolved,Medium
+Q00002563,C011634,2024-06-03,Internet,Web,20.8,Resolved,Low
+Q00002564,C011637,2025-12-24,Network,App,19.4,Resolved,Low
+Q00002565,C011642,2026-03-03,Billing,Call Center,18.0,Resolved,Low
+Q00002566,C011644,2025-10-29,Customer Service,App,24.3,Resolved,Medium
+Q00002567,C011650,2026-04-29,Recharge,Web,2.1,Resolved,High
+Q00002568,C011655,2026-05-18,Internet,Web,12.3,Open,Low
+Q00002569,C011657,2026-06-18,Billing,App,11.5,Resolved,Medium
+Q00002570,C011659,2026-06-22,Network,Call Center,10.5,Resolved,Low
+Q00002571,C011659,2026-02-24,Customer Service,Call Center,23.3,Resolved,Low
+Q00002572,C011660,2025-11-30,Billing,Web,22.9,Resolved,Low
+Q00002573,C011661,2026-06-25,Call Quality,Web,6.9,Resolved,Medium
+Q00002574,C011661,2025-03-15,Network,Call Center,15.8,Resolved,Medium
+Q00002575,C011668,2025-07-22,Network,Call Center,27.2,Resolved,Medium
+Q00002576,C011677,2025-05-15,Recharge,App,6.5,Resolved,Medium
+Q00002577,C011680,2024-10-19,Internet,Web,3.9,Resolved,Medium
+Q00002578,C011696,2026-04-13,Billing,App,15.3,Resolved,Low
+Q00002579,C011710,2025-10-26,Network,Call Center,13.5,Resolved,Low
+Q00002580,C011710,2026-05-15,Internet,Web,23.9,Resolved,Low
+Q00002581,C011712,2025-04-13,Network,Web,10.0,Resolved,Low
+Q00002582,C011713,2026-07-17,Network,Call Center,28.7,Resolved,Low
+Q00002583,C011721,2024-04-02,Call Quality,Call Center,14.1,Resolved,Medium
+Q00002584,C011721,2026-03-22,Call Quality,App,34.6,Resolved,Medium
+Q00002585,C011734,2026-07-04,Network,App,19.0,Resolved,High
+Q00002586,C011736,2026-06-24,Call Quality,Call Center,10.6,Resolved,Low
+Q00002587,C011740,2025-03-10,Call Quality,Store,8.9,Resolved,Medium
+Q00002588,C011741,2025-11-17,Recharge,App,12.5,Resolved,Low
+Q00002589,C011744,2025-12-09,Call Quality,App,9.8,Resolved,Medium
+Q00002590,C011759,2025-12-28,Network,Call Center,8.6,Resolved,Low
+Q00002591,C011762,2025-12-12,Billing,Call Center,10.8,Open,High
+Q00002592,C011766,2026-05-23,Network,Store,21.5,Escalated,Low
+Q00002593,C011776,2024-08-22,Call Quality,Call Center,10.3,Resolved,Low
+Q00002594,C011784,2026-05-19,Recharge,Web,27.9,Resolved,Low
+Q00002595,C011790,2026-05-14,Call Quality,App,28.7,Resolved,Low
+Q00002596,C011798,2026-04-02,Network,Call Center,8.0,Resolved,Low
+Q00002597,C011800,2026-06-23,Customer Service,Call Center,26.0,Resolved,High
+Q00002598,C011802,2026-01-01,Call Quality,Call Center,3.7,Resolved,Low
+Q00002599,C011806,2023-06-22,Billing,Call Center,19.3,Resolved,Low
+Q00002600,C011810,2025-07-08,Network,App,17.3,Resolved,Low
+Q00002601,C011813,2025-08-20,Network,Web,21.2,Escalated,Low
+Q00002602,C011820,2026-06-29,Customer Service,App,21.2,Resolved,Low
+Q00002603,C011836,2026-06-10,Customer Service,App,8.5,Open,Low
+Q00002604,C011850,2025-06-07,Internet,App,36.9,Resolved,Medium
+Q00002605,C011851,2026-01-13,Network,App,12.0,Escalated,Low
+Q00002606,C011863,2026-06-24,Customer Service,Store,33.2,Resolved,Medium
+Q00002607,C011864,2025-05-10,Call Quality,Call Center,16.7,Resolved,Medium
+Q00002608,C011881,2026-03-09,Network,Store,15.2,Resolved,Low
+Q00002609,C011886,2026-05-25,Internet,App,20.8,Resolved,Medium
+Q00002610,C011890,2026-02-07,Network,Store,8.9,Resolved,Low
+Q00002611,C011890,2026-05-25,Billing,Call Center,20.6,Resolved,Low
+Q00002612,C011899,2026-02-25,Internet,Store,7.7,Resolved,Low
+Q00002613,C011899,2023-01-19,Network,Store,6.6,Resolved,High
+Q00002614,C011914,2025-01-22,Call Quality,Call Center,30.6,Open,Medium
+Q00002615,C011926,2024-03-29,Billing,Store,2.7,Resolved,Low
+Q00002616,C011928,2026-02-12,Call Quality,Call Center,16.0,Resolved,Low
+Q00002617,C011935,2026-03-04,Network,App,16.8,Resolved,Low
+Q00002618,C011939,2026-04-19,Network,Call Center,8.5,Resolved,Medium
+Q00002619,C011949,2026-01-25,Call Quality,Call Center,4.6,Resolved,Low
+Q00002620,C011950,2024-04-19,Network,Web,5.6,Open,Medium
+Q00002621,C011953,2026-04-18,Customer Service,Call Center,11.3,Resolved,Low
+Q00002622,C011953,2026-03-06,Network,Web,21.6,Escalated,Medium
+Q00002623,C011969,2025-04-11,Other,Store,9.8,Resolved,Medium
+Q00002624,C011974,2026-04-09,Call Quality,App,19.6,Resolved,Low
+Q00002625,C011976,2026-06-18,Recharge,Store,34.7,Resolved,Medium
+Q00002626,C011976,2026-07-10,Network,Call Center,8.8,Resolved,Low
+Q00002627,C011983,2025-12-08,Network,Call Center,13.9,Resolved,Medium
+Q00002628,C011988,2026-02-02,Network,Call Center,12.6,Escalated,Low
+Q00002629,C011989,2026-04-19,Network,App,23.2,Resolved,Medium
+Q00002630,C011992,2024-06-02,Call Quality,App,11.2,Resolved,Medium

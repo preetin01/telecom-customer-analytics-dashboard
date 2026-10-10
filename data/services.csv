@@ -1,0 +1,11 @@
+service_id,service_name,service_category,monthly_price
+S001,Prepaid Mobile,Mobile,299
+S002,Postpaid Mobile,Mobile,699
+S003,Broadband,Connectivity,899
+S004,5G Data,Data,399
+S005,International Calling,Voice,249
+S006,Roaming,Travel,299
+S007,OTT Bundle,Entertainment,199
+S008,SMS Pack,Messaging,99
+S009,Family Plan,Mobile,1199
+S010,Enterprise Plan,Business,2499

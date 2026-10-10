@@ -1,0 +1,42 @@
+-- Create a dedicated Date table in Power BI
+Date =
+VAR MinDate = DATE(2022,1,1)
+VAR MaxDate = DATE(2026,8,31)
+RETURN
+ADDCOLUMNS(
+    CALENDAR(MinDate,MaxDate),
+    "Year", YEAR([Date]),
+    "Month Number", MONTH([Date]),
+    "Month", FORMAT([Date],"MMM"),
+    "Year Month", FORMAT([Date],"YYYY-MM"),
+    "Quarter", "Q"&FORMAT([Date],"Q")
+)
+
+-- Relationships:
+-- Date[Date] -> Customers[signup_date] (inactive if Transactions is the active date relationship)
+-- Date[Date] -> Transactions[transaction_date] (active)
+-- Date[Date] -> Usage[usage_date] (active)
+-- Date[Date] -> Complaints[complaint_date] (active)
+-- Date[Date] -> SupportInteractions[interaction_date] (active)
+
+Total Customers = DISTINCTCOUNT(Customers[customer_id])
+Active Customers = CALCULATE([Total Customers], Customers[churn_flag] = 0)
+Churned Customers = CALCULATE([Total Customers], Customers[churn_flag] = 1)
+Churn Rate = DIVIDE([Churned Customers], [Total Customers])
+Revenue = CALCULATE(SUM(Transactions[amount]), Transactions[payment_status] = "Paid")
+ARPU = DIVIDE([Revenue], [Active Customers])
+Total Complaints = DISTINCTCOUNT(Complaints[complaint_id])
+Complaints per Customer = DIVIDE([Total Complaints], DISTINCTCOUNT(Complaints[customer_id]))
+Avg Resolution Hours = AVERAGE(Complaints[resolution_time_hours])
+Avg Data GB = AVERAGE(Usage[data_gb])
+Avg Voice Minutes = AVERAGE(Usage[voice_minutes])
+Avg SMS = AVERAGE(Usage[sms_count])
+High Risk Customers = CALCULATE(DISTINCTCOUNT(HighRisk[customer_id]), HighRisk[risk_level] = "High")
+MoM Revenue Growth % =
+VAR PrevMonth = CALCULATE([Revenue], DATEADD('Date'[Date], -1, MONTH))
+RETURN DIVIDE([Revenue]-PrevMonth, PrevMonth)
+Revenue per Customer = DIVIDE([Revenue], [Total Customers])
+Avg Services per Customer = DIVIDE(COUNTROWS(CustomerServices), DISTINCTCOUNT(CustomerServices[customer_id]))
+Complaint Churn Rate =
+VAR CustomersWithComplaints = CALCULATETABLE(VALUES(Complaints[customer_id]))
+RETURN CALCULATE([Churn Rate], TREATAS(CustomersWithComplaints, Customers[customer_id]))
